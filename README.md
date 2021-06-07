@@ -1,4 +1,4 @@
-# Intro
+# About
 
 X World Games is a decentralized gaming ecosystem built on the Binance Smart Chain . Players and Creators can obtain the X World Games \(XWG\) Tokes through a variety of innovative games. The first game launched on the platform is Dream Card,  Dream Card are digital, collectible characters built on the Binance Smart Chain. They can be bought and sold using XWG token, and bred to create new characters with exciting traits and varying levels of cuteness, powerful cards to battle and trade.
 

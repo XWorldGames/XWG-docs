@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [About](README.md)
 
 ## FAQ
 
@@ -18,9 +18,9 @@
 * [AirDrop](marketplace/untitled.md)
 * [Mystery Box](marketplace/mystery-box.md)
 
-## DAO <a id="dao-1"></a>
+## DAO
 
-* [Introduction](dao-1/dao-introduction.md)
+* [Introduction](dao/dao-introduction.md)
 
 ## Token Metrics
 
