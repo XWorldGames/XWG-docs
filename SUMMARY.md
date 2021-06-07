@@ -1,10 +1,8 @@
 # Table of contents
 
 * [About](README.md)
-
-## FAQ
-
-* [FAQ](faq/faq.md)
+* [FAQ](faq-1.md)
+* [Terms and Conditions](terms-and-conditions.md)
 
 ## Games
 
