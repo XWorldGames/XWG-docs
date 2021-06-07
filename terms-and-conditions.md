@@ -105,13 +105,7 @@ You agree to bear all risks related to your assets and games. You are solely res
 
 #### Guarantee
 
-1. You agree to indemnify and protect X World Games, its directors, officers and employees from any claim, cause of action, demand, loss or damage caused by
-   1. breach of any statement, guarantee or agreement under this agreement.
-   2. Any exhibition, display, distribution or utilization of your assets and games or any of their rights.
-   3. The negligence, negligence or negligence of you, your employees, authorized agents, employees or independent contractors hired by you, or any subcontractors hired by any of the preceding.
-2. You shall comply with all applicable state, municipal and federal laws, regulations, regulations, and regulations that affect your creation of any assets and games or your relationship with X World Games under these terms.
-3. You agree to notify X World Games immediately in writing that you are aware of any legal claims or actions related to these terms, your assets, your games, or your obligations under this agreement.
-4. The warranties, representations, and indemnities contained herein will remain valid after the termination or expiration of these terms or your relationship with X World Games.
+\(a\) You agree to indemnify and protect X World Games, its directors, officers and employees from any claim, cause of action, demand, loss or damage caused by \(i\) breach of any statement, guarantee or agreement under this agreement. \(ii\) Any exhibition, display, distribution or utilization of your assets and games or any of their rights. \(iii\) The negligence, negligence or negligence of you, your employees, authorized agents, employees or independent contractors hired by you, or any subcontractors hired by any of the preceding. \(b\) You shall comply with all applicable state, municipal and federal laws, regulations, regulations, and regulations that affect your creation of any assets and games or your relationship with X World Games under these terms. \(c\) You agree to notify X World Games immediately in writing that you are aware of any legal claims or actions related to these terms, your assets, your games, or your obligations under this agreement. \(d\) The warranties, representations, and indemnities contained herein will remain valid after the termination or expiration of these terms or your relationship with X World Games.
 
 #### Restrictions and Obligations
 
