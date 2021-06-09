@@ -60,3 +60,5 @@ XWGBNBStore
 
 [https://bscscan.com/address/0x1737e635E7b38F6A0299517F042FbA43D84F090C](https://bscscan.com/address/0x1737e635E7b38F6A0299517F042FbA43D84F090C)
 
+XWGWhitelistAirDrop [https://bscscan.com/address/0xD2EDCaAaFCe4A1b526f30FcC87E91502F77e6c4C\#code](https://bscscan.com/address/0xD2EDCaAaFCe4A1b526f30FcC87E91502F77e6c4C#code)
+
