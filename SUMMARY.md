@@ -25,3 +25,7 @@
 * [XWG Token Contract](token-metrics/xwg-token-contract.md)
 * [NFT Contract](token-metrics/xwg-nft-contract.md)
 
+---
+
+* [Mail](mail.md)
+
