@@ -1,4 +1,4 @@
-# Beginner's Guide
+# FAQ
 
 ### What equipment or software do I need to play in Dream Card?
 

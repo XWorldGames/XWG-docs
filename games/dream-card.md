@@ -1,18 +1,18 @@
-# Dream Card
+# Beginner's Guide
 
 ### What is Dream Card?
 
 Dream Card is an NFT battle card game under the X-World-Games ecosystem. Each card has its own unique attributes. You only need to obtain a few cards, you can match and play against the world's players on the Internet.
 
-The project is hosted on [GitHub](https://github.com/X-World-Games). All updates made to this page and all past versions of the rules are recorded here. In addition, the change log on this page describes all rule changes between versions.
+The project is hosted on [GitHub](https://github.com/X-World-Games). All updates made to this page and all past versions of the rules are recorded here. In addition, the changelog on this page describes all rule changes between versions.
 
 You can report issues and discuss changes on the GitHub Issues page or in the DAO on the X-World-Games official website.
 
 DAO is a decentralized governance community, where you can discuss various rules related to the game and propose amendments. All players in the game community can vote on amendments.
 
-## **Game Introduction**
+## **Beginner's Guide**
 
-### I**、 Introduction**
+### **Part 1 - Introduction**
 
 #### **1.1 What is Dream Card？**
 
@@ -22,7 +22,7 @@ The game rules are similar to traditional card board games or online TCG card ga
 
 This document can be used as a reference for the standard rules and instruction for novice players. Before starting the game for the first time, please read the content of this page carefully and prepare the tools you need.
 
-#### **1.2 Entry**
+#### **1.2 Login**
 
 Dream Card can be played on both PC browsers \(such as Chrome or Firefox\) and mobile H5 pages. However, if you want to experience the fun of decentralized games fully, it is recommended to have:
 
@@ -36,29 +36,31 @@ If you don't have a blockchain wallet, you can use your mobile phone number or e
 
 If this is the first time you have heard of blockchain wallets, we recommend reading the [Getting Blockchain Wallet - Starter Guide](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
-If you don't have a card to initiate the game, you have many options:
+### **If you don't have a card to initiate the game, you have many options:**
 
-#### **1.4 Airdrop Event**
+#### **Airdrop Event**
 
 The first airdrop event will be announced sometime after the game launch. First-time players can get a "common" rarity card for free during the event. For details of the event, please stay tuned with the official announcement from X World Games.
 
-#### **1.5 Mysterious 10 Draw**
+#### **Mysterious 10 Draw**
 
 After entering the game, players can spend a small amount of XWG tokens to participate in the Mysterious Draw. Players will get ten cards and have a chance to win high-rarity cards.
 
-#### **1.6 Mystery Box**
+#### **Mystery Box**
 
 Under the [marketplace](https://nft.xwg.games/) page on the [X World Games](https://xwg.games/) official website, players can spend XWG tokens to purchase mystery boxes to get one card and have a chance to win high-rarity cards.
 
-#### **1.7 NFT Trading market**
+#### **NFT Trading market**
 
 Players can sell their unused cards to the [NFT market](https://nft.xwg.games/pages/market/market), and other players can buy them with XWG.
 
-#### **1.8 Game Attributes**
+
+
+### **Part 2 - Game Attributes**
 
 Before entering the game, you also need to know the following:
 
-#### **1.9 Commander role**
+#### **2.1 Commander role**
 
 The role is your account and you are in charge of the card battle. This role has three attributes: level, life, and total cost.
 
@@ -69,71 +71,72 @@ Life: In the card battle, a commander will have a specific amount of life to fig
 Total Cost: The total cost determines the number of cards in the deck.  
 
 
-### II**、** Card Attributes
+### **2.2** Card Attributes
 
-#### **2.1 Quality \(Rarity\)**
+#### **Quality \(Rarity\)**
 
 There are five different rarities of cards in the game: Common, Rare, Epic, Legendary, and Myth, and each rarity is represented by a color. The higher the card quality, the higher the combat attributes and the number of skills players can have.  
 
 
-| Rarity | Color | Max. Skill Slots | Combat Waiting Rounds |
+| **Rarity** | **Color** | **Max. Skill Slots** | **Combat Waiting Rounds** |
 | :--- | :--- | :--- | :--- |
-| Common | White | 0 | 1 |
-| Rare | Green | 1 | 2 |
-| Epic | Blue | 2 | 4 |
-| Legendary | Purple | 3 | 6 |
-| Myth | Orange | 4 | 8 |
+| **Common** | White | 0 | 1 |
+| **Rare** | Green | 1 | 2 |
+| **Epic** | Blue | 2 | 4 |
+| **Legendary** | Purple | 3 | 6 |
+|  |  |  |  |
+| **Myth** | Orange | 4 | 8 |
 
-#### **2.2 Five Elements**
+#### **Five Elements**
 
-Each card has a fixed five-element attribute when it is generated. The five elements are gold![jin](https://lh4.googleusercontent.com/SSK7mR8Wn_zvVr62KnH4CTv_CryNyqlFVqBtPjSpKy0GNJBda4CcgKbB8xHQsqPtTxZgyDBN-IhbF96Yh5ytOv7Mp9o9VvJNoe6ZcIyIMMClISpawUKjK6rYidUd_Es8swOungYV), wood![mu](https://lh6.googleusercontent.com/TosBe7cAe0mY4mXvE0-SoYuHOCZtwI3nwS0YNfk11FQTRgDc_sLSy2wehiKGE2BYitlpE1kcfvwXlmX46JLppDthP0tByGc7xbbh1H_y4kb57ASqFebrcchqCzw0Vhf4Ywk3HcIP), water![shui](https://lh6.googleusercontent.com/QEuKRo67QVN6-FYxPSzpWfCtaio0AXIPPFp_8VEpZDPr4nEp4-H4pBu1ahADHfsgzksGjuqKtrAeAlgDi7uYeE2_QZCYmvwEj0LewY9Oxu_lLPIoOMqnr3hvDlA4pTkXkTsH1nAz), fire![huo](https://lh3.googleusercontent.com/MtqxGLSCGI-mc8Hb-WtOzDVGdVBJBp1KQldfhEELdP_0FUjm3JiF7FAseyeo-GC-yj-nHiJ7wpJPkYsW8Go0N2IeiUks6SBuFjYSkANZosKJ7KmqkGphVxgsv6eQiukbjTuKWTPg), and earth![tu](https://lh6.googleusercontent.com/C1Jr45baG71l1lVauF6fkTCXdqHsFL5NWk7kULB6LJWvj47AUEI3PugE7fvDz18a3qenlJqsWm2pakkdf2l7jlhSJWCqLVSpCwRZSG2oT01Umc3BwOkTQysXsypWYQmELPh44ncv). They interact and restrain each other. Players can construct a powerful deck according to different five elements, and the bond effect can be triggered when a deck has all five elements grouped
+Each card has a fixed five-element attribute when it is generated. The five elements are Gold![jin](https://lh4.googleusercontent.com/SSK7mR8Wn_zvVr62KnH4CTv_CryNyqlFVqBtPjSpKy0GNJBda4CcgKbB8xHQsqPtTxZgyDBN-IhbF96Yh5ytOv7Mp9o9VvJNoe6ZcIyIMMClISpawUKjK6rYidUd_Es8swOungYV), Wood![mu](https://lh6.googleusercontent.com/TosBe7cAe0mY4mXvE0-SoYuHOCZtwI3nwS0YNfk11FQTRgDc_sLSy2wehiKGE2BYitlpE1kcfvwXlmX46JLppDthP0tByGc7xbbh1H_y4kb57ASqFebrcchqCzw0Vhf4Ywk3HcIP), Water![shui](https://lh6.googleusercontent.com/QEuKRo67QVN6-FYxPSzpWfCtaio0AXIPPFp_8VEpZDPr4nEp4-H4pBu1ahADHfsgzksGjuqKtrAeAlgDi7uYeE2_QZCYmvwEj0LewY9Oxu_lLPIoOMqnr3hvDlA4pTkXkTsH1nAz), Fire![huo](https://lh3.googleusercontent.com/MtqxGLSCGI-mc8Hb-WtOzDVGdVBJBp1KQldfhEELdP_0FUjm3JiF7FAseyeo-GC-yj-nHiJ7wpJPkYsW8Go0N2IeiUks6SBuFjYSkANZosKJ7KmqkGphVxgsv6eQiukbjTuKWTPg), and Earth![tu](https://lh6.googleusercontent.com/C1Jr45baG71l1lVauF6fkTCXdqHsFL5NWk7kULB6LJWvj47AUEI3PugE7fvDz18a3qenlJqsWm2pakkdf2l7jlhSJWCqLVSpCwRZSG2oT01Umc3BwOkTQysXsypWYQmELPh44ncv). They interact and restrain each other. Players can construct a powerful deck according to different five elements, and the bond effect can be triggered when a deck has all five elements grouped
 
-#### **2.3 Star Level**
+#### **Star Level**
 
 The star level of all cards initially created is 1st generation and 1 star. Players can use the experience book to increase the star level of the card. After reaching five stars, players need to use the advancement stone to upgrade the card. The highest star level a card star can go to is 3rd generation and 5 stars.
 
-#### **2.4 Skills**
+#### **Skills**
 
 Cards with rarity above rare level have skill slots. Skills can be unlocked by upgrading the cards to the corresponding stars. The skills and level of skills levels are randomly assigned. For more details on skills, please refer to [Skill Configuration Table](https://drive.google.com/file/d/16_5uAJ6WgTdQRtC-yILUOQs4qembYLzF/view?usp=sharing).
 
-#### **2.5 Bond Effect**
+#### **Bond Effect**
 
 One of Dream Card’s game features, which is suitable for advanced players to configure deck strategy. Unique decks such as the five-element combination and hero character combination can trigger the bond effect, which takes effect during battle. The five-element combination bond effect is currently online. Please refer to the [Bond Effect Configuration Table](https://drive.google.com/file/d/1SOHJj_I1xfk_BqbPgSULBAYb3Kvwf7yE/view?usp=sharing) for the bond combination and effect introduction.
 
-#### **2.6 Combat Attributes**
+#### **2.3 Combat Attributes**
 
 ![](https://lh4.googleusercontent.com/kTyV3cSsozpm88Bz7fr6Xy51KFZe4SVkKq3Zkf5ZruOZTVLi_vGjL-GVKSf-u_PKZw_tvkjNAsFbeFn23I3drJ2FLdyxxZe6vnCPupFzGj76QyaYEONElRAndhrJs99UCnOOBDro)
 
-Power：which can be improved through card upgrading, the higher the power value, the greater the chance of winning；
+**Power**：which can be improved through card upgrading, the higher the power value, the greater the chance of winning；
 
-HP：which can be improved through card upgrading, when the card’s HP value is 0, it will be removed from the battle deck；
+**HP**：which can be improved through card upgrading, when the card’s HP value is 0, it will be removed from the battle deck；
 
-Atk：which can be improved through card upgrading, the higher the attack power, the higher the damage value;；
+**Atk**：which can be improved through card upgrading, the higher the attack power, the higher the damage value;；
 
-Recovery：before the card joins the battle, its HP value will be restored once, the higher the value, the higher the HP can be restored；
+**Recovery**：before the card joins the battle, its HP value will be restored once, the higher the value, the higher the HP can be restored；
 
-Accuracy：the higher the accuracy, the lower the opponent's dodge rate when players attack；
+**Accuracy**：the higher the accuracy, the lower the opponent's dodge rate when players attack；
 
-Dodge Rate：the higher the dodge rate, the higher the dodge rate when the opponent attacks；
+**Dodge Rate**：the higher the dodge rate, the higher the dodge rate when the opponent attacks；
 
-Crit Rate：the higher the crit rate, the higher the cirtical strike probability when players attack；
+**Crit Rate**：the higher the crit rate, the higher the cirtical strike probability when players attack；
 
-Crit Multipler：the higher the critical strike multiplier, the higher the damage of the critical strike；
+**Crit Multipler**：the higher the critical strike multiplier, the higher the damage of the critical strike；
 
-Waiting： The card needs to wait for a specific number of rounds in the deck before joining the battle. It can only enter the battle when the waiting value is 0. The higher the quality of the card, the higher the waiting value.
+**Waiting**： The card needs to wait for a specific number of rounds in the deck before joining the battle. It can only enter the battle when the waiting value is 0. The higher the quality of the card, the higher the waiting value.
 
-#### **2.7 Upgrade Props**
+#### **2.4 Upgrade Props**
 
-Experience book: elementary experience props, which can be used to increase the experience value of a character or card;
+**Experience book**: elementary experience props, which can be used to increase the experience value of a character or card;
 
-Experience stone: intermediate experience props, which can be used to increase the experience value of a character or card;
+**Experience stone**: intermediate experience props, which can be used to increase the experience value of a character or card;
 
-Experience potion: advanced experience props, which can be used to increase the experience value of a character or card;
+**Experience potion**: advanced experience props, which can be used to increase the experience value of a character or card;
 
-Advancement stone: card upgrade props;  
+**Advancement stone**: card upgrade props;  
 
 
-### III、Game Tutorial
+### Part 3 - Game Tutorial
 
 If you are entering the game for the first time, it is recommended that you read the following tutorials first:
 
