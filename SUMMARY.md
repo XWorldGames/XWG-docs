@@ -10,6 +10,7 @@
 ## $XWG Token Metrics <a id="token-metrics"></a>
 
 * [Token Utility](token-metrics/token-utility.md)
+* [Token Network](token-metrics/token-network.md)
 * [$XWG Allocation](token-metrics/usdxwg-allocation.md)
 * [Release Schedule](token-metrics/release-schedule.md)
 * [Incentive Mechanism](token-metrics/incentive-mechanism.md)
