@@ -1,10 +1,9 @@
-# Token Network
+# 通证标准
 
 ![XWG on BSC](../.gitbook/assets/xbsc.jpeg)
 
-X World Games has adopted different protocols for the issuance of various digital assets. The XWG token issuance adopts BEP-20 from Binance Smart Chain, given its security, scalability and affordability, we believe this will maximize our player base and lower the shifting cost for our players coming from the conventional gaming world.   
+X World Games 在不同的数位资产发行上采用了不同的协议制度。在XWG通证发行上是采用币安智能链 \(Binance Smart Chain\) 的BEP-20，鉴于其安全性，可扩展性和可承受性，我们相信这将最大程度地扩大我们的玩家用户群，并降低来自传统游戏世界的玩家的转移成本。
 
-
-On the NFT side, they will be based on the BEP-1155 and BEP-721. As part of our infrastructure construction, we're building a layer-2 protocol to scale the NFT trading, which can be integrated with many different development protocols or side-chains to limit the amount of storage and hash power required to validate blocks during a transaction. We aim to facilitate more than 20,000 transactions per second \(TPS\) with instant minting ability, and most importantly, no gas fee. So gamers can finally play, create and trade without worries and experience the true decentralizing gaming.  
+而在NFT发行上则采用以太坊的BEP-1155和BEP-721。作为基础架构建设的一部分，我们正在为其构建第2层协议以扩展NFT交易，该协议可与许多不同的开发协议或侧链集成，以限制在交易期间验证区块所需的存储量和算力。 我们的目标是通过即时铸造功能（最重要的是不收取GAS）促进每秒超过20,000个交易（TPS）。  
 
 

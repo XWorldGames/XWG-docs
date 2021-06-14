@@ -1,27 +1,28 @@
-# Incentive Mechanism
+# 激励制度
 
-The incentive mechanism of X World Games is divided into the following categories:  
-
-
-#### Gaming Incentive
-
-A certain percentage of tokens will be reserved for gaming incentives for players. In the game, players can get different amounts of XWG rewards by engaging in various in-game behaviours. This design can encourage users to participate in the game, expand the community and maintain the ecosystem attractiveness.
-
-#### Creation Incentive
-
-X World Games will provide a platform for most game community builders and believers to express themselves. Game developers can create unique game characters, equipment and props on the platform. In the future, a series of open-source game tools will be provided for developers to create independent game projects, enriching the diversified game ecosystem. Developers will receive XWG as an incentive after successful creation.  
+X World Games 的激励制度大致分为以下几类：  
 
 
-#### Liquidity Incentive
+#### 游戏激励
 
-X World Games will provide various DeFi decentralized financial functions in the game ecosystem, including liquidity mining, staking mining, DeFi collateral loan and Swap. Players can also receive XWG rewards after successfully providing market liquidity for XWG.  
+有一定比例的凭证将保留用于玩家游戏激励。 在游戏中，玩家可借由参与各种不同的游戏行为获得不同数量的XWG奖励。此设计可以鼓励用户参与游戏，扩大社区并保持吸引力。
+
+#### 开发激励
+
+X World Games 将为广大的游戏社区建设者及信仰者提供一个展示自我的平台。游戏开发者可在平台上制作独一无二的游戏角色，装备及道具，未来还将提供一系列的开源游戏工具供开发者制作独立游戏项目，丰富游戏多元化生态。开发者在成功创造后将会依程度获得XWG作为激励。  
 
 
-#### Governance Incentive
+#### 流动性激励
 
-XWG token-holders can participate in community and game governance through decentralized autonomous organization \(DAO\) actions such as proposal voting to determine issues related to platform operation and game development. To encourage users to participate in more governance processes, X world games will reward participants with XWG tokens after each successful voting.
+X World Games 将在游戏生态中提供各种DeFi 去中心化金融功能，包括流动性挖矿，质押挖矿， DeFi借贷抵押及Swap。玩家在成为做市商并且为XWG提供流动性成功后也可得到XWG奖励。  
 
-#### Community Incentive
 
-X World Games will carry out marketing campaigns before or after certain major events, such as new exchange listing or new game launch, in order to raise community awareness and engagement.  Incentive programs like airdrops, bounties, and contests will be announced on the official website or other official channels such as Twitter, Discord, and Medium.
+#### 治理激励
+
+拥有XWG的玩家可通过提案和投票等去中心化自治组织\(DAO\)行为来参与社区及游戏治理，来决定存平台操作和游戏开发相关的问题，并根据XWG持有的数量来确定。为了鼓励用户参与更多的投票过程，成功投票后也将得到XWG奖励。
+
+#### 社群激励
+
+X World Games 将会在游戏上线、或交易所等重大事件前后，举办一些营销宣传活动来扩大玩家参与和社区影响，如空投，预售，游戏竞赛，赏金活动等计划。详细公告将会通过官网以及其他官方社交平台如Twitter、Discord、Medium等进行公布。  
+
 

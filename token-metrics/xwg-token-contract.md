@@ -1,4 +1,4 @@
-# $XWG Token Contract
+# $XWG 通证地址
 
 **Binance Smart Chain**
 

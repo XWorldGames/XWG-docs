@@ -1,6 +1,6 @@
-# Vision
+# 愿景
 
 ![](.gitbook/assets/x-eco.jpeg)
 
-The vision of X World Games is to build a diversified gaming ecosystem that connects traditional game players and the blockchain world and help more game developers who want to enter the crypto space to create the underlying blockchain framework.
+X World Games的愿景是构建一个连接传统游戏玩家和区块链世界的多元游戏生态圈，帮助更多想要进入区块链领域的游戏厂商搭建底层区块链框架。
 

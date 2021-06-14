@@ -1,31 +1,31 @@
 # Table of contents
 
-* [About](README.md)
-* [Vision](vision.md)
-* [History](history.md)
-* [Team](team.md)
-* [Backers](backer.md)
-* [Roadmap](roadmap.md)
+* [关于](README.md)
+* [愿景](vision.md)
+* [历史](history.md)
+* [团队](team.md)
+* [投资机构](backer.md)
+* [路线图](roadmap.md)
 
-## $XWG Token Metrics <a id="token-metrics"></a>
+## $XWG 通证指标 <a id="token-metrics"></a>
 
-* [Token Utility](token-metrics/token-utility.md)
-* [Token Network](token-metrics/token-network.md)
-* [$XWG Allocation](token-metrics/usdxwg-allocation.md)
-* [Token Release Schedule](token-metrics/release-schedule.md)
-* [Incentive Mechanism](token-metrics/incentive-mechanism.md)
-* [$XWG Token Contract](token-metrics/xwg-token-contract.md)
-* [Listed Exchange](token-metrics/listed-exchange.md)
+* [通证用途](token-metrics/token-utility.md)
+* [通证标准](token-metrics/token-network.md)
+* [$XWG 分配计划](token-metrics/usdxwg-allocation.md)
+* [通证释放时程](token-metrics/release-schedule.md)
+* [激励制度](token-metrics/incentive-mechanism.md)
+* [$XWG 通证地址](token-metrics/xwg-token-contract.md)
+* [交易所上市](token-metrics/listed-exchange.md)
 
-## Games
+## 游戏 <a id="games"></a>
 
 * [Dream Card](games/dream-card.md)
 
-## Dream Card Tutorial
+## Dream Card 游戏教学 <a id="dream-card-tutorial"></a>
 
 * [Beginner's Guide](dream-card-tutorial/dream-card.md)
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
-* [Genensis Sale](dream-card-tutorial/marketplace.md)
+* [Genesis Sale](dream-card-tutorial/marketplace.md)
 * [Mystery Box](dream-card-tutorial/mystery-box.md)
 * [NFT Contract](dream-card-tutorial/xwg-nft-contract.md)
 

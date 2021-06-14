@@ -1,8 +1,8 @@
-# Roadmap
+# 路线图
 
-X World Games will be completing a gigantic platform infrastructure plan for the product, including gaming hub, NFT exchange, cross-game protocol port, and a full-function game-creation toolbox. Meanwhile, X World Games will be enriching the gaming ecosystem and community by publishing more games and signing more Authentic anime IPs, and connecting migrated games with pre-established tokenomic systems, and guiding the player community to a full DAO governance.
+X World Games 将会在未来数年内完成一项的庞大平台基础架构计划，包括游戏聚合中心，NFT交易所，DeFi交易机制，跨游戏协议端口和全功能游戏创建工具箱。 同时，我们将通过与外部合作伙伴或内部开发来发布更多款游戏，并签署更多正版动漫IP来丰富我们的游戏生态系统和社区，将帮助这些移植游戏与我们的凭证，矿池和经济系统连接起来，并指引我们的社区迈向一个全面的去中心化治理。
 
-{% embed url="https://drive.google.com/file/d/1hpu5O4\_anRI68tzJj4m09fTkeJPyVZdC/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1gCs6dtacqoz\_PzKa0L0D1y-WxyTTxaqm/view?usp=sharing" %}
 
 
 

@@ -1,4 +1,4 @@
-# Token Utility
+# 通证用途
 
 ## $XWG
 
