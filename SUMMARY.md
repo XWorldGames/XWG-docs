@@ -23,7 +23,6 @@
 ## Dream Card Tutorial <a id="games"></a>
 
 * [Beginner's Guide](games/dream-card.md)
-* [FAQ](games/beginners-guide.md)
 * [Hero Characters](games/character-intros-for-dream-card-ip-heroes.md)
 * [Genensis Sale](games/marketplace.md)
 * [Mystery Box](games/mystery-box.md)
@@ -34,10 +33,11 @@
 
 * [Introduction](dao/dao-introduction.md)
 
-## Contact
+## Support <a id="contact"></a>
 
 * [Globale Communties](contact/globale-communties.md)
 * [Official Email](contact/mail.md)
+* [Audit Report](contact/audit-report.md)
 * [FAQ](contact/faq.md)
 * [Terms and Conditions](contact/terms-and-conditions.md)
 
