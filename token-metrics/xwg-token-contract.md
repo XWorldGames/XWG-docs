@@ -1,4 +1,4 @@
-# $XWG 合约地址
+# $XWG合约地址
 
 **Binance Smart Chain**
 

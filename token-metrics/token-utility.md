@@ -2,23 +2,20 @@
 
 ## $XWG
 
-#### $XWG token is the native token of the X World Games, built based on Binance Smart Chain's BEP-20 standard, with a fixed total supply of 10 billion. 
+**$XWG 代币是 X World Games 的原生通证，基于币安智能链的 BEP-20 标准构建，固定总供应量为 100 亿。**
 
-$XWG is the essential fuel to boost the growth of the X World Games ecosystem.  
+$XWG 是推动 X World Games 生态系统发展的重要燃料。
 
-$XWG holders will be able to claim rewards through participating in the play-to-earn mechanism, DeFi operation and DAO voting process. $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets. Token Utility
+ $XWG 持有者将能够通过参与游戏挖矿机制、DeFi 运营和 DAO 投票过程来领取奖励。 $XWG 也将被接受作为 X World Games Marketplace 的支付货币，玩家可以在这里买卖他们的游戏内 NFT 资产。
 
-## Token Utility
+## 通证用途
 
 ![Token Utility](../.gitbook/assets/tu.png)
 
-| Function | Description |
+| 用途          | 叙述 |
 | :--- | :--- |
-| Purchase | $XWG is the digital token that players use to purchase in-game items and participate in gaming events.  |
-| Mining Pool | Game mining is an approach to enrich the game ecosystem by receiving token rewards from playing games. Token holders could participate in creating new cards and earn a token as a creator from the marketplace. For instance, the X World Games platform would have revenues from card sales, asset sales, transaction fees, etc., and that a fixed proportion would be distributed to the staking pool rewards. NFTs will also have Defi features such as collateralization, repurchase, and burn mechanisms. |
-| Governance | Owning XWG tokens enables players to participate in the governance process through a decentralized autonomous organization \(DAO\), with development proposals and voting structures. Issues related to the platform operations and development could be voted based on the preference of the token holders. In order to encourage users to participate in the voting process, there will also be rewards for voting actions. |
-| Play-to-Earn | There are a proportion of the tokens reserved for user incentives. Players could earn XWG tokens by simply playing games. This design is to encourage user participation in the game, grow the community and maintain platform traction. |
-
-  
-
+| 购买支付 | $XWG 是玩家用来购买游戏内物品和参与游戏活动的数字通证。 |
+| 矿池奖励 | 矿池獎勵是一种通过从玩游戏中获得通证奖励来丰富游戏生态系统的方法。通证持有者可以参与创建新卡并作为创建者从市场中赚取代币。例如，X World Games 平台会从卡牌销售、NFT资产销售、交易费用等方面获得收入，并按照固定比例分配给质押池奖励。还将具有 DeFi矿池功能，例如抵押、回购和销毁机制。 |
+| 去中心化治理 | 拥有 XWG 通证使玩家能够通过去中心化自治组织 \(DAO\) 参与治理过程，并具有开发提案和投票结构。与平台运营和开发相关的问题可以根据代币持有者的偏好进行投票。为了鼓励用户参与投票过程，投票行为也会有奖励。 |
+| 游戏挖矿 | 有一部分通证预留给用户游戏挖矿奖励。玩家可以通过简单地玩游戏来赚取 XWG 通证。这种设计是为了鼓励用户参与游戏，发展社区并保持平台牵引力。  |
 

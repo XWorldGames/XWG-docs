@@ -11,10 +11,10 @@
 
 * [通证用途](token-metrics/token-utility.md)
 * [通证标准](token-metrics/token-network.md)
-* [$XWG 分配计划](token-metrics/usdxwg-allocation.md)
+* [$XWG分配计划](token-metrics/usdxwg-allocation.md)
 * [通证释放时程](token-metrics/release-schedule.md)
 * [激励制度](token-metrics/incentive-mechanism.md)
-* [$XWG 合约地址](token-metrics/xwg-token-contract.md)
+* [$XWG合约地址](token-metrics/xwg-token-contract.md)
 * [交易所上市](token-metrics/listed-exchange.md)
 
 ## 游戏 <a id="games"></a>
