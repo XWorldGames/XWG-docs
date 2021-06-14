@@ -1,6 +1,6 @@
 # Introduction
 
-![](../.gitbook/assets/xiao-wu-gui-logo.png)
+![X World Games DAO](../.gitbook/assets/xiao-wu-gui-logo.png)
 
 ### What is the X World Games Dao?
 

@@ -10,7 +10,7 @@ $XWG holders will be able to claim rewards through participating in the play-to-
 
 ## Token Utility
 
-![](../.gitbook/assets/tu.png)
+![Token Utility](../.gitbook/assets/tu.png)
 
 | Function | Description |
 | :--- | :--- |

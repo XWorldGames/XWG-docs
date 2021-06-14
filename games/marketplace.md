@@ -1,6 +1,6 @@
 # Genensis Sale
 
-![](../.gitbook/assets/gs.jpeg)
+![Genesis Sale](../.gitbook/assets/gs.jpeg)
 
 
 
