@@ -12,9 +12,9 @@
 * [Token Utility](token-metrics/token-utility.md)
 * [Token Network](token-metrics/token-network.md)
 * [$XWG Allocation](token-metrics/usdxwg-allocation.md)
-* [Release Schedule](token-metrics/release-schedule.md)
+* [Token Release Schedule](token-metrics/release-schedule.md)
 * [Incentive Mechanism](token-metrics/incentive-mechanism.md)
-* [$XWG Contract](token-metrics/xwg-token-contract.md)
+* [$XWG Token Contract](token-metrics/xwg-token-contract.md)
 * [NFT Contract](token-metrics/xwg-nft-contract.md)
 
 ## Games <a id="games-1"></a>

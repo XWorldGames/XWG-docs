@@ -44,7 +44,7 @@ While it may be technically possible to use other browsers, we still recommend y
 
 ### Do I need a crypto wallet to play games?
 
-Yes, a crypto wallet like MetaMask or Binance wallet is required. The wallet address is used as your account to ensure the safety of all your digital assets \(such as XWG tokens, NFT cards, virtual props\) and progress in the virtual world.
+Yes, a crypto wallet like [MetaMask](https://metamask.io/) or [Binance](https://www.binance.com/en/wallet-direct) wallet is required. The wallet address is used as your account to ensure the safety of all your digital assets \(such as XWG tokens, NFT cards, virtual props\) and progress in the virtual world.
 
 If you do not have a crypto wallet at the moment, you can use your mobile number or email to register and log in to the game first, and your in-game data will be saved on your local computer \(off-chain\). However, by the time you need to perform on-chain operations with your in-game assets, you still need to bind your account with a crypto wallet address.
 

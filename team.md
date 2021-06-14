@@ -11,6 +11,10 @@
 * personally invested in many successful ventures, mostly in the online gaming, blockchain and clean energy sector.
 * an early investor in HangZhou Zhexin, which is a company focused on the publishing of online cellphone games and was later acquired by Chinese public company Jinke Culture \(SZ: 300459\).
 
+Twitter: [https://twitter.com/XWGfliu](https://twitter.com/XWGfliu)
+
+LinkedIn：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcsean)
+
 #### 
 
 #### Sean Chen, CTO
@@ -19,4 +23,6 @@
 * 15+ years of experience in the online gaming and software sector.
 * 5 years in the crypto market
 * Founder of BlaCat game platform 
+
+LinkedIn：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcsean)
 
