@@ -16,6 +16,7 @@
 * [Incentive Mechanism](token-metrics/incentive-mechanism.md)
 * [$XWG Token Contract](token-metrics/xwg-token-contract.md)
 * [NFT Contract](token-metrics/xwg-nft-contract.md)
+* [Listed Exchange](token-metrics/listed-exchange.md)
 
 ## Games <a id="games-2"></a>
 
