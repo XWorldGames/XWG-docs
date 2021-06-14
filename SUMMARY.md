@@ -15,7 +15,6 @@
 * [Token Release Schedule](token-metrics/release-schedule.md)
 * [Incentive Mechanism](token-metrics/incentive-mechanism.md)
 * [$XWG Token Contract](token-metrics/xwg-token-contract.md)
-* [NFT Contract](token-metrics/xwg-nft-contract.md)
 * [Listed Exchange](token-metrics/listed-exchange.md)
 
 ## Games <a id="games-2"></a>
@@ -28,6 +27,7 @@
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
 * [Genensis Sale](dream-card-tutorial/marketplace.md)
 * [Mystery Box](dream-card-tutorial/mystery-box.md)
+* [NFT Contract](dream-card-tutorial/xwg-nft-contract.md)
 
 ## DAO
 
