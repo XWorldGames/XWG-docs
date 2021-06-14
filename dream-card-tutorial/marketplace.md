@@ -1,4 +1,4 @@
-# Genensis Sale
+# Genesis Sale
 
 ![Genesis Sale](../.gitbook/assets/gs.jpeg)
 
