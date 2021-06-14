@@ -27,8 +27,6 @@
 * [Genensis Sale](games/marketplace.md)
 * [Mystery Box](games/mystery-box.md)
 
-## Marketplace
-
 ## DAO
 
 * [Introduction](dao/dao-introduction.md)
