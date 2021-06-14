@@ -34,7 +34,7 @@
 ## Support <a id="contact"></a>
 
 * [Globale Communties](contact/globale-communties.md)
-* [Official Email](contact/mail.md)
+* [Official Email Domains](contact/mail.md)
 * [Audit Report](contact/audit-report.md)
 * [FAQ](contact/faq.md)
 * [Terms and Conditions](contact/terms-and-conditions.md)
