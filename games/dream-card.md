@@ -1,8 +1,6 @@
 # Beginner's Guide
 
-### 
-
-### What is Dream Card?
+## What is Dream Card?
 
 Dream Card is an NFT battle card game under the X-World-Games ecosystem. Each card has its own unique attributes. You only need to obtain a few cards, you can match and play against the world's players on the Internet.
 
