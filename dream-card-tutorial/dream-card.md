@@ -12,7 +12,7 @@ DAO is a decentralized governance community, where you can discuss various rules
 
 ## **Beginner's Guide**
 
-### **Part 1 - Introduction**
+### **Part 1 - Getting Started**
 
 #### **1.1 What is Dream Card？**
 
