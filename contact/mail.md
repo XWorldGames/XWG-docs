@@ -1,4 +1,4 @@
-# Official Emails
+# Official Email
 
 **X World Games official email domains: xwg.games and mail.xwg.games** 
 

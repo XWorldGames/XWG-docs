@@ -37,7 +37,7 @@
 ## Contact
 
 * [Globale Communties](contact/globale-communties.md)
-* [Official Emails](contact/mail.md)
+* [Official Email](contact/mail.md)
 * [FAQ](contact/faq.md)
 * [Terms and Conditions](contact/terms-and-conditions.md)
 
