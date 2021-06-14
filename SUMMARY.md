@@ -17,27 +17,27 @@
 * [$XWG Token Contract](token-metrics/xwg-token-contract.md)
 * [NFT Contract](token-metrics/xwg-nft-contract.md)
 
-## Games <a id="games-1"></a>
+## Games <a id="games-2"></a>
 
-* [Dream Card](games-1/dream-card.md)
+* [Dream Card](games-2/dream-card.md)
 
-## Dream Card Tutorial <a id="games"></a>
+## Dream Card Tutorial
 
-* [Beginner's Guide](games/dream-card.md)
-* [Hero Characters](games/character-intros-for-dream-card-ip-heroes.md)
-* [Genensis Sale](games/marketplace.md)
-* [Mystery Box](games/mystery-box.md)
+* [Beginner's Guide](dream-card-tutorial/dream-card.md)
+* [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
+* [Genensis Sale](dream-card-tutorial/marketplace.md)
+* [Mystery Box](dream-card-tutorial/mystery-box.md)
 
 ## DAO
 
 * [Introduction](dao/dao-introduction.md)
 
-## Support <a id="contact"></a>
+## Support
 
-* [Global Communties](contact/globale-communties.md)
-* [Official Email Domains](contact/mail.md)
-* [Press Mentioned](contact/press-mentioned.md)
-* [Audit Report](contact/audit-report.md)
-* [FAQ](contact/faq.md)
-* [Terms and Conditions](contact/terms-and-conditions.md)
+* [Global Communties](support/globale-communties.md)
+* [Official Email Domains](support/mail.md)
+* [Press Mentioned](support/press-mentioned.md)
+* [Audit Report](support/audit-report.md)
+* [FAQ](support/faq.md)
+* [Terms and Conditions](support/terms-and-conditions.md)
 
