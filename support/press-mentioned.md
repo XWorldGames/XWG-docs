@@ -1,4 +1,4 @@
-# Press Mentioned
+# 媒体新闻
 
 ### [Bloomberg](https://www.bloomberg.com/press-releases/2021-05-07/x-world-games-secures-1-2-million-funding-led-by-top-crypto-venture-funds)
 

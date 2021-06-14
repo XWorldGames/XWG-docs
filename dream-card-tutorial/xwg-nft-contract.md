@@ -1,4 +1,4 @@
-# NFT Contract
+# NFT 合约地址
 
 | Item | Address |
 | :--- | :--- |

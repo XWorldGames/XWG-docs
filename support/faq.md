@@ -1,71 +1,70 @@
-# FAQ
+# 问与答
 
-### What is the $XWG token?
+### 什么是 $XWG 代币？
 
-$XWG token is the native token of the X World Games, built based on Binance Smart Chain's BEP-20 standard, with a fixed total supply of 10 billion. 
+$XWG 通证是 X World Games 的原生代币，基于币安智能链的 BEP-20 标准构建，固定总供应量为 100 亿。 
 
-$XWG is the essential fuel to boost the growth of the X World Games ecosystem.  
+$XWG 是推动 X World Games 生态系统发展的重要燃料。
 
-$XWG holders will be able to claim rewards through participating in the play-to-earn mechanism, DeFi operation and DAO voting process. $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets. 
-
-
-
-### Where is X World Games' white paper?
-
-The original X World Games white paper be found in the link below:
-
-[X World Games white paper.](https://docsend.com/view/ffa8y2hchd2kwrxk)
+$XWG 持有者将能够通过参与游戏挖矿机制、DeFi 运营和 DAO 投票过程来领取奖励。 $XWG 也将被接受作为 X World Games Marketplace 的支付货币，玩家可以在这里买卖他们的游戏内 NFT 资产。
 
 
 
-### What's the system requirement for X World Games?
+### X World Games 的白皮书在哪里？
 
-Any PC/Mac with Chrome/Firefox browser or any mobile iOS/Android device.
+原始 X World Games 白皮书可在以下链接中找到：
+
+[X World Games white paper](https://docsend.com/view/ffa8y2hchd2kwrxk)
 
 
 
-### Can I play games on X World Games with a mobile device?
+### X World Games 的系统要求是什么？
 
-Yes, we have games that support mobile devices, but some do not.
+任何带有 Chrome/Firefox 浏览器的 PC/Mac 或任何移动 iOS/Android 设备。
 
-‌
 
-### Can I log in to the game from multiple devices?
 
-Yes, there's no device restriction as long as there's one wallet address per login. 
+### 我可以使用移动设备在 X World Games 上玩游戏吗？
+
+是的，我们有支持移动设备的游戏，但有些不支持。
 
 ‌
 
-### Can I use a different browser?
+### 我可以从多个设备登录游戏吗？
 
-While it may be technically possible to use other browsers, we still recommend you to use Chrome or Firefox for the best gaming experience.
-
-
-
-### Do I need a crypto wallet to play games?
-
-Yes, a crypto wallet like [MetaMask](https://metamask.io/) or [Binance](https://www.binance.com/en/wallet-direct) wallet is required. The wallet address is used as your account to ensure the safety of all your digital assets \(such as XWG tokens, NFT cards, virtual props\) and progress in the virtual world.
-
-If you do not have a crypto wallet at the moment, you can use your mobile number or email to register and log in to the game first, and your in-game data will be saved on your local computer \(off-chain\). However, by the time you need to perform on-chain operations with your in-game assets, you still need to bind your account with a crypto wallet address.
+是的，没有设备数量限制，只要每个登录都有一个钱包地址。‌
 
 
 
-### I lost my wallet! What will happen to my account?
+### 我可以使用不同的浏览器吗？
 
-If you lose access to your wallet, you will lose access to all your tokens and NFT items stored in your account, and there is nothing we can do to help. Therefore, please always keep your wallet recovery phrases in a safe and secure location.
+虽然在技术上可以使用其他浏览器，但我们仍然建议您使用 Chrome 或 Firefox 以获得最佳游戏体验。
 
 
 
-### I need support! Where can I contact you?
+### 我需要一个加密钱包来玩游戏吗？
 
-Please join our [Discord](https://discord.gg/YeEkrr2PZQ) or [Twitter](https://twitter.com/xwg_games) community and inquire about your question. Our staffs will reply as soon as possible and friendly community members can help as well. 
+是的，需要像 [MetaMask\(小狐狸\)](https://metamask.io/)或[币安钱包](https://www.binance.com/en/wallet-direct)这样的加密钱包。钱包地址作为您的账户，确保您所有数字资产（如XWG代币、NFT卡、虚拟道具）的安全和在虚拟世界中的进步。 
 
-Also, you are welcome to join our Telegram groups to get supports:
+如果您目前没有加密钱包，您可以先使用手机号或邮箱注册并登录游戏，您的游戏内数据将保存在您的本地计算机上（链下）。但是，当您需要使用您的游戏资产进行链上操作时，您仍然需要将您的帐户与加密钱包地址绑定。
+
+
+
+### 我把我的钱包弄丢了！我的帐户会怎样？
+
+如果您无法访问您的钱包，您将无法访问存储在您帐户中的所有通证和 NFT 资产，我们也无能为力。因此，请始终将您的钱包恢复词保存在安全可靠的地方。
+
+
+
+### 我需要帮助！我在哪里可以联系到你？
+
+请加入我们的 [Discord](https://discord.gg/YeEkrr2PZQ)  或 [Twitter](https://twitter.com/xwg_games) 社区并询问您的问题。我们的工作人员会尽快回复，友好的社区成员也可以提供帮助。 此外，欢迎您加入我们的 Telegram/Wechat 群组以获得支持：
 
 * Telegram Official🌍: [https://t.me/xworldgames](https://t.me/xworldgames)
 * Telegram China🇨🇳: [https://t.me/xwg\_games\_CN](https://t.me/xwg_games_CN)
 * Telegram Vietnam🇻🇳: [https://t.me/xworldgamevn](https://t.me/xworldgamevn)
 * Telegram Vietnam Announcement📢:: [https://t.me/xworldgamevn\_an](https://t.me/xworldgamevn_ann)
+* Wechat: XWG\_GAMES
 
 
 

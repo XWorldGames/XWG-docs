@@ -1,4 +1,4 @@
-# Terms and Conditions
+# 条款与条件
 
 > Last updated: June 1, 2021
 

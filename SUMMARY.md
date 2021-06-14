@@ -14,7 +14,7 @@
 * [$XWG 分配计划](token-metrics/usdxwg-allocation.md)
 * [通证释放时程](token-metrics/release-schedule.md)
 * [激励制度](token-metrics/incentive-mechanism.md)
-* [$XWG 通证地址](token-metrics/xwg-token-contract.md)
+* [$XWG 合约地址](token-metrics/xwg-token-contract.md)
 * [交易所上市](token-metrics/listed-exchange.md)
 
 ## 游戏 <a id="games"></a>
@@ -25,20 +25,20 @@
 
 * [Beginner's Guide](dream-card-tutorial/dream-card.md)
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
-* [Genesis Sale](dream-card-tutorial/marketplace.md)
+* [创世预售](dream-card-tutorial/marketplace.md)
 * [Mystery Box](dream-card-tutorial/mystery-box.md)
-* [NFT Contract](dream-card-tutorial/xwg-nft-contract.md)
+* [NFT 合约地址](dream-card-tutorial/xwg-nft-contract.md)
 
 ## DAO
 
 * [Introduction](dao/dao-introduction.md)
 
-## Support
+## 帮助 <a id="support"></a>
 
-* [Global Communties](support/globale-communties.md)
-* [Official Email Domains](support/mail.md)
-* [Press Mentioned](support/press-mentioned.md)
-* [Audit Report](support/audit-report.md)
-* [FAQ](support/faq.md)
-* [Terms and Conditions](support/terms-and-conditions.md)
+* [全球社群](support/globale-communties.md)
+* [官方电邮](support/mail.md)
+* [媒体新闻](support/press-mentioned.md)
+* [审计报告](support/audit-report.md)
+* [问与答](support/faq.md)
+* [条款与条件](support/terms-and-conditions.md)
 
