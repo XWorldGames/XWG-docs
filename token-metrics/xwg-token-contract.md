@@ -1,4 +1,4 @@
-# XWG Token Contract
+# $XWG Contract
 
 **Binance Smart Chain**
 
