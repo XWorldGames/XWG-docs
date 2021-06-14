@@ -1,4 +1,4 @@
-# Globale Communties
+# Global Communties
 
 * Twitter: [https://twitter.com/xwg\_games](https://twitter.com/xwg_games)
 * Telegram Official🌍: [https://t.me/xworldgames](https://t.me/xworldgames)
