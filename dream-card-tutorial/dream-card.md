@@ -12,7 +12,7 @@ DAO is a decentralized governance community, where you can discuss various rules
 
 ## **Beginner's Guide**
 
-### **Part 1 - Getting Started**
+### **Part 1 - Introduction**
 
 #### **1.1 What is Dream Card？**
 
@@ -36,7 +36,7 @@ If you don't have a blockchain wallet, you can use your mobile phone number or e
 
 If this is the first time you have heard of blockchain wallets, we recommend reading the [Getting Blockchain Wallet - Starter Guide](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
-#### **1.4 If you don't have a card to initiate the game, you have many options:**
+### **If you don't have a card to initiate the game, you have many options:**
 
 #### **Airdrop Event**
 
@@ -71,7 +71,7 @@ Life: In the card battle, a commander will have a specific amount of life to fig
 Total Cost: The total cost determines the number of cards in the deck.  
 
 
-#### **2.2** Card Attributes
+### **2.2** Card Attributes
 
 #### **Quality \(Rarity\)**
 
