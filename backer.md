@@ -1,8 +1,8 @@
-# Backer
+# Backers
 
 ![](.gitbook/assets/backer.jpeg)
 
-| Backer |
+| Backers |
 | :--- |
 | [NGC Ventures](https://www.ngc.fund/) |
 | [PreAngel Fund](http://www.preangelfund.cn/) |
@@ -20,6 +20,7 @@
 | [ChainLink Cap](http://www.chinalinkcap.com/) |
 | [Itsblockchain](https://itsblockchain.com/) |
 | [Consensus Lab](http://consensus-lab.com/) |
+| [Crasolum](https://crasolum.com/) |
 
 
 

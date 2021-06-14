@@ -4,8 +4,9 @@
 * [Vision](vision.md)
 * [History](history.md)
 * [Team](team.md)
-* [Backer](backer.md)
+* [Backers](backer.md)
 * [Roadmap](roadmap.md)
+* [Press Mentioned](press-mentioned.md)
 
 ## $XWG Token Metrics <a id="token-metrics"></a>
 
