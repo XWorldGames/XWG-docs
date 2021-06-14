@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Vision](vision.md)
 * [History](history.md)
+* [X World Games](x-world-games.md)
 * [Team](team.md)
 * [Backers](backer.md)
 * [Roadmap](roadmap.md)
