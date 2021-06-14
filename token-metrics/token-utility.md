@@ -6,7 +6,7 @@
 
 $XWG is the essential fuel to boost the growth of the X World Games ecosystem.  
 
-$XWG holders will be able to claim rewards through participating in the play-to-earn mechanism, DeFi operation and DAO voting process. $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets. Token Utility
+$XWG holders will be able to claim rewards through participating in the play-to-earn mechanism, DeFi operation and DAO voting process. $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets.
 
 ## Token Utility
 
