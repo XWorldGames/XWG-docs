@@ -17,9 +17,9 @@
 * [$XWG Token Contract](token-metrics/xwg-token-contract.md)
 * [Listed Exchange](token-metrics/listed-exchange.md)
 
-## Games <a id="games-2"></a>
+## Games
 
-* [Dream Card](games-2/dream-card.md)
+* [Dream Card](games/dream-card.md)
 
 ## Dream Card Tutorial
 
