@@ -11,12 +11,7 @@
 * personally invested in many successful ventures, mostly in the online gaming, blockchain and clean energy sector.
 * an early investor in HangZhou Zhexin, which is a company focused on the publishing of online cellphone games and was later acquired by Chinese public company Jinke Culture \(SZ: 300459\).
 
-#### Erick Wu, CMO
-
-* a savvy cryptocurrency investor
-* expertise in global investor relationship management
-* mastery of key technologies and systems to manage digital marketing campaigns
-* independently assess, analyze, and evaluate the performance of programs and messages to optimize marketing strategies and influence communication
+#### 
 
 #### Sean Chen, CTO
 
