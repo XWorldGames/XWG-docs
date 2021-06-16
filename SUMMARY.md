@@ -7,6 +7,7 @@
 * [团队](team.md)
 * [投资机构](backer.md)
 * [路线图](roadmap.md)
+* [媒体新闻](press-mentioned.md)
 
 ## $XWG 通证指标 <a id="token-metrics"></a>
 
@@ -39,7 +40,6 @@
 * [全球社群](support/globale-communties.md)
 * [官方电邮](support/mail.md)
 * [空投教学](support/kong-tou-jiao-xue.md)
-* [媒体新闻](support/press-mentioned.md)
 * [审计报告](support/audit-report.md)
 * [问与答](support/faq.md)
 * [条款与条件](support/terms-and-conditions.md)
