@@ -4,7 +4,7 @@
 
 ### via Metamask
 
-**Step1:** Log in with your Metamask wallet
+**Step1:** Log in your Metamask wallet
 
 ![](../.gitbook/assets/meta-airdrop1.png)
 
@@ -63,7 +63,7 @@
 ![](../.gitbook/assets/binance-airdrop3.jpeg)
 
 {% hint style="info" %}
-For the rest of procedures, please refer to the **Via Metamask** section on the top.
+For the rest of the procedures, please refer to the **Via Metamask** section on the top.
 {% endhint %}
 
 
