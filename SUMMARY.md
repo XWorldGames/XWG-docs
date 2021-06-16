@@ -38,6 +38,7 @@
 
 * [Global Communties](support/globale-communties.md)
 * [Official Email Domains](support/mail.md)
+* [Airdrop Help](support/airdrop-help.md)
 * [Press Mentioned](support/press-mentioned.md)
 * [Audit Report](support/audit-report.md)
 * [FAQ](support/faq.md)
