@@ -24,15 +24,15 @@
 
 ## Dream Card 游戏教学 <a id="dream-card-tutorial"></a>
 
-* [Beginner's Guide](dream-card-tutorial/dream-card.md)
+* [新手教学](dream-card-tutorial/dream-card.md)
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
 * [创世预售](dream-card-tutorial/marketplace.md)
-* [Mystery Box](dream-card-tutorial/mystery-box.md)
+* [神秘盒子](dream-card-tutorial/mystery-box.md)
 * [NFT 合约地址](dream-card-tutorial/xwg-nft-contract.md)
 
 ## DAO
 
-* [Introduction](dao/dao-introduction.md)
+* [介绍](dao/dao-introduction.md)
 
 ## 帮助 <a id="support"></a>
 

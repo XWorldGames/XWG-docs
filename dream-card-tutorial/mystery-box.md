@@ -1,6 +1,6 @@
-# Mystery Box
+# 神秘盒子
 
-![Mystery Box](../.gitbook/assets/image%20%281%29.png)
+![&#x795E;&#x79D8;&#x76D2;&#x5B50;](../.gitbook/assets/image%20%281%29.png)
 
-**Mystery Box**, also known as ‘blind box’, is a type of packaging that keeps its cards hidden. They are identical in every way, and nobody, including us, knows which unique character card is inside.
+**神秘盒子**，也称为“盲盒”，是一种隐藏卡片的包装。它们在各方面都相同，包括我们在内的任何人都不知道里面有哪张独特的角色卡。
 
