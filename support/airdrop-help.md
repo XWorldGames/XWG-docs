@@ -4,7 +4,7 @@
 
 ### via Metamask
 
-**Step1:** Log in your Metamask wallet
+**Step 1:** Log in to your Metamask wallet
 
 ![](../.gitbook/assets/meta-airdrop1.png)
 
@@ -12,7 +12,7 @@
 
 ![](../.gitbook/assets/meta-airdrop2.png)
 
-**Step 3:** Connect with your selected wallet address
+**Step 3:** Click to connect with your selected wallet address
 
 ![](../.gitbook/assets/meta-airdrop3.png)
 
@@ -24,12 +24,12 @@
 
 ![](../.gitbook/assets/meta-airdrop5.png)
 
-**Step 6:** Wait for the transaction completed and the congratulation window will pop up
+**Step 6:** Wait for the transaction completed and the **congratulations** window will pop up
 
 ![](../.gitbook/assets/meta-airdrop6.png)
 
 {% hint style="info" %}
- You can check your NFTs  from Trust Wallet, Math Wallet or My Asset page of [xwg.games](https://xwg.games)
+ You can check your NFTs from Trust Wallet, Math Wallet or XWG's [My Asset page](https://nft.xwg.games/pages/props/mnft).
 {% endhint %}
 
 ### Via Trust Wallet \(export to Metamask\)
