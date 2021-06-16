@@ -26,7 +26,7 @@ This document can be used as a reference for the standard rules and instruction 
 
 Dream Card can be played on both PC browsers \(such as Chrome or Firefox\) and mobile H5 pages. However, if you want to experience the fun of decentralized games fully, it is recommended to have:
 
-Blockchain wallets - like MetaMask, Binance Chain wallets
+Blockchain Wallets - like [MetaMask](https://metamask.io/), [Binance Chain Wallet](https://www.binance.com/en/wallet-direct)
 
 The digital wallet is managed as your private account to ensure the safety and security of all your digital assets \(such as XWG tokens, NFT cards, virtual props\) and recorded progress in the blockchain games.
 
@@ -36,7 +36,7 @@ If you don't have a blockchain wallet, you can use your mobile phone number or e
 
 If this is the first time you have heard of blockchain wallets, we recommend reading the [Getting Blockchain Wallet - Starter Guide](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
-### **If you don't have a card to initiate the game, you have many options:**
+**If you don't have a card to initiate the game, you have many options:**
 
 #### **Airdrop Event**
 
@@ -64,14 +64,14 @@ Before entering the game, you also need to know the following:
 
 The role is your account and you are in charge of the card battle. This role has three attributes: level, life, and total cost.
 
-Level: The commander level can be improved through combating or upgraded by purchased materials in the mall. The higher the level, the higher the life and total cost. In addition, the level can unlock the extra card slots in the deck and increase the number of cards can be used in the deck configuration.
+**Level**: The commander level can be improved through combating or upgraded by purchased materials in the mall. The higher the level, the higher the life and total cost. In addition, the level can unlock the extra card slots in the deck and increase the number of cards can be used in the deck configuration.
 
-Life: In the card battle, a commander will have a specific amount of life to fight with the opponent.  When a commander's life is dropped to zero, the battle is concluded as defeated.
+**Life**: In the card battle, a commander will have a specific amount of life to fight with the opponent.  When a commander's life is dropped to zero, the battle is concluded as defeated.
 
-Total Cost: The total cost determines the number of cards in the deck.  
+**Total Cost**: The total cost determines the number of cards in the deck.  
 
 
-### **2.2** Card Attributes
+#### **2.2** Card Attributes
 
 #### **Quality \(Rarity\)**
 
@@ -84,7 +84,6 @@ There are five different rarities of cards in the game: Common, Rare, Epic, Lege
 | **Rare** | Green | 1 | 2 |
 | **Epic** | Blue | 2 | 4 |
 | **Legendary** | Purple | 3 | 6 |
-|  |  |  |  |
 | **Myth** | Orange | 4 | 8 |
 
 #### **Five Elements**
@@ -119,7 +118,7 @@ One of Dream Card’s game features, which is suitable for advanced players to c
 
 **Dodge Rate**：the higher the dodge rate, the higher the dodge rate when the opponent attacks；
 
-**Crit Rate**：the higher the crit rate, the higher the cirtical strike probability when players attack；
+**Crit Rate**：the higher the crit rate, the higher the critical strike probability when players attack；
 
 **Crit Multipler**：the higher the critical strike multiplier, the higher the damage of the critical strike；
 
