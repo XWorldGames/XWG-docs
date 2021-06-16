@@ -7,6 +7,7 @@
 * [Team](team.md)
 * [Backers](backer.md)
 * [Roadmap](roadmap.md)
+* [Press Mentioned](press-mentioned.md)
 
 ## $XWG Token Metrics <a id="token-metrics"></a>
 
@@ -39,7 +40,6 @@
 * [Global Communties](support/globale-communties.md)
 * [Official Email Domains](support/mail.md)
 * [Airdrop Help](support/airdrop-help.md)
-* [Press Mentioned](support/press-mentioned.md)
 * [Audit Report](support/audit-report.md)
 * [FAQ](support/faq.md)
 * [Terms and Conditions](support/terms-and-conditions.md)
