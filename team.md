@@ -19,10 +19,10 @@
 
 #### Sean Chen, CTO
 
-* **经验丰富的资深人士，在编写各种类型的软件代码（例如C ++，Python，Solidity，Go等）方面具有丰富的经验**
-* **在在线游戏和软件领域拥有15年以上的经验。**
-* **投资加密货币市场超5年**
-* **BlaCat游戏平台的创始人**
+* 经验丰富的资深人士，在编写各种类型的软件代码（例如C ++，Python，Solidity，Go等）方面具有丰富的经验
+* 在在线游戏和软件领域拥有15年以上的经验。
+* 投资加密货币市场超5年
+* BlaCat游戏平台的创始人
 
 领英：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcsean)
 
