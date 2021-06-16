@@ -70,7 +70,7 @@ For the rest of the procedures, please refer to the **Via Metamask** section on 
 
 ## Where to Buy BNB?
 
-In order to claim an NFT airdrop, you need to prepare certain BNBs on your wallet account for the gas charge. Please purchase your BNBs from [Binance](https://www.binance.com/), [PancakeSwap](https://pancakeswap.finance/) or any available exchange, and transfer them to your wallet account before claiming an NFT airdrop.
+In order to claim an NFT airdrop on Binance Smart Chain, you need to prepare certain BNBs on your wallet account for the gas charge. Please purchase your BNBs from [Binance](https://www.binance.com/), [PancakeSwap](https://pancakeswap.finance/) or any available exchange, and transfer them to your wallet account before claiming an NFT airdrop.
 
 
 
