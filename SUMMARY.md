@@ -38,6 +38,7 @@
 
 * [全球社群](support/globale-communties.md)
 * [官方电邮](support/mail.md)
+* [空投教学](support/kong-tou-jiao-xue.md)
 * [媒体新闻](support/press-mentioned.md)
 * [审计报告](support/audit-report.md)
 * [问与答](support/faq.md)
