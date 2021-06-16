@@ -19,7 +19,7 @@ LinkedIn：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcse
 
 #### Sean Chen, CTO
 
-* Seasoned veteran with rich experience in writing all types of software codes, such as C++, Python, Solidity, Go, etc
+* A seasoned veteran with rich experience in writing all types of software codes, such as C++, Python, Solidity, Go, etc
 * 15+ years of experience in the online gaming and software sector.
 * 5 years in the crypto market
 * Founder of BlaCat game platform 
