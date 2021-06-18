@@ -13,7 +13,7 @@
 
 推特: [https://twitter.com/XWGfliu](https://twitter.com/XWGfliu)
 
-领英：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcsean)
+领英：[https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/](https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/)
 
 #### 
 
