@@ -13,7 +13,7 @@
 
 Twitter: [https://twitter.com/XWGfliu](https://twitter.com/XWGfliu)
 
-LinkedIn：[https://www.linkedin.com/in/xcsean](https://www.linkedin.com/in/xcsean)
+LinkedIn：[https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/](https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/)
 
 #### 
 
