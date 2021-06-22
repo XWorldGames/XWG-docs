@@ -96,7 +96,7 @@ The star level of all cards initially created is 1st generation and 1 star. Play
 
 #### **Skills**
 
-Cards with rarity above rare level have skill slots. Skills can be unlocked by upgrading the cards to the corresponding stars. The skills and level of skills levels are randomly assigned. For more details on skills, please refer to [Skill Configuration Table](https://drive.google.com/file/d/16_5uAJ6WgTdQRtC-yILUOQs4qembYLzF/view?usp=sharing).
+Cards with rare or above in rarity level will have access to skill slots. Skills can be unlocked by upgrading the cards to the corresponding stars. The skills and level of skills levels are randomly assigned. For more details on skills, please refer to [Skill Configuration Table](https://drive.google.com/file/d/16_5uAJ6WgTdQRtC-yILUOQs4qembYLzF/view?usp=sharing).
 
 #### **Bond Effect**
 
