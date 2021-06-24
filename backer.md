@@ -25,8 +25,9 @@ We are excited to see so many top crypto institutional investors in the space we
 | [Itsblockchain](https://itsblockchain.com/) |
 | [Consensus Lab](http://consensus-lab.com/) |
 | [Crasolum](https://crasolum.com/) |
-
-
+| [LYVC](http://avstarcapital.co/) |
+| [AVSTAR Capital](http://avstarcapital.co/) |
+| [CoinMix](https://twitter.com/coinmix2019) |
 
 
 
