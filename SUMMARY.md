@@ -37,7 +37,7 @@
 
 ## Support
 
-* [Global Communties](support/globale-communties.md)
+* [Global Communities](support/globale-communties.md)
 * [Official Email Domains](support/mail.md)
 * [Airdrop Help](support/airdrop-help.md)
 * [Audit Report](support/audit-report.md)
