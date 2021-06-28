@@ -26,6 +26,8 @@
 ## Dream Card 游戏教学 <a id="dream-card-tutorial"></a>
 
 * [新手教学](dream-card-tutorial/dream-card.md)
+* [游戏功能](dream-card-tutorial/you-xi-jie-mian-gong-neng.md)
+* [游戏机制](dream-card-tutorial/you-xi-ji-zhi.md)
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
 * [创世预售](dream-card-tutorial/marketplace.md)
 * [神秘盒子](dream-card-tutorial/mystery-box.md)
