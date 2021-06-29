@@ -104,7 +104,7 @@
 
 ![](../.gitbook/assets/21.png)
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 ## 以下为待开发**：**
 {% endhint %}
 
