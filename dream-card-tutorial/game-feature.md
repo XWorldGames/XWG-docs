@@ -104,9 +104,7 @@ Click the battle button to enter the battle matching queue, and match according 
 
 ![](../.gitbook/assets/14%20%281%29.png)
 
-
-
-{% hint style="info" %}
+{% hint style="danger" %}
 ## The followings are still under development:
 {% endhint %}
 
