@@ -54,9 +54,7 @@ _BP = current block production_
 
 **Genesis Conquest Staking Reward**
 
-![Table
-
-Description automatically generated with medium confidence](../.gitbook/assets/0%20%281%29.png)
+![](../.gitbook/assets/0%20%281%29.png)
 
 ## Where to get $XWG?
 
