@@ -27,6 +27,7 @@
 
 * [Beginner's Guide](dream-card-tutorial/dream-card.md)
 * [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
+* [Game Feature](dream-card-tutorial/game-feature.md)
 * [Genesis Sale](dream-card-tutorial/marketplace.md)
 * [Mystery Box](dream-card-tutorial/mystery-box.md)
 * [NFT Contract](dream-card-tutorial/xwg-nft-contract.md)
