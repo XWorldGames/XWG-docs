@@ -12,7 +12,7 @@ Transfers are divided into three sections: **recharge, withdraw and record**.
 
 **Record**: View the transaction record of recharge and withdrawal.
 
-![](../.gitbook/assets/0%20%281%29.png)
+![](../.gitbook/assets/0%20%282%29.png)
 
 ### NFT Swap
 
