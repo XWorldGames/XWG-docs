@@ -1,10 +1,10 @@
 # Hero Characters
 
-The essence of XWG Dream Cards \(NFTs\) are released in BEP-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels and other features, which is assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
+The XWG Dream Cards \(NFTs\) are released in BEP-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels, and other features, which are assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
 
 In addition to the collection value of each Dream Card, XWG will also allow the holders of Dream Cards to use them to fight with each other in the XWG Arena, as well as to exchange them into XWG BEP-20 tokens.
 
-Here, let’s have the character introductions to IP heroes in XWG Dream Cards：
+Here, let’s have the character introductions of heroes in XWG Dream Card：
 
 
 
