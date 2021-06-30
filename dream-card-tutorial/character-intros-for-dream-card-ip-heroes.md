@@ -1,168 +1,168 @@
-# Hero Characters
+# 英雄角色
 
-The essence of XWG Dream Cards \(NFTs\) are released in ERC-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels and other features, which is assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
+XWG NFT 梦想卡 \(Dream Card\) 的本质以 BEP-721 格式发布。 每张梦想卡都有品质、元素、技术、HP、ATK、等级等特性，基于XWG团队开发或第三方合作开发的独家IP分配，使每张梦想卡都具有独特性和收藏价值。 除了每张梦想卡的收藏价值外，XWG还将允许梦想卡持有者在XWG 游戏中使用它们进行对战，以及将它们兑换成XWG BEP-20代币。   
+‌  
+下面就让我们一起来看看梦想卡中英雄的人物介绍：
 
-In addition to the collection value of each Dream Card, XWG will also allow the holders of Dream Cards to use them to fight with each other in the XWG Arena, as well as to exchange them into XWG BEP-20 tokens.
 
-Here, let’s have the character introductions to IP heroes in XWG Dream Cards：
 
-**1.Liz**
+#### 1.莉丝
 
-Liz, a mage from the Mortal Realm, had been striving for the Holy Godhead since her childhood. She worshiped witchcraft and loves adventures; although sometimes being reckless, she is self-righteous and enjoys helping others. After she met with Adeline, she realized that she could never surpass such genius in witchcraft. Hence, she began to train magic and martial duals instead. In the final battle of Godhead, she suddenly gave up, and it's all because Margot actually took over her soul.
+凡人国度的法师，自幼便为了夺得天赐神格而努力，她崇拜巫术魔法，喜欢冒险，虽然鲁莽，却心怀正义，喜欢帮助她人，少时见过艾德琳，明白她一生或许都无法在魔法巫术上超越这样一个天才，于是她开启了魔武双修的道路。在最终神格一战中，突然弃权，但实际已经被梦魇摄魂。
 
-**2.Michaela**
+#### 2. 米迦勒
 
-Michaela, as the defender of God,had consolidated the unique and supreme position of God through millions of years of battles and killings. Because of that, she became brutal and ruthless. Once, she was critically injured in the fight with Tiara, but luckily she was rescued by Adeline. Michaela and Adeline then became close friends who shared no secrets. However, Michaela still never wanted to reveal her true identity, God, to Adeline. The reason was that Gods should be merciful and gracious in Adeline's eyes, but Michaela was not one of them. When Tiara reencountered Michaela, they fought into a fierce battle again. This time,  Michaela consumed her life energy to cast the "Dance of Michaela," while Tiara was defeated, Michaela's Godhead was also burned out. After losing her immortality,Michaela had begun to strive to become a generous and great God.
+米迦勒作为神的捍卫者，通过千万年的厮杀来巩固了神唯一且至高无上的地位。同时她也在无尽的战斗中变得冷血无情，但在与提娅一战中被其重伤，幸被巫女艾德琳救下。朝夕相处中，米迦勒和艾德琳成为了无话不谈的好友，但米迦勒却从未透露自己神的身份，因为在艾德琳眼中，神是仁慈而伟大的，而她不是。当提娅寻找到米迦勒之后，在又一番鏖战中，米迦勒燃烧生命使出了米迦勒之舞打败提娅，而其神格也燃烧殆尽。而成为凡人的米迦勒也开始为重新成为一个仁慈而伟大的神而努力。
 
-**3.Gaia**
+#### 3. 盖亚
 
-Gaia, the first God in the world who gave up Godhead, once served as the guardian of the Earth and had the strongest bloodline. She gave up Godhead because she witnessed relentless fightings from Michaela and others like her. So Gaia abandoned her ultimate weapon - the Red Slayer, leaving only the Holy Shield and the Holy Sword with her.
+世界上第一个放弃神格的神，曾作为大地的守护者，拥有最强壮的血脉。她放弃神格的原因也是因为看到了米迦勒一类人的无情征战。所以盖亚抛弃了她的武器赤戮，只留下圣盾和圣剑。
 
-**4.Emani**
+#### 4. 阿蛮
 
-Emani, as a member of the Wild Stream Tribe, had been inspiring and extraordinary since childhood; unfortunately, her figure was slim.  To prove herself, she practiced martial arts very hard. With a coincidence chance, she received guidance from Isabella and which made her strength greatly enhanced. In addition, she met Rosey and got the Hornblade with Rosey's help.  Then, after sneaking into the depths of Fear Mountains guarded by the Wild Stream Tribe, she killed the Giant-horned Dragon-Lion, and gained the respect of the tribe. When she learned that Rosey was going to help her friends in the battle of Godhead, she also volunteered to go along with Rosey. She was a forthright warrior with an persistant will.
+阿蛮作为野流部落的人，从小便励志不凡，可惜自幼纤细，为了证明自己，她苦练武技，因缘际会得到了代行者的指点而实力大增。后又遇蔷薇，在蔷薇的帮助下得到了角刃。后渗入野流部落所守护的恐惧山脉深处，斩杀了巨角龙狮，得到了部落的认可。在得知蔷薇要帮助自己的好友参加神格争夺战时，也自告奋勇，一同前往，是个坚毅直爽的战士。
 
-**5.Amoura**
+#### 5. 无双
 
-Amoura, a warrior with magical immortality,  was the master of Rosey. All she wanted in her whole life was to train a successor who could fully inherit her skills. Luckily, she met Rosey. When she stumbled into the battles of Godhead, she accidentally found that she was in the same race as Tiara - God. Unlike Tiara, who was quite relieved after learning the truth, Amoura believed that God still had a unshirkable responsibility.
+拥有神奇不老特质的战士，作为蔷薇的师傅，无双一辈子只想培养一个能完全继承自己的人，幸运的是她遇到了蔷薇。在偶入神格争夺战中，意外发现自己与提娅竟然的同一族，与提娅得知真相后的释怀不同，无双认为神仍有不可推卸的责任。
 
-**6.Naomi**
+#### 6. 影
 
-Naomi, a shadow behind Siren, had never left her at any given moment because Siren accidentally saved her life in her childhood. Although later she realized the truth that Siren was not the one who saved her life, she still followed Siren and could not turn back.
+作为一直陪伴在塞壬身边的影，她从未离开过她一步，而这一切仅仅是因为她幼时玩乐时，被塞壬意外所救，尽管后来知道当时塞壬并没有救她，但是执着已生，再难回头。
 
-**7.Rosey**
+#### 7. 蔷薇
 
-Rosey, formerly known as Senali, lived in the same village as Adeline. She followed with her master all over the world and began the training since the age of ten. After her accomplishment, she changed the name to Rosey and then started a long journey as a mercenary. She travelled around the world again, with a Lightning Blade in hand, and did everything just for money. Her dream was to build a self-owned legion, but she was tricked by Margot and accidentally involved in the battles of Godhead. After encountering Adeline by chance, she decided to help her childhood playmate to achieve her dream, but she never revealed her true identity. She was also the one who let all participants in the battle of Godhead realize that everything was a plan of the Margot.
+与艾德琳同村的蔷薇原名塞纳丽，在十岁时便随着师傅四处游行，在得到师傅所有真传之后，化名蔷薇，开始了漫长的佣兵之旅。她手持闪电之刃行走世界，一心只为钱，她的梦想就是组建一个属于自己的军团，但却被梦魇算计，意外卷入神格之战中。巧遇艾德琳之后，决定帮助儿时的玩伴完成梦想，但却从未透露过自己的真实身份，也是她让神格争夺战中的参加者明白了一切都是梦魇的计划。
 
-**8.Tiara**
+#### 8.提娅
 
-All people worshiped God and wanted to become God - but Tiara wanted to kill God. Thousands of years ago,  Michaela wiped out Tiara's tribe in a cold massacre. Tiara, the only survivor left, tried hard to seek for the Legend of Gaia and train herself in the long years. To kill God with God's way was her only goal. After obtaining the long-lost weapon - Red Slayer, her power was significantly increased, and then she started her journey of revenge. So far, Tiara is the only mortal who had ever defeated Michaela. During her ongoing acts of revenge, she had discovered that the extermination of her tribe was not that simple.
+世人皆崇拜神，万物皆渴望成神。而提娅却偏偏要弑神。在千年之前，米迦勒在一次征伐中，灭尽提娅一族，幸存下来的提娅苦寻盖亚传说，在漫长岁月中不断修炼自己，用神的方式杀神，这是提娅的目标，她偶得遗失的神器赤戮，自身修为大增，故而开始复仇之旅。目前为止，提娅是唯一曾打败过米迦勒的凡人。在不断的复仇中，她才发现，灭族之灾远没有那么简单。
 
-**9.Kagura**
+#### 9.神乐
 
-Kagura, a witch in the Mortal Realm, was different from Adeline's specialism in magics and Liz's dual in magics and martial-arts.  Kagura developed a method of injecting spells into arrows due to her sickly physique since childhood. Therefore, mortals often debate that whether she or Wind was the strongest archer in the world. However, even until the final battle for Godhead, they had never fought face to face.
+凡人世界的一名巫师，与艾德琳的魔法专修，莉丝魔武双休不同的是，神乐因为其自幼多病的体质，研发了将法术刻入箭中的方法，所以凡人们常有争论，到底她和风行者谁才是天下最强的射手，可就算到了最终的神格争夺战，她们都未曾正面决斗过。
 
-**10.Lamia**
+#### 10.拉米亚
 
-Lamia, who carried an ancient bloodline, had always been the icon of Dawn. She had been outstanding and popular since childhood. She was beautiful, intelligent, kind-hearted and powerful. If Lamia had not announced her refused participation in the battle of Godhead, she might be the most promising one to replace the Guardian and become God. Still, she was fooled by Margot and accidentally joined the battles of Godhead, but she was also the first one who woke up consciously. Even though she knew about the truth behind Margot's master plan, she still maintained her good conscience and made worthy choices.
+怀有远古血脉的拉米亚一直是曙光的崇拜对象，她自幼出众，众星捧月。如果不是她宣布自己绝不会参与神格争夺战，那么她将会代替守望者，成为人们口中最有希望成为神的人。她美丽，聪慧，善良而又强大。因为梦魇的蛊惑，而意外参与神格争夺战，但也是参战人中第一个清醒过来的，虽未曾发觉真相，但一直维持本心，好好生活，成为一个开心的人。
 
-**11.Luna**
+#### 11.兰瑟
 
-Luna, the princess of the Mortal Realm, was passionate about adventures. Luna never shouldered any country governance responsibility, and she just aimlessly explored around the world. Sometimes she fought against injustice, and sometimes she played tricks on local officials. Luna's heart was highly pure, and even Margot could not fool her. She was the only person who managed to make Margot unhappy. After an accidental involvement with the battles for Godhead, she became good friends with almost all the battle participants.
+凡人国度的公主踏上了冒险之旅，兰瑟从开始到最后，都未曾将一个国家的压力放在身上，她四处游玩，没有热河的目标和目的，偶尔路见不平，偶尔捉弄当地的官员。兰瑟的内心极为纯真，就连梦魇都未能蛊惑她，是唯一一个让梦魇垂头丧气的人，误打误撞闯入神格争夺战，和几乎所有参加者成为了好朋友。
 
-**12.Fiona**
+#### 12.菲尔德
 
-Light and dark were never the only opposites, and those who use dark magics were not necessarily evil. Fiona was such an example. Because of one simple reason, her favourite colour of black, Fiona changed her mastery from light magics to dark magics and comprehended them extremely fast. She always travelled around like a forest ranger. She was a loyal friend of Rosey and Wind and a secret admirer to Adeline, who had mastered powerful light magics. However, after observing the red magics cast by Vivianna, she was convinced that chaos magics should not only contain red magics. So she determined to study blue magics, and unexpectedly obtained the Blue Light.
+光明与黑暗并非只有对立，使用暗魔法的人，也不一定就是十恶不赦之人，菲尔德就是这样一个人。菲尔德仅仅因为喜欢黑色，就从学习光魔法转而向暗魔法，且掌握速度极其快。她犹如一个游侠，四处游走，与蔷薇风行者是无话不谈的好友，对掌握强大光魔法的艾德琳也是钦佩有加。在看到光耀施展的红魔法之后 ，坚信混沌魔法不只为红，决心钻研蓝魔法，并意外获得了蓝灯之荧。
 
-**13.Dawn**
+#### 13.曙光
 
-Dawn, who carried an ancient bloodline, had longed for becoming a God since childhood. She had abandoned everything to practice martial arts for long 12 years, only for pursuing her path as an heir of the ancient bloodline. She and her families were afflicted with such a heavy mission, and although her name was Dawn,  she had not seen the sun in these 12 years.    
+作为怀有远古血脉的曙光，自幼便是为了成为神而存在，她摒弃周遭一切，苦练12年的武艺，只为弘扬自己远古一裔，她乃至她的家族，一生都背负着这样沉重的使命，虽为曙光，却有12年的时间未曾见过太阳。
 
-**14. Fiora**   
+#### 14.芙蕾雅
 
-Fiora, the strongest person in the Wild Stream Tribe,  was the only one who encouraged Emani and being a good sister to her in Emani's heart. She had killed countless monsters that escaped from the Fear Mountains and also been in a place full of the miracles of Gaia and Gods. However, she firmly believed that growth should not rely on external. So she refused to adopt Hornblade for growing her strength, and she criticized Emani for doing that. Although she participated in the battle of Godhead, she still protected Emani simply because she believed that people preserved their own values and should not attempt to become others.
+野流部落当下最强之人，也是唯一一个鼓励阿蛮的人，是阿蛮心中的好姐姐。她曾斩杀过无数从恐惧山脉中逃窜出来的妖兽，也曾身处满是盖亚和众神神迹的地方，但她坚信，人的进步，不可借助外物，所以她并没有挪用，也曾斥责过阿蛮不该使用角刃来提升自己的力量，虽然参加了神格争夺战，但还是为了保护阿蛮，因为她认为人有人的价值，不必妄图成为谁。
 
-**15.Valentina**
+#### 15.绯颜
 
-Valentina, a famous general in the Mortal Realm, had honoured countless battle achievements with a horrific long knife in her life. It's also her legendary experience that inspired the adventure for Luna. After unexpectedly discovering the existence of the battle of Godhead, her iron-blooded personality made her get into the fighting without hesitation. Michaela once said Valentina was the person who resembled herself the most.
+作为凡人世界王国的将军，她一生战功无数，一把长刀令人闻风丧胆，也正是她传奇的经历，促使了兰瑟的冒险之旅。意外听说神格争夺战之后，铁血性格让她毫不犹豫地投入了战斗之中，被米迦勒评为最像自己的人。
 
-**16.Ivy**
+#### 16.伊薇
 
-Ivy, a ranger in Mortal Realm, was a proponent of the battle of Godhead. Throughout her ranger travelling, she kept evangelizing about the battle of Godhead to anyone she had seen, but unfortunately, she missed the final battle of Godhead - the battle was already over when she arrived.
+凡人国度的一名游侠，也是神格争夺战的拥趸者，在游侠的过程中不断传播这有关神格争夺战的一切，但是却错过了最后的神格争夺战，在结束之后才匆忙赶到现场。
 
-**17.Artemis**
+#### 17.御神
 
-Each generation of the messenger of God was called Artemis, and they had the supreme authority of all believers under the heaven. Wherever the land God had stepped, there would be God's clones in that place for a limited time. Artemis could summon these God's clones to fight with them. Artemis was forbidden to join the battle of Godhead. However, under the influence of Margot, Artemis of this generation understood that God's clones left in the world were limited, and one day they would be gone. So, it would be better to summon all of them at once, to absorb and accumulate their powers. By doing this, even though they could not be God, they could still become a Demigod. In the battle of Godhead, by acting as the most significant helper of the Margot, they constantly suppressed most of the participants - calmly and ruthlessly.
+每一代神于人间的使者都唤作御神，天下所有信徒的至尊权威。凡神往昔曾过之处，皆有时间留驻的分身，御神便可通过召唤这些过时的分身进行战斗，而御神又是绝对禁止参与神格战斗的，但在梦魇潜移默化的影响下，这一代的御神明白，神遗于世间的过时分身有限，总有耗尽的一天，不如全部召唤，吸收所有力量，积少成多，即便达不到神的高度，也能是个半神。在神格争夺战中，作为梦魇最大的助力不断压制多数参赛者，冷漠而又无情，虔诚而又违逆。
 
-**18.Athena**
+#### 18.西芙
 
-Athena, the hidden God in the world, had shown a powerful recovery ability of herself many times. Although her power was not low, she was not good at fighting. She liked all the beauties in the world but never couldn't understand why people wanted to become God. In God's world,  it was peaceful and quiet, and flowers would never wither, but all these seemed lifeless in her eyes. After encountering Michaela, who had lost her Godhead, she tricked Michaela a couple of times. She headed to the Fear Mountains after witnessed Kana's miracles.
+逗留在世间的隐神，与无数放展现过强大的复苏。虽然战力并不低，但却不善于战斗，喜欢人世间一切美好，始终无法理解渴望成为神的人们的想法，因为神界是冷清的，白色云朵上永不凋谢的花朵，在她看来毫无生机，偶遇消散神格的米迦勒时，曾连续捉弄米迦勒多次，见到阿诺之后，看到其神奇，于是前往恐惧山脉。
 
-**19.Skylar**
+#### 19.夜空
 
-Skylar had always wanted to become the overlord of the sea, and the strongest Pirate King of the Nine Seas frontiers. She was also the first person who took advantage of Margot; when Margot tried to trick Skylar, she promised to give her a pair of secondary wings. As one of the most famous pirates, Skylar tricked her back and took the wings. To prevent Margot from retrieving the wings, Skylar managed to get the Night Whale's gall bladder from the Sea of Bitterness. Since then, she no longer needed sleep nor made dreams.  After the soul-taking from Liz, Margot's first thing to do was to seek revenge on Skylar.
+夜空一直都想成为海上的霸主，做九海疆域最强的海盗王。也是第一个占到梦魇便宜的人，梦魇蛊惑夜空时，许诺给她一对自己副翼。夜空作为最出名的海盗之一，反向蛊惑了梦魇。为了不让梦魇夺回翅膀，夜空与苦海取得夜澪鲸的苦胆，自此一生都不用睡眠，更不会做梦。于是在梦魇摄魂莉莉丝之后获得实体之后，第一时间就是找夜空复仇。
 
-**20.Kim**
+#### 20.风魔
 
-As one of the most famous pirates, Kim was the greatest rival of Skylar for winning the Pirate King title. Kim's pirate ship was the fastest, so even though she had been through numerous battles, her loss was always the least. " Run if you can't beat them" was her winning motto. After seeing Skylar getting the mysterious wings, Kim was inspired to look for this kind of miracle, and that was why she decided to join the fight after learning about the battle of Godhead. Margot once tried to dream-controlled Kim to help her regain her lost wings from Skylar. However, Kim was highly defensive even in her dream, so Margot didn't have a chance and couldn't take advantage of her.
+作为最出名的海盗之一，风魔是夜空成为海盗王的最大的对手，风魔的海盗船在所有海盗中是最快的，所以虽然海盗之间的战斗经历过无数次，但是风魔的损失最小，打不过就跑是她一贯的准则，在见到夜空获得神秘的翅膀之后，风魔励志也要寻找这种奇迹，在听得神格争夺战后，便觉决定参加，梦魇曾蛊惑风魔帮自己夺回翅膀，奈何风魔是个在梦中也极其防备的人，所以梦魇无法趁虚而入。
 
-**21.Gigi**
+#### 21.矶姬
 
-Gigi, the spirit creature in the sea, hated pirates and had fought with many pirates before. Her best friend was killed with the sea urchin taken away, which caused her unstoppable fury, and she then turned the Nine Seas upside down. Gigi was invincible in the water. After following Kim, she decided to participate in the battles of Godhead, but her only purpose was to resurrect the night whale by becoming God.
+海中灵物，对于海盗深恶痛觉，与许多海盗进行过战斗，最好的朋友被斩杀夺走海胆之后，矶姬暴走，搅得九海天翻地覆，跟踪风魔后参加了神格争夺战，于水中从无敌手，只想着成神之后，可以复活自己的夜澪鲸。
 
-**22.Yves**
+#### 22.伊西斯
 
-Yves, the last witness of the battle of Godhead, was not supposed to join any fight as being one of God, but she kept on healing those injured ones in the battles, and no one would be dead. For this reason, people had no fear of joining fights. When she learned the evil plan of Margot through  Michaela's words, she tried to rise into the sky to search for rescue, but unfortunately, she was stopped by Margot. Although she did escape through the powerful aura, both of her wings were cut off.
+神格争夺战最后的证关人，虽然作为神，不该参与战斗，但是一直给默默失败的人疗伤，这也早场了历年来的战斗从未有人死亡，也造成了没有人畏惧参加战斗，因为不会死，通过米迦勒的口知道了梦魇的计划，妄图飞升天空寻找救援，却被梦魇封锁，虽然通过强大的气息逃脱，却被剪了双翼。
 
-**23.Isabella**
+#### 23.代行者
 
-Isabella, the most famous one in Three Naomis, never hid herself from the world. All countries respected Isabella because of her relentless fighting for unfairness and injustice. She was dedicated to the search for miracles throughout her life. She was also the one who had always been skeptical about the battle of Godhead from the beginning. During the battle of Godhead, she revealed the true existence of Margot.
+三位一体，如影形随！三影中最出名的存在，因为她从不隐匿于人世间，她行走世间，是每个国度都尊重的行走，所过之处，如有不平，必代王权，无情处治。一生致力于寻找神迹，是从一开始便对神格争夺战保持怀疑的人，无数次接近真相。在神格争夺战中，她说了梦魇的存在。
 
-**24.Sophia**
+#### 24.苏尔
 
-Sophia, a native warrior in the Burning Flame Mountains, obtained the Dragon Flame Crystals from the inside of the flames and turned them into weapons. She desired to lead her tribe to the Land of Fertility. After learning the battle of Godhead from Ivy, she went there alone and later became a close friend of Fiora.
+焚焰山域的土著战士，于火焰深处获得龙炎精晶，并将其打造成武器。渴望带领部落前往富饶之地，于伊薇口中得知神格争夺战，于是单枪匹马前往，后与费蕾雅成为好友。
 
-**25.Lucinda**
+#### 25.后卿
 
-Lucinda, the entity condensed from the phantoms of demonic beasts that were killed in the Fear Mountains, had neither body temperature nor sense of pain. As she was always bloodthirsty and combative, after Emani and Fiora left the tribe, she went out of the mountains in a frenzy and killed everyone in the Wild Stream Tribe. Lucinda accused human-form fox spirits of forgetting their originality and fought fiercely with them. She didn't care about the battle of Godhead; all she wanted was to wipe out the Wild Stream Tribe.
+恐惧山脉被斩杀的妖兽怨灵聚集凝结成的实体，没有体温，没有痛觉，嗜血好战，在阿蛮芙蕾雅等人离开部落之后，出山大杀野流部落。怒斥幻化人形的狐妖忘本，与其恶战，根本不关心神格争夺战，只想杀死野流部落一脉。
 
-**26.Blanc**
+#### 26.白
 
-Blanc, coming from the vast grassland, was tough, sturdy, combative, and invincible. She had earned the most of honours in her tribe. Blanc had single-handed killed the iron-winged eagle and thorn-armoured beast. After hearing about the outside world from rangers, she headed out immediately by herself. She had crossed snowy mountains and seas, fought fiercely against pirate mercenaries, and was once favoured by Valentina, who wished to appoint her as a lieutenant. However, she refused. Later, Blanc decided to participate in the battles of Godhead for the simple purpose of meeting all warriors around the world.
+来自辽阔的草原，彪悍好斗，不屈不挠，是其部落获得最多荣誉的展示，独自一人斩杀过铁翼獒鹰，驯服过棘甲凶兽，从游侠口中听说了外面的世界，于是独自一人出走，穿越过雪山大海，鏖战过海盗佣兵，曾被绯颜看中，欲选为副将，被她拒绝，参加神格争夺战的原因很简单，就是会会天下战士。
 
-**27.Margot**
+#### 27.梦魇
 
-Margot, the evil mastermind behind the extermination of Tiara's clan, was the one helping Tiara get the artifact in her dream.  God wasn't the only God, and humans were many, while Margot was the unique existence in the world.  She was initially close to humans and often indicated signs to sad people in their dreams for getting a better life. Nevertheless, people thanked God instead of her, so she finally became the frightening and full of hatred Margot. She bewitched countless people to join the battle of Godhead, and planed to dream-controlled the final winner who became God so that she can evolve herself into a mix-form of God and Demon. Margot's ultimate goal was - the extermination of both humans and Gods. She was born with four wings but lost two secondary wings due to Skylar's deception.  After cutting off a pair of Yves' wings, she imposed them onto her body and obtained supreme power from God and Demon.
+提娅一族灭族的罪魁祸首，也是她在梦中帮提娅得到了神器。神非唯一，人亦多族，而梦魇确实世界上唯一的存在，她原本亲近凡人，常于悲伤之人梦中给其预兆，帮助她们获得美好生活，但人总是感谢神，于是充满憎恨的她成了令人恐惧，却无法知道其踪迹的梦魇。梦魇蛊惑无数人参加神格争夺战，计划在最后的胜者承神之时摄魂，获得神魔双格进化为超越体，她只有一个目标，人神俱灭。原本生有四翼，被夜空骗走副翼，在剪断伊西斯一对翅膀之后，强加在身上获得了神魔双元之力。
 
-**28.Adeline**
+#### 28.艾德琳
 
-Adeline, as God's apostle, was a very talented witch in her village since childhood. She was kind, brave, and had a sense of justice. Her devoutness deeply influenced Michaela, who was combative throughout her life. Adeline formed a life-long bond with Michaela. Through the battle between Michaela and Tiara, she learned that a person's strength was also critical besides the spiritual gift, so she joined with Michaela and began a long journey of becoming God. Because Michaela knew some parts of the mystery, she helped Adeline access the "Heavenly Chant." Later, with her rapidly magic progressing, Adeline was known as the top mage of all mortals.
+神的使徒，自修便是村落中天赋极高的巫女，善良勇敢而富有正义，她的虔诚影响了一生好战的米迦勒，并与米迦勒形成了一生不断的羁绊。通过米迦勒与提娅一战，而明白了唯心之外，个人的力量也至关重要，故而携手米迦勒，开始了成神这一漫长的道路，因为米迦勒得知部分神秘，所以帮她得到了《天国之吟》，法力突飞猛进，被后世誉为凡人法师之巅。
 
-**29.Harper**
+#### 29.湮灭
 
-Harper, formerly known as Fuvi, had been serving Isabella as her loyal follower, and she gave herself a new name for this reason. She was aggressive, reckless and a bit insensitive. Isabella had few chances to reveal the truth of the battle of Godhead but failed because of Harper's trolls. After meeting Wind in the battle of Godhead, Harper saw Wind as her new idol, which was ridiculous and ironic. Although her strength was not enough, her luck was unbelievable. Wind wouldn't have a chance to found Kagura's dropped arrow if not because of her.
+湮灭，原名芙薇，作为代行者最忠实的粉丝，一直跟随者代行者，甚至为此也给自己取了一个新名字。虽然好斗鲁莽，但是为人也有点神经大条，代行者曾无数次接近神格争夺战的真相，都是因为她的插科打诨而又无数次远离真相。在神格争夺战中看到了风行者的身姿，于是又视风行者为自己的偶像，令人啼笑皆非，虽然实力总是差一点点，但是运气爆棚，不是她，风行者也发现不了神乐掉落的箭。
 
-**30.Dina**
+#### 30.芙娜
 
-Dina, an excellent martial artist, had no clue how to teach or help her younger sister, Harper. She participated in the battles of Godhead just for the reason that she could help her sister to become God. In the end, she finally understood that everyone's destiny was different.
+芙娜和湮灭本是姐妹俩，奈何妹妹神经大条，芙娜也是无计可施。家传武艺本就卓越的芙娜，参加神格争夺战的原因很简单，就是成神之后，可以彻底改造自己的妹妹。最后也终于明白，每个人的人生轨迹都是不同的。
 
-**31.Abigail**
+#### 31.幽磷
 
-Abigail, a member of a travelling circus, was bewitched by Margot and mastered a type of strange and weird magic. In the battle of Godhead, she once became a puppet of Margot, and then she regained her nature back after influenced by Aurora's red magic. With the help from Kana, she also released the people who were trapped in Margot's dream.
+原本是四处游行的马戏团的一员，受到梦魇的蛊惑而掌握了荒诞怪异的魇术。在神格争夺战中，一度成为梦魇的傀儡，再被光耀的红魔法影响后，回归了本性，并在阿诺的帮助下将陷入魇中的众人拉出。
 
-**32.Siren**
+#### 32.塞壬
 
-Siren, the land descendant of God and the gatekeeper of the battle of Godhead, was originally a snake with lightning speed and dual-specialized in poisoning and martial art. She was once a follower of Michaela, but she disgraced Michaela's idea of mercy God. Later, she found out that she was fooled by Margot and attempted to self-destruct to kill herself and Margot at the same time, but unfortunately failed. Because of her failure of gatekeeping, she was punished by the wrath from the heaven.
+神之一族的地上后裔，神格争夺战的守护者和守关人，本体为蛇，行动速度尤其快，毒武双修之神，也是米迦勒曾经的追随者者，对于米迦勒所谓的仁慈之神之说十分唾弃，才明白自己被梦魇蛊惑后妄图自爆同归于尽，但遗憾失败，并因为守关失败，遭来天谴。
 
-**33.Arya**
+#### 33.守望者
 
-Arya, the most powerful one in the Three Naomis, was superior at both offensive and defensive strength. Arya had once fought with Rosey for three hundred rounds. Although there was no final win nor lose, anyone could see that she had the upper hand and should be the one winning. Arya was the most faithful believer of Gaia and the inherent of Gaia's ancient blood, also known as the most promising person to win the battle of Godhead. However, she carried too much responsibility, which caused her unable to be open-minded. During the battle of Godhead, Arya's stubbornness and ignorance of others eventually let her fell into Margot's trap and lost her ancient blood, but this also created a chance for Wind to shoot Margot. She was a contradictory person.
+三位一体，如影形随！三影中最强大的存在，攻守兼备，实力超群，曾与蔷薇鏖战三百回合，虽未分出胜负，但明显她更占上风。她是盖亚最忠实的信徒，也是盖亚远古血脉的传人，被称为最有希望夺得神格的人，但其一身背负责任太多，始终无法豁达，在神格争夺战中固执己见，不顾众人劝阻，中了梦魇的诡计，流失了远古血脉，但也由此给了风行者箭射梦魇的机会，是个矛盾的人。
 
-**34.Alaia**
+#### 34.赫斯提亚
 
-Alaia, initially named as Aya, always wanted to become one of the Gods and changed her name to Alaia. Although she was not skillful in magics and martial arts, her research and development expertise was very impressive. Through crafting equipment and weapons, she had been able to overcome all the difficulties in the way.
+一直想要成为神的阿雅，干脆自己取名为赫斯提亚，虽然没有武艺，没有魔法，但是一手研发做的令人刮目相看，通过筑造武器，一路过关斩将。
 
-**35.Cardi**
+#### 35.斯卡蒂
 
-Cardi, the warrior from the Land of Barren and Golden Canyon, was a brutal and arrogant warrior,  eager to lead her tribe to the Land of Fertility. She had mastered two miracles of Gaia, and her strength, defence and speed were all well-balanced.
+荒芜之地，黄金峡谷的战士，也是渴望带领自己的部落走向富饶之地，是一个坚韧不拔但是高傲的战士。她掌握了两个盖亚的奇迹，力量，防御和速度都相当平衡的一人。
 
-**36.Quinn**
+#### 36.狐妖
 
-Quinn, a spiritual creature in Fear Mountains, was originally a wild beast. Quinn had fought with Fiora several times. By accident, Quinn tainted Kana's aura during Kana's transformation into human form, which she gained all the human wisdom and intelligence and started to have curiosity about the world. After she learnt that she could become human and even God, she joined the battle of Godhead for the blessing of other spiritual beasts. Because of her aura, she was targeted by unfriendly Fiora. During the battle of Godhead, the two just fought directly from the beginning to the end, making the whole battle looks like their own one-on-one fight.
+恐惧山脉的灵物，本体是狂兽，曾与芙蕾雅战斗过数次，因缘际会在阿诺的修炼人形时沾染了气息，蜕变成充满灵智，对世界充满好奇，得知不但可以成人，还能成神之后，为了福泽更多的灵兽，绝对参加神格争夺战。因为自身的气息，与芙蕾雅极其不对付，在神格争夺战中，二人直接对战起来，看似参加了神格争夺战，但自始至终都是她们俩自己在战斗。
 
-**37.Vivianna**
+#### 37.芬里尔
 
-Vivianna, a warm-hearted warrior, lived in the Land of Frozen. Many adventurers had received her helps while in the Land of Frozen. Although she lived in such a bitter and cold place since young, she had never thought about moving. The reason she wanted to join the battle of God was that she wanted to prove magic was useless in front of absolute power. Vivianna was indeed a straightforward and powerful person.
+极寒之地的芬里尔是一个热心肠的战士，无数冒险者在极寒之地都曾受到过她的帮助，虽然自小生活在苦寒之处，但是并没有迁移的打算，参加神格争夺战的原因也是很简单，就是想证明，在绝对的力量面前，魔法招式都不管用，是一个直心肠而又天神巨力的人。
 
-**38.Wind**
+#### 38.风行者
 
-Wind, one of three Naomis, possessed with the best archery n the world. She was quick, acted swiftly and sometimes vanished like shadows. Wind was a good friend of Tiara and once helped Tiara to fight against  Michaela. After knowing the truth of the extermination of Tiara's tribe, she travelled through the mountains to tell the heart-broken Tiara and helped her out from the bottom of the depression. Wind was a trustworthy friend. In the battle of Godhead, she found an arrow engraved with spells, and she shot Margot with the arrow and made her visible.
+三位一体，如影形随！风行者作为三影之一，拥有几乎冠绝天下的箭术，她身手敏捷，神出鬼没。与提娅乃是好友，帮助提娅对付米迦勒，在知晓灭族之因后第一时间穿越千山万里告诉心如死灰的提娅，将其从颓废边缘拉出，是一位值得信任和托付的好友。在神格争夺战中，捡到一把刻有符咒的箭，一箭命中梦魇，使其幻影具象。
 
-**39.Aurora**
+#### 39.光耀
 
-Aurora, a mage in the Mortal Realm, was the older sister of Liz. She really hated Liz's duals in magics and martial arts and swore that no one could stop her from becoming God. Aurora self-comprehended the red magics from light and dark magics and considered everything as chaos.  She was very arrogant. Although Aurora looked down on her younger sister, she still loved Liz more than anyone else, and only she can bully her sister. She gave up her desire to become God after hearing Michaela's story, knowing that she would forget her feelings and attachments to Liz. Eventually, she deiced to carry forward and extend the red magics.
+凡人国度的法师，莉丝的亲姐姐，对于莉丝魔武双休非常厌恶，发誓成神之路无人可当，自己领悟了介于光魔法和暗魔法之间的红魔法，自认为一切混沌。为人高傲，虽然看不上妹妹，但内心深处对妹妹比谁都怜爱，只允许自己欺负妹妹。这样一个渴望成神的人，因为听米迦勒讲述了自己的故事，但是自己成神之后会忘记对妹妹的感情，最后还是放弃了，一心决定将红魔法发扬光大。
 
-**40.Kana**
+#### 40.阿诺
 
-Kana, the spiritual creature of the Fear Mountains,  possessed a powerful restoration spell - the aura of life. With Kana's help, Emani found the magic tips to defeat the Giant-Horned Dragon-Lion. She really liked her name given by Emani, so she wanted to train to achieve a complete and independent human form; in that way, she could accompany Emani with her journey. Because she had seen Fiora killing countless creatures and beasts, she was afraid of Fiora, but she didn't know that the name of Kana was actually Fiora's nickname.
+恐惧山脉的灵物化形，拥有强悍的生命气息复原之术，也是在她的帮助下阿蛮才找到了战胜巨角龙狮的秘诀。很喜欢阿蛮给她取的名字，励志要修得一个完整独立的人形，这样就可以陪阿蛮冒险。因为曾见过芙蕾雅斩杀过无数狂兽，所以天然对她畏惧，但她不知道的是，阿诺是芙蕾雅的乳名。
 
