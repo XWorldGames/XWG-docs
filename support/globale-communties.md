@@ -10,4 +10,5 @@
 * Github: [https://github.com/XWorldGames](https://github.com/XWorldGames)
 * Medium: [https://medium.com/x-world-games](https://medium.com/x-world-games)
 * Wechat: XWG\_GAMES
+* 中国大陆可用Telegram软件下载：[https://telegra.mx](https://telegra.mx)
 
