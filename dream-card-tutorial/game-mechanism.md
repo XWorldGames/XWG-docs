@@ -30,11 +30,11 @@ Players can earn mission reward points for doing missions, which can be converte
 
 Players gaining $XWG: Periodic mission mining/Total player points \* Points of a single player
 
-### Conquest Rules
+### Expedition Rules
 
-Conquest is divided into **ordinary conquest and genesis conquest**. You can get $XWG rewards if you stake your own cards on conquest. If cards are acquired from the Genesis Sale, you will get additional Genesis Staking rewards.
+Conquest is divided into **ordinary expedition and genesis expedition**. You can get $XWG rewards if you stake your own cards on **expedition**. If cards are acquired from the Genesis Sale, you will get additional Genesis Staking rewards.
 
-**Ordinary Conquest Revenue Formula**
+**Ordinary Expedition Revenue Formula**
 
 _PR = player’s one-card staking revenue_
 
@@ -52,7 +52,7 @@ _BP = current block production_
 
 **PR = TR / TV \* PV \* \(\(B-S\) / \(TR/BP\)\)**
 
-**Genesis Conquest Staking Reward**
+**Genesis Expedition Staking Reward**
 
 ![](../.gitbook/assets/0%20%281%29.png)
 
@@ -64,7 +64,7 @@ _BP = current block production_
 
 **10 lucky draw**: Players have chances to draw high-level cards from 10 lucky draws, and they can sell them to get $XWG through the official NFT exchange.
 
-**Conquest Staking**: Players can get $XWG by staking their cards with the conquest feature.
+**Expedition Staking**: Players can get $XWG by staking their cards with the conquest feature.
 
 **Combat**: Players can earn $XWG if they win in-game battles.
 
