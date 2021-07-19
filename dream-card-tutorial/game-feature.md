@@ -104,8 +104,6 @@ Click the battle button to enter the battle matching queue, and match according 
 
 ![](../.gitbook/assets/14%20%281%29.png)
 
-### 
-
 ### Expedition
 
 Players can stake cards on the chain through the conquest function, which is divided into ordinary conquest and genesis conquest according to the players’ card type, and obtain corresponding XWG staking rewards according to the card reference price and staking time.
