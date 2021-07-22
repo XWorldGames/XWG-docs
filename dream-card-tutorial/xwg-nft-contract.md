@@ -18,6 +18,9 @@
 | XWGAirdrop | [https://bscscan.com/address/0x14AC8851f509b75bf596D7ea5418D7DAAF637d99](https://bscscan.com/address/0x14AC8851f509b75bf596D7ea5418D7DAAF637d99) |
 | XWGBNBStore | [https://bscscan.com/address/0x1737e635E7b38F6A0299517F042FbA43D84F090C](https://bscscan.com/address/0x1737e635E7b38F6A0299517F042FbA43D84F090C) |
 | XWGWhitelistAirDrop | [https://bscscan.com/address/0xD2EDCaAaFCe4A1b526f30FcC87E91502F77e6c4C\#code](https://bscscan.com/address/0xD2EDCaAaFCe4A1b526f30FcC87E91502F77e6c4C#code) |
+| XWGTaskPool | [https://bscscan.com/address/0x518a9cc532d5b8A9C50212c2D6D9cfa743E92926](https://bscscan.com/address/0x518a9cc532d5b8A9C50212c2D6D9cfa743E92926) |
+| XWGHeroesExpeditionPool | [https://bscscan.com/address/0x27E636D95fdA95064aBDD7D31dfFCa4B41f9CB44](https://bscscan.com/address/0x27E636D95fdA95064aBDD7D31dfFCa4B41f9CB44) |
+| Genesis Staking | [https://bscscan.com/address/0x777784eCa6df4831D77971a379d1fe443Da39373](https://bscscan.com/address/0x777784eCa6df4831D77971a379d1fe443Da39373) |
 
 
 
