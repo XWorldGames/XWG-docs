@@ -21,6 +21,7 @@
 | XWGTaskPool | [https://bscscan.com/address/0x518a9cc532d5b8A9C50212c2D6D9cfa743E92926](https://bscscan.com/address/0x518a9cc532d5b8A9C50212c2D6D9cfa743E92926) |
 | XWGHeroesExpeditionPool | [https://bscscan.com/address/0x27E636D95fdA95064aBDD7D31dfFCa4B41f9CB44](https://bscscan.com/address/0x27E636D95fdA95064aBDD7D31dfFCa4B41f9CB44) |
 | Genesis Staking | [https://bscscan.com/address/0x777784eCa6df4831D77971a379d1fe443Da39373](https://bscscan.com/address/0x777784eCa6df4831D77971a379d1fe443Da39373) |
+| XWGMystery Box | [https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0\#code](https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0#code) |
 
 
 
