@@ -10,6 +10,7 @@
 * [📰 Press Release](press-mentioned/README.md)
   * [Dapp.com](press-mentioned/dapp.com.md)
   * [DappRadar](press-mentioned/dappradar.md)
+  * [Binance Chain News](press-mentioned/binance-chain-news.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility/README.md)
     * [$XWG Allocation](token-metrics-1/token-utility/usdxwg-allocation/README.md)
