@@ -1,4 +1,4 @@
-# Hero Characters
+# 40 Hero Characters
 
 The XWG Dream Cards \(NFTs\) are released in BEP-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels, and other features, which are assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
 
