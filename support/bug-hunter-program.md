@@ -1,4 +1,4 @@
-# Check AirDrop Winner list
+# AirDrop Winner list
 
 Please check all winners info of ALL AirDrop Event:
 
