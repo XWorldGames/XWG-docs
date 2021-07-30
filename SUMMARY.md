@@ -31,7 +31,7 @@
 ## DAO
 
 * [🌎 Join X World Family](dao/global-communties.md)
-* [Governance](dao/dao-introduction.md)
+* [⚖️ Governance](dao/dao-introduction.md)
 
 ---
 
