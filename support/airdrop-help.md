@@ -1,4 +1,4 @@
-# Airdrop Help
+# How to claim Airdrop
 
 ## How to Claim Your NFT Airdrop?
 

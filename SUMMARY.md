@@ -31,12 +31,12 @@
 ## DAO
 
 * [🌎 Join X World Family](dao/global-communties.md)
-* [Introduction](dao/dao-introduction.md)
+* [Governance](dao/dao-introduction.md)
 
 ## Support
 
 * [Official Email Domains](support/mail.md)
-* [Airdrop Help](support/airdrop-help.md)
+* [How to claim Airdrop](support/airdrop-help.md)
 * [Audit Report](support/audit-report.md)
 * [FAQ](support/faq.md)
 * [Terms and Conditions](support/terms-and-conditions.md)

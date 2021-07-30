@@ -1,8 +1,6 @@
-# Introduction
+# Governance
 
-![X World Games DAO](../.gitbook/assets/xiao-wu-gui-logo.png)
-
-### What is the X World Games Dao?
+### What is the X World DAO?
 
 A true decentralized ownership of a gaming world via DAO.  Gamers that hold XWG tokens get to decide the platform governance policy or the next in-game development, including reward mechanisms and tokenomic systems.
 
