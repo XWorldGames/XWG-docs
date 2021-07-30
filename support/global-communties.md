@@ -1,8 +1,10 @@
-# Global Communities
+# 🌎Global Communities
 
+## **X World Games Global Communities** 
 
-
-X World Games Global Communities 
+{% hint style="info" %}
+Our LinkTree: [https://linktr.ee/XWorldGames](https://linktr.ee/XWorldGames)
+{% endhint %}
 
 Official Web: [https://xwg.games/](https://xwg.games/) 
 
@@ -19,6 +21,8 @@ Telegram China: [https://t.me/xwg\_games\_CN​](https://t.me/xwg_games_CN%E2%80
 Telegram Vietnam: [https://t.me/xworldgamevn​](https://t.me/xworldgamevn%E2%80%8B) 
 
 Telegram Vietnam Announcement: [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
+
+Telegram Indonesia: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
 
 Discord: [https://discord.gg/d2QTuamvdh​ ](https://discord.gg/JsMUYu4ECw)
 
