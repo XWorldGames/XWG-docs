@@ -2,15 +2,19 @@
 
 **Matching Rules**
 
-According to the matching time, the matching is divided into two stages: **normal matching and extended matching:**
+According to the matching time, the matching is divided into two stages: 
 
-**Normal matching stage**: The difference in the combat power \(x\) of the matching user card group does not exceed 300 users. 
+> **Normal matching** 
+>
+> **Extended matching**
 
-Calculating according to the user's matching time, the matching time \(t\) t^2+5 is compared with 300 to take the minimum value \(n\), and the matching range: x-n ~ x+n. According to the user's combat power, the value is increased by one up and down by one in the matching range, and the retrieved values ​​are put into a list in turn, and then matched users are selected in turn according to the values ​​in the list. If the match is successful, the battle flow is entered.
+**Normal matching**: The difference in the combat power \(x\) of the matching user card group does not exceed 300 users. 
+
+Calculating according to the user's matching time, the matching time \(t\) t^2+5 is compared with 300 to take the minimum value \(n\), and the matching range: x-n ~ x+n. According to the user's battle power, the value is increased by one up and down by one in the matching range, and the retrieved values ​​are put into a list in turn, and then matched users are selected in turn according to the values ​​in the list. If the match is successful, the battle flow is entered.
 
 The settlement coefficient \(k\) for normal matching is 100%
 
-**Extended matching stage**: the normal matching stage will enter the extended matching stage if the match is not successful. 
+**Extended matching**: the normal matching stage will enter the extended matching stage if the match is not successful. 
 
 Calculating according to the user’s matching time, matching time \(t\), matching range: 
 
@@ -64,11 +68,13 @@ _BP = current block production_
 
  ****$$PR = TR / TV * PV * ((B-S) / (TR/BP))$$ 
 
-**Genesis Expedition Staking Reward**
+\*\*\*\*
+
+### **Genesis Expedition Staking Reward**
 
 ![](../../../.gitbook/assets/0%20%281%29.png)
 
-## Where to get $XWG?
+
 
 \*\*\*\*
 
