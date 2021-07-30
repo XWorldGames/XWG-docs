@@ -8,16 +8,14 @@
 * [Backers](backer.md)
 * [Roadmap](roadmap.md)
 * [Press Mentioned](press-mentioned.md)
-
-## $XWG Token Metrics <a id="token-metrics"></a>
-
-* [Token Utility](token-metrics/token-utility.md)
-* [Token Network](token-metrics/token-network.md)
-* [$XWG Allocation](token-metrics/usdxwg-allocation.md)
-* [Token Release Schedule](token-metrics/release-schedule.md)
-* [Incentive Mechanism](token-metrics/incentive-mechanism.md)
-* [$XWG Token Contract](token-metrics/xwg-token-contract.md)
-* [Listed Exchange](token-metrics/listed-exchange.md)
+* [🧐 Token Metrics](token-metrics-1/README.md)
+  * [Token Utility](token-metrics-1/token-utility/README.md)
+    * [$XWG Allocation](token-metrics-1/token-utility/usdxwg-allocation/README.md)
+      * [Token Release Schedule](token-metrics-1/token-utility/usdxwg-allocation/release-schedule/README.md)
+        * [Incentive Mechanism](token-metrics-1/token-utility/usdxwg-allocation/release-schedule/incentive-mechanism.md)
+    * [Token Network](token-metrics-1/token-utility/token-network/README.md)
+      * [$XWG Token Contract](token-metrics-1/token-utility/token-network/xwg-token-contract.md)
+  * [Listed Exchange](token-metrics-1/listed-exchange.md)
 
 ## Games
 
