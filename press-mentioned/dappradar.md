@@ -1,6 +1,6 @@
 # DappRadar
 
-{% page-ref page="dappradar.md" %}
+{% embed url="https://dappradar.com/binance-smart-chain/games/x-world-games" %}
 
 
 
