@@ -35,12 +35,12 @@
 
 ---
 
-* [FAQ](faq.md)
+* [FAQ](faq/README.md)
+  * [How to claim Airdrop](faq/airdrop-help.md)
 
 ## Docs
 
 * [Official Email Domains](docs/mail.md)
-* [How to claim Airdrop](docs/airdrop-help.md)
 * [Audit Report](docs/audit-report.md)
 * [Terms and Conditions](docs/terms-and-conditions.md)
 
