@@ -49,6 +49,6 @@
 
 ---
 
-* [Support](support.md)
-* [Bug Hunter Program](bug-hunter-program.md)
+* [Support](support/README.md)
+  * [Bug Hunter Program](support/bug-hunter-program.md)
 
