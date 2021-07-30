@@ -1,10 +1,8 @@
 # Game Feature
 
-## Game Feature
+### $XWG Transfer In Game
 
-### $XWG Transfer
-
-Transfers are divided into three sections: **recharge, withdraw and record**.
+Transfers are divided into three sections: R**echarge, Withdraw and Record**.
 
 **Recharge**: Recharge $XWG from the wallet to the game platform.
 
@@ -16,7 +14,7 @@ Transfers are divided into three sections: **recharge, withdraw and record**.
 
 ### NFT Swap
 
-NFT Swap is divided into 3 sections: **Roll in, Roll out and record**.
+NFT Swap is divided into 3 sections: **Roll in, Roll out and Record**.
 
 **Roll in**: Transfer the cards from the wallet to the game.
 
@@ -34,7 +32,7 @@ All the props in the game can be purchased in the mall.
 
 ### Mission
 
-The missions are divided into four sections: **daily check, daily task, level reward, and receive rewards**. Players earn reward points by completing missions with daily check, daily task, and level reward; reward points can be converted into $XWG at a specific time each day according to the player's contribution ratio of reward points, and they can be collected on the receive rewards page.
+The missions are divided into four sections: **Daily Check, Daily Task, Level Reward and Receive Rewards**. Players earn reward points by completing missions with daily check, daily task, and level reward; reward points can be converted into $XWG at a specific time each day according to the player's contribution ratio of reward points, and they can be collected on the receive rewards page.
 
 ![](../../.gitbook/assets/3%20%281%29.png)
 
