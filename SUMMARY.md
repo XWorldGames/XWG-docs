@@ -47,3 +47,7 @@
 * [Security Audit Report](docs/audit-report.md)
 * [Terms and Conditions](docs/terms-and-conditions.md)
 
+---
+
+* [Support](support.md)
+
