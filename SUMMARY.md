@@ -33,11 +33,14 @@
 * [🌎 Join X World Family](dao/global-communties.md)
 * [Governance](dao/dao-introduction.md)
 
+---
+
+* [FAQ](faq.md)
+
 ## Support
 
 * [Official Email Domains](support/mail.md)
 * [How to claim Airdrop](support/airdrop-help.md)
 * [Audit Report](support/audit-report.md)
-* [FAQ](support/faq.md)
 * [Terms and Conditions](support/terms-and-conditions.md)
 
