@@ -2,11 +2,11 @@
 
 * [About](README.md)
 * [👑 X World Games](x-world-games/README.md)
+  * [Roadmap](x-world-games/roadmap.md)
   * [Backers](x-world-games/backer.md)
   * [History](x-world-games/history.md)
   * [Team](x-world-games/team/README.md)
     * [Vision](x-world-games/team/vision.md)
-* [Roadmap](roadmap.md)
 * [Press Mentioned](press-mentioned.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility/README.md)
