@@ -35,7 +35,7 @@
 
 ---
 
-* [FAQs](faq/README.md)
+* [❓FAQs](faq/README.md)
   * [Do I need a crypto wallet to play games?](faq/do-i-need-a-crypto-wallet-to-play-games.md)
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)

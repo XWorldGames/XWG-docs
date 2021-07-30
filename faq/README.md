@@ -1,4 +1,4 @@
-# FAQs
+# ❓FAQs
 
 ### What is the $XWG token?
 
