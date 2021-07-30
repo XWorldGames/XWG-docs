@@ -1,8 +1,6 @@
 # 📰 Press Release
 
-### [DappRadar](https://dappradar.com/blog/x-world-games-arrives-on-binance-smart-chain)
-
-{% embed url="https://dappradar.com/blog/x-world-games-arrives-on-binance-smart-chain" %}
+### 
 
 ### [Bloomberg](https://www.bloomberg.com/press-releases/2021-05-07/x-world-games-secures-1-2-million-funding-led-by-top-crypto-venture-funds)
 
@@ -31,8 +29,6 @@
 ### [NetEase](https://www.163.com/dy/article/G9E7H2D10511V6QH.html)
 
 {% embed url="https://www.163.com/dy/article/G9E7H2D10511V6QH.html" %}
-
-### [Toutiao](https://www.toutiao.com/i6959547531957420577/?wid=1620970895950)
 
 {% embed url="https://www.toutiao.com/i6959547531957420577/?wid=1620970895950" %}
 
