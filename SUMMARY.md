@@ -29,7 +29,7 @@
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
   * [Genesis Sale 2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
-  * [Smart Contracts](games/dream-card/xwg-nft-contract.md)
+* [Smart Contracts](games/xwg-nft-contract.md)
 
 ## DAO
 
