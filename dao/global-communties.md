@@ -1,3 +1,9 @@
+---
+description: >-
+  Do not forget to join our X World Family, we always share the updated news to
+  our community first.
+---
+
 # 🌎 Join X World Family
 
 ## **X World Games Global Communities** 
@@ -10,19 +16,19 @@ Official Web: [https://xwg.games/](https://xwg.games/)
 
 Twitter: [https://twitter.com/xwg\_games​](https://twitter.com/xwg_games%E2%80%8B) 
 
-Telegram Official: [https://t.me/xworldgames​](https://t.me/xworldgames%E2%80%8B) 
+Telegram Official 🌎: [https://t.me/xworldgames​](https://t.me/xworldgames%E2%80%8B) 
 
-Telegram Official Announcement: [https://t.me/xwg\_games\_ann](https://t.me/xwg_games_ann)
+Telegram Official Announcement 📢 : [https://t.me/xwg\_games\_ann](https://t.me/xwg_games_ann)
 
-Telegram Trade:[https://t.me/xwgtrade](https://t.me/xwgtrade) ​ 
+Telegram Trade 💰:[https://t.me/xwgtrade](https://t.me/xwgtrade) ​ 
 
-Telegram China: [https://t.me/xwg\_games\_CN​](https://t.me/xwg_games_CN%E2%80%8B) 
+Telegram China 🇨🇳 : [https://t.me/xwg\_games\_CN​](https://t.me/xwg_games_CN%E2%80%8B) 
 
-Telegram Vietnam: [https://t.me/xworldgamevn​](https://t.me/xworldgamevn%E2%80%8B) 
+Telegram Vietnam🇻🇳 : [https://t.me/xworldgamevn​](https://t.me/xworldgamevn%E2%80%8B) 
 
-Telegram Vietnam Announcement: [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
+Telegram Vietnam Announcement📢🇻🇳 : [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
 
-Telegram Indonesia: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
+Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
 
 Discord: [https://discord.gg/d2QTuamvdh​ ](https://discord.gg/JsMUYu4ECw)
 
