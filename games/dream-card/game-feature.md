@@ -50,9 +50,9 @@ The recycle is to convert the card into $XWG according to the card’s reference
 
 ![](../../.gitbook/assets/5%20%281%29.png)
 
-### Exchange
+### Marketplace
 
-Click the button to open the external official [NFT exchange page](https://nft.xwg.games/), and players can buy or sell cards on the exchange with on-chain operations.
+Click the button to open the external official [Marketplace](https://nft.xwg.games/#/), and players can buy or sell cards with on-chain operations.
 
 ![](../../.gitbook/assets/6%20%281%29.png)
 
@@ -110,23 +110,37 @@ Players can stake cards on the chain through the conquest function, which is div
 
 
 
-{% hint style="warning" %}
-## The followings are still under development:
-{% endhint %}
+### Ladder 
 
-### Ladder \(under development\)
+{% hint style="info" %}
+Under Development
+{% endhint %}
 
 The ladders are carried out by seasons, offline battles and ranking. Players participate in the ladder competition by paying a certain amount of registration fee, and $XWG rewards will be given according to the player's ladder rankings after the end of the season.
 
-### Prize pool \(under development\)
+### Prize pool 
+
+{% hint style="info" %}
+Under DeveDevelopment 
+{% endhint %}
 
 A large prize pool to reward some achievement ranked sections for the purpose of promoting the activeness of the game. The source of the prize pool is divided into two parts: the original mining pool mining and the player's defeat in battle.
 
-### PVE \(under development\)
+
+
+### PVE 
+
+{% hint style="info" %}
+Under DeveDevelopment 
+{% endhint %}
 
 24/7, players can level up through PVE and complete numbers of levels to earn $XWG rewards for the purpose of promoting the activeness of the game. The source of reward is paid from the activity mining pool
 
-### World BOSS \(under development\)
+### World Boss 
+
+{% hint style="info" %}
+Under Development
+{% endhint %}
 
 Opening limited time only every day, players will attack the world BOSS through PVE. After killing the world BOSS, the player will be rewarded with $XWG according to the proportion of the kill contribution for the purpose of promoting the activeness of the game. The source of reward is paid from the activity mining pool
 
