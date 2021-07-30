@@ -50,10 +50,7 @@ Please join our [Discord](https://discord.gg/YeEkrr2PZQ) or [Twitter](https://tw
 
 Also, you are welcome to join our Telegram groups to get supports:
 
-* Telegram Official🌍: [https://t.me/xworldgames](https://t.me/xworldgames)
-* Telegram China🇨🇳: [https://t.me/xwg\_games\_CN](https://t.me/xwg_games_CN)
-* Telegram Vietnam🇻🇳: [https://t.me/xworldgamevn](https://t.me/xworldgamevn)
-* Telegram Vietnam Announcement📢:: [https://t.me/xworldgamevn\_an](https://t.me/xworldgamevn_ann)
+
 
 
 
