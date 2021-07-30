@@ -30,11 +30,11 @@
 
 ## DAO
 
+* [🌎 Join X World Family](dao/global-communties.md)
 * [Introduction](dao/dao-introduction.md)
 
 ## Support
 
-* [🌎 Join X World Family](support/global-communties.md)
 * [Official Email Domains](support/mail.md)
 * [Airdrop Help](support/airdrop-help.md)
 * [Audit Report](support/audit-report.md)
