@@ -28,7 +28,7 @@
   * [Game Feature](games/dream-card/game-feature.md)
   * [Game Mechanism](games/dream-card/game-mechanism/README.md)
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
-  * [Genesis Sale 2740](games/dream-card/marketplace.md)
+  * [Genesis Sale \#2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
 * [Smart Contracts](games/xwg-nft-contract.md)
 
