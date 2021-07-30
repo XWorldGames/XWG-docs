@@ -53,6 +53,7 @@
 ---
 
 * [Support](support/README.md)
+  * [Contact Us](support/contact-us.md)
   * [AirDrop Winner list](support/bug-hunter-program.md)
   * [Bug Hunter Winner List](support/bug-hunter-winner-list.md)
 
