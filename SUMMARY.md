@@ -40,6 +40,10 @@
 ---
 
 * [❓FAQs](faq/README.md)
+  * [I need support! Where can I contact you?](faq/i-need-support-where-can-i-contact-you.md)
+  * [I lost my wallet! What will happen to my account?](faq/i-lost-my-wallet-what-will-happen-to-my-account.md)
+  * [Can I play games with a mobile device?](faq/can-i-play-games-with-a-mobile-device.md)
+  * [What is the $XWG token?](faq/what-is-the-usdxwg-token.md)
   * [Do I need a crypto wallet to play games?](faq/do-i-need-a-crypto-wallet-to-play-games.md)
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
