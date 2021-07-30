@@ -1,4 +1,4 @@
-# 🌎Global Communities
+# 🌎 Global Communities
 
 ## **X World Games Global Communities** 
 
