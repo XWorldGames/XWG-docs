@@ -1,13 +1,40 @@
 # Global Communities
 
-* Twitter: [https://twitter.com/xwg\_games](https://twitter.com/xwg_games)
-* Telegram Official🌍: [https://t.me/xworldgames](https://t.me/xworldgames)
-* Telegram Trade💰:[https://t.me/xwgtrade ](https://t.me/xwgtrade%20)
-* Telegram China🇨🇳: [https://t.me/xwg\_games\_CN](https://t.me/xwg_games_CN)
-* Telegram Vietnam🇻🇳: [https://t.me/xworldgamevn](https://t.me/xworldgamevn)
-* Telegram Vietnam Announcement📢:: [https://t.me/xworldgamevn\_ann](https://t.me/xworldgamevn_ann)
-* Discord: [https://discord.gg/d2QTuamvdh](https://discord.gg/d2QTuamvdh)
-* Github: [https://github.com/XWorldGames](https://github.com/XWorldGames)
-* Medium: [https://medium.com/x-world-games](https://medium.com/x-world-games)
-* Wechat: XWG\_GAMES
+
+
+X World Games Global Communities 
+
+Official Web: [https://xwg.games/](https://xwg.games/) 
+
+Twitter: [https://twitter.com/xwg\_games​](https://twitter.com/xwg_games%E2%80%8B) 
+
+Telegram Official: [https://t.me/xworldgames​](https://t.me/xworldgames%E2%80%8B) 
+
+Telegram Official Announcement: [https://t.me/xwg\_games\_ann](https://t.me/xwg_games_ann)
+
+Telegram Trade:[https://t.me/xwgtrade](https://t.me/xwgtrade) ​ 
+
+Telegram China: [https://t.me/xwg\_games\_CN​](https://t.me/xwg_games_CN%E2%80%8B) 
+
+Telegram Vietnam: [https://t.me/xworldgamevn​](https://t.me/xworldgamevn%E2%80%8B) 
+
+Telegram Vietnam Announcement: [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
+
+Discord: [https://discord.gg/d2QTuamvdh​ ](https://discord.gg/JsMUYu4ECw)
+
+Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B) 
+
+Gitbook: [https://docs.xwg.games/](https://docs.xwg.games/) 
+
+Medium: [https://medium.com/x-world-games​](https://medium.com/x-world-games%E2%80%8B) 
+
+Facebook: [http://facebook.com/XWGgames](http://facebook.com/XWGgames) 
+
+Reddit: [https://new.reddit.com/r/XWorldGames/](https://new.reddit.com/r/XWorldGames/) 
+
+Youtube: [https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg](https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg)
+
+WeChat: XWG\_GAMES
+
+
 
