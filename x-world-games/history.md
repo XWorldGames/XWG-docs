@@ -1,6 +1,6 @@
 # History
 
-![Belle Battle Musou and X World Games](.gitbook/assets/history.png)
+![Belle Battle Musou and X World Games](../.gitbook/assets/history.png)
 
 In 2017, before X World Games entered the blockchain, it had developed a super popular Japanese action mobile game, "Belle Battle Musou.", which has a user base of 300,000. In addition, the X World Games team had developed nearly a hundred online mini-games and has rich experience in game production in the mobile game industry.
 

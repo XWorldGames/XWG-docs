@@ -2,7 +2,7 @@
 
 #### Fernando Liu, CEO
 
-* financial liberals and environmentalists
+* Financial liberals and environmentalists
 * Former Asia Pacific president of Wall Street private equity investment fund Barron Partners, participated in investing in many Chinese companies and later assisted them in listing on the New York Stock Exchange and Nasdaq.
 * Director and founder of Abacus Renewables Energy Fund
 * possesses 17+ Years of venture capital, private investment, fundraising and M&A restructuring experience worldwide.
