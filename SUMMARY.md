@@ -50,4 +50,5 @@
 ---
 
 * [Support](support.md)
+* [Bug Hunter Program](bug-hunter-program.md)
 
