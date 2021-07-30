@@ -1,2 +1,2 @@
-# Bug Hunter Program
+# Bug Report
 

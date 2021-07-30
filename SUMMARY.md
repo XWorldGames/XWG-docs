@@ -52,5 +52,5 @@
 ---
 
 * [Support](support/README.md)
-  * [Bug Hunter Program](support/bug-hunter-program.md)
+  * [Bug Report](support/bug-hunter-program.md)
 
