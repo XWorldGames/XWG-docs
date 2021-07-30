@@ -1,8 +1,6 @@
 # Game Mechanism
 
-## **Game Mechanism**
-
-### **Matching Rules**
+**Matching Rules**
 
 According to the matching time, the matching is divided into two stages: **normal matching and extended matching:**
 
