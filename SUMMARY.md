@@ -37,6 +37,7 @@
 
 * [FAQ](faq/README.md)
   * [How to claim Airdrop](faq/airdrop-help.md)
+  * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
 
 ## Docs
 
