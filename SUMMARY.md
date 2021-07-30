@@ -57,7 +57,7 @@
 
 ---
 
-* [Marketing Event](support/README.md)
+* [Marketing Events](support/README.md)
   * [AirDrop Winner list](support/bug-hunter-program.md)
   * [Bug Hunter Winner List](support/bug-hunter-winner-list.md)
 * [Contact Us](contact-us.md)
