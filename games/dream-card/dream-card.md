@@ -181,5 +181,5 @@ After entering the battle interface, you can add the cards with 0 waiting value 
 
 The party who wins the battle will receive experience points and victory box rewards, and the loser will deduct a certain amount of experience points and get the battle box rewards.
 
-![](../.gitbook/assets/tu-pian-.png)
+![](../../.gitbook/assets/tu-pian-.png)
 

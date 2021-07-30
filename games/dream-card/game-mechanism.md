@@ -54,7 +54,7 @@ _BP = current block production_
 
 **Genesis Expedition Staking Reward**
 
-![](../.gitbook/assets/0%20%281%29.png)
+![](../../.gitbook/assets/0%20%281%29.png)
 
 ## Where to get $XWG?
 

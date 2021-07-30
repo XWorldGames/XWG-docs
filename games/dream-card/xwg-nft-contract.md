@@ -1,4 +1,4 @@
-# NFT Contract
+# Dream Card NFT  Contract
 
 | Item | Address |
 | :--- | :--- |

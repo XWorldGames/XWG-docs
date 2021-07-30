@@ -19,17 +19,14 @@
 
 ## Games
 
-* [Dream Card](games/dream-card.md)
-
-## Dream Card Tutorial
-
-* [Beginner's Guide](dream-card-tutorial/dream-card.md)
-* [Hero Characters](dream-card-tutorial/character-intros-for-dream-card-ip-heroes.md)
-* [Game Feature](dream-card-tutorial/game-feature.md)
-* [Game Mechanism](dream-card-tutorial/game-mechanism.md)
-* [Genesis Sale](dream-card-tutorial/marketplace.md)
-* [Mystery Box](dream-card-tutorial/mystery-box.md)
-* [NFT Contract](dream-card-tutorial/xwg-nft-contract.md)
+* [Dream Card](games/dream-card/README.md)
+  * [Beginner's Guide](games/dream-card/dream-card.md)
+  * [Hero Characters](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
+  * [Game Feature](games/dream-card/game-feature.md)
+  * [Game Mechanism](games/dream-card/game-mechanism.md)
+  * [Genesis Sale 2740](games/dream-card/marketplace.md)
+  * [Mystery Box](games/dream-card/mystery-box.md)
+  * [Dream Card NFT  Contract](games/dream-card/xwg-nft-contract.md)
 
 ## DAO
 
