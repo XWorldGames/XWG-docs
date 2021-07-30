@@ -1,4 +1,4 @@
-# How to claim Airdrop
+# How to claim Airdrop?
 
 ## How to Claim Your NFT [Airdrop](https://nft.xwg.games/#/pages/index/nftairdrop)?
 
