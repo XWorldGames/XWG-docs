@@ -12,12 +12,12 @@
   * [DappRadar](press-mentioned/dappradar.md)
   * [Binance Chain News](press-mentioned/binance-chain-news.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
-  * [Token Utility](token-metrics-1/token-utility/README.md)
-    * [$XWG Allocation](token-metrics-1/token-utility/usdxwg-allocation/README.md)
-      * [Token Release Schedule](token-metrics-1/token-utility/usdxwg-allocation/release-schedule/README.md)
-        * [Incentive Mechanism](token-metrics-1/token-utility/usdxwg-allocation/release-schedule/incentive-mechanism.md)
-    * [Token Network](token-metrics-1/token-utility/token-network/README.md)
-      * [$XWG Token Contract](token-metrics-1/token-utility/token-network/xwg-token-contract.md)
+  * [Token Network](token-metrics-1/token-network/README.md)
+    * [$XWG Token Contract](token-metrics-1/token-network/xwg-token-contract.md)
+  * [$XWG Allocation](token-metrics-1/usdxwg-allocation/README.md)
+    * [Token Release Schedule](token-metrics-1/usdxwg-allocation/release-schedule/README.md)
+      * [Incentive Mechanism](token-metrics-1/usdxwg-allocation/release-schedule/incentive-mechanism.md)
+  * [Token Utility](token-metrics-1/token-utility.md)
   * [Listed Exchange](token-metrics-1/listed-exchange.md)
 
 ## Games
@@ -60,5 +60,5 @@
 * [Marketing Event](support/README.md)
   * [AirDrop Winner list](support/bug-hunter-program.md)
   * [Bug Hunter Winner List](support/bug-hunter-winner-list.md)
-  * [Contact Us](support/contact-us.md)
+* [Contact Us](contact-us.md)
 

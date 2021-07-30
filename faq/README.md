@@ -8,7 +8,7 @@ Any PC/Mac with Chrome/Firefox browser or any mobile iOS/Android device.
 
 Yes, there's no device restriction as long as there's one wallet address per login. 
 
-## Can I log-In with our crypto wallet?
+### Can I log-In with our crypto wallet?
 
 Yes, you can log-In with your Email and mobile number. 
 
