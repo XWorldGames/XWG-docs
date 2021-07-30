@@ -40,6 +40,7 @@
 
 ## Docs
 
+* [Whitepaper](docs/whitepaper.md)
 * [Official Email Domains](docs/mail.md)
 * [Audit Report](docs/audit-report.md)
 * [Terms and Conditions](docs/terms-and-conditions.md)
