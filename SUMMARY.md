@@ -37,10 +37,10 @@
 
 * [FAQ](faq.md)
 
-## Support
+## Docs
 
-* [Official Email Domains](support/mail.md)
-* [How to claim Airdrop](support/airdrop-help.md)
-* [Audit Report](support/audit-report.md)
-* [Terms and Conditions](support/terms-and-conditions.md)
+* [Official Email Domains](docs/mail.md)
+* [How to claim Airdrop](docs/airdrop-help.md)
+* [Audit Report](docs/audit-report.md)
+* [Terms and Conditions](docs/terms-and-conditions.md)
 
