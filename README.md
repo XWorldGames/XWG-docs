@@ -8,7 +8,7 @@ X World Games is the **next-generation decentralized blockchain game ecosystem**
 
 "X World" represents an unknown [**metaverse** ](https://en.wikipedia.org/wiki/Metaverse)to be explored, and "Games" represents more games that will be added to this ecosystem. 
 
-The mission of X World Games is to bring blockchain technology into an "**open world** "where players from all over the world can participate in games together; simply put, X World Games is going to bring blockchain into a world of fun.
+The mission of X World Games is to bring blockchain technology into an "[**open world**](https://en.wikipedia.org/wiki/Open_world) ****"where players from all over the world can participate in games together; simply put, X World Games is going to bring blockchain into a world of fun.
 
 
 
