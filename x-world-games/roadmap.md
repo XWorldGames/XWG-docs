@@ -25,7 +25,7 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 |  | Dream Card - Expedition System | ~~Released~~ |
 | ~~~~ | Dream Card - ELO System |  |
 | Q4 2021 | Creation of Second Batch Dream Card Character IPs |  |
-|  | X World Games - 1 Million Users Achivement |  |
+|  | X World Games - 1 Million Users Achievement |  |
 |  | X World Games - Avatar Customization System |  |
 |  | X World Games - Ecosystem Game Developer Tools |  |
 |  | 5 - 10 Cooperative IP Games |  |
