@@ -17,13 +17,13 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | Q4 2020 | In-Game Battle Functions | ~~Completed~~ |
 |  | Blockchain Wallet Access Function Test | ~~Completed~~ |
 | Q1 2021 | NFT Contract Audit | ~~Passed~~ |
-| Q2 2021 | Official Website & Marketplace  | Launched |
-|  | Dream Card - Collector, Creator, Marketplace & Battle Functions | Completed |
-| Q3 2021 | Dao Community | Launched |
-|  | The Second Batch of Dream Card Characters IPs | Signed |
-|  | X World Games - XWG Wallet | Released |
-|  | Dream Card - Expedition System | Released |
-|  | Dream Card - ELO System |  |
+| Q2 2021 | Official Website & Marketplace  | ~~Launched~~ |
+| ~~~~ | Dream Card - Collector, Creator, Marketplace & Battle Functions | ~~Completed~~ |
+| Q3 2021 | Dao Community | ~~Launched~~ |
+|  | The Second Batch of Dream Card Characters IPs | ~~Signed~~ |
+| ~~~~ | X World Games - XWG Wallet | ~~Released~~ |
+|  | Dream Card - Expedition System | ~~Released~~ |
+| ~~~~ | Dream Card - ELO System |  |
 | Q4 2021 | Creation of Second Batch Dream Card Character IPs |  |
 |  | X World Games - 1 Million Users Achivement |  |
 |  | X World Games - Avatar Customization System |  |
