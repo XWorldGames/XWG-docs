@@ -30,7 +30,7 @@ Telegram Vietnam Announcement📢🇻🇳 : [https://t.me/xworldgamevn\_ann​](
 
 Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
 
-Discord: [https://discord.gg/d2QTuamvdh​ ](https://discord.gg/JsMUYu4ECw)
+Discord: [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
 
 Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B) 
 
