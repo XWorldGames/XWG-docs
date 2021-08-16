@@ -1,4 +1,4 @@
-# Smart Contracts
+# NFT Smart Contracts
 
 | Item | Address |
 | :--- | :--- |
