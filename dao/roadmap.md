@@ -1,4 +1,4 @@
-# Roadmap
+# 📜Roadmap
 
 X World Games will be completing a gigantic platform infrastructure plan for the product, including gaming hub, NFT exchange, cross-game protocol port, and a full-function game-creation toolbox. Meanwhile, X World Games will be enriching the gaming ecosystem and community by publishing more games and signing more Authentic anime IPs, and connecting migrated games with pre-established tokenomic systems, and guiding the player community to a full DAO governance.
 
@@ -19,19 +19,22 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | Q1 2021 | NFT Contract Audit | ~~Passed~~ |
 | Q2 2021 | Official Website & Marketplace  | ~~Launched~~ |
 | ~~~~ | Dream Card - Collector, Creator, Marketplace & Battle Functions | ~~Completed~~ |
-| Q3 2021 | Dao Community | ~~Launched~~ |
+| Q3 2021 |  Global Community | ~~Launched~~ |
 |  | The Second Batch of Dream Card Characters IPs | ~~Signed~~ |
-| ~~~~ | X World Games - XWG Wallet | ~~Released~~ |
-|  | Dream Card - Expedition System | ~~Released~~ |
-| ~~~~ | Dream Card - ELO System |  |
+| ~~~~ | X World Games - X World Wallet | Released |
+|  | Dream Card - Expedition: Stake Card to Earn | Released |
+| ~~~~ | Dream Card - ELO System | Coming Soon |
+|  | Dream Card - Avatar Tool for Creators, Artists, Players  | Coming Soon |
+|  | Release Dream Card 2.0 Demo |  |
 | Q4 2021 | Creation of Second Batch Dream Card Character IPs |  |
 |  | X World Games - 1 Million Users Achievement |  |
-|  | X World Games - Avatar Customization System |  |
+|  | X World Games - Avatar Customization Tools |  |
 |  | X World Games - Ecosystem Game Developer Tools |  |
 |  | 5 - 10 Cooperative IP Games |  |
-|  | Added Pool System |  |
-| Q1 2022 | Cloud 3D Rendering System Project |  |
-| Q2 2022 | 5 - 10 Cooperative IP Games with the World's Top Brands |  |
+|  | Added Pool Function to DAO |  |
+|  | Launch DAO Community  |  |
+| Q1 2022 | Build Cloud 3D Rendering System  |  |
+| Q2 2022 | Cooperative 3D Games with the World's Top Brands |  |
 | Q3 2022 | Cloud 3D Rendering System Demo |  |
 |  | X Metaverse System Demo \(VR access to X World Games\) |  |
 

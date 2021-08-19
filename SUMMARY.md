@@ -6,7 +6,6 @@
     * [Vision](x-world-games/team/vision.md)
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
-  * [Roadmap](x-world-games/roadmap.md)
 * [📰 Press Release](press-mentioned/README.md)
   * [Dapp.com](press-mentioned/dapp.com.md)
   * [DappRadar](press-mentioned/dappradar.md)
@@ -36,6 +35,7 @@
 
 * [🌎 Join X World Family](dao/global-communties.md)
 * [⚖️ Governance](dao/dao-introduction.md)
+* [📜Roadmap](dao/roadmap.md)
 
 ---
 
