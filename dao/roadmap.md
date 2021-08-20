@@ -4,7 +4,8 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 
 | Date | Objectives | Status |
 | :--- | :--- | :--- |
-| Q1 2019 | Overall Project Concept | ~~Completed~~ |
+| Q1 2019 | Finish Whitepaper v1.0 for X World Games | ~~Completed~~ |
+|  | Setup Foundation and Legal Structure  | Completed  |
 | Q2 2019 | Team Building | ~~Completed~~ |
 | Q3 2019 | The First Batch of Game Character IPs | ~~Confirmed~~ |
 |  | Dream Card Game Development | ~~Started~~ |
@@ -16,27 +17,29 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | Q3 2020 | Official Website & Marketplace Establishment | ~~Started~~ |
 | Q4 2020 | In-Game Battle Functions | ~~Completed~~ |
 |  | Blockchain Wallet Access Function Test | ~~Completed~~ |
-| Q1 2021 | NFT Contract Audit | ~~Passed~~ |
-| Q2 2021 | Official Website & Marketplace  | ~~Launched~~ |
-| ~~~~ | Dream Card - Collector, Creator, Marketplace & Battle Functions | ~~Completed~~ |
-| Q3 2021 |  Global Community | ~~Launched~~ |
+| Q1 2021 | BEP20 Token contract & NFT Contract Audit | ~~Passed~~ |
+| Q2 2021 | New Official Website & Marketplace  | ~~Launched~~ |
+| ~~~~ | Dream Card Release  - Collector, Creator, Marketplace & Battle Functions | ~~Completed~~ |
+| Q3 2021 |  Global Community on Twitter, Discord, Reddit, Facebook, Telegram | ~~Launched~~ |
 |  | The Second Batch of Dream Card Characters IPs | ~~Signed~~ |
-| ~~~~ | X World Games - X World Wallet | Released |
+| ~~~~ | X World Wallet | Released |
 |  | Dream Card - Expedition: Stake Card to Earn | Released |
 | ~~~~ | Dream Card - ELO System | Coming Soon |
-|  | Dream Card - Avatar Tool for Creators, Artists, Players  | Coming Soon |
-|  | Release Dream Card 2.0 Demo |  |
-| Q4 2021 | Creation of Second Batch Dream Card Character IPs |  |
-|  | X World Games - 1 Million Users Achievement |  |
-|  | X World Games - Avatar Customization Tools |  |
-|  | X World Games - Ecosystem Game Developer Tools |  |
-|  | 5 - 10 Cooperative IP Games |  |
-|  | Added Pool Function to DAO |  |
-|  | Launch DAO Community  |  |
-| Q1 2022 | Build Cloud 3D Rendering System  |  |
-| Q2 2022 | Cooperative 3D Games with the World's Top Brands |  |
-| Q3 2022 | Cloud 3D Rendering System Demo |  |
-|  | X Metaverse System Demo \(VR access to X World Games\) |  |
+|  | Dream Card - Avatar Tool for Creators, Artists, Players, they can put their customize NFT into mystery box.  | Coming Soon |
+|  | Release Dream Card 2.0 Demo | Coming Soon |
+|  | Launch PVE for Dream Card 2.0 | Coming Soon |
+| Q4 2021 | Creation of Second Batch Dream Card Character IPs | Coming Soon |
+|  | X World Games - 1 Million Users Achievement | Coming Soon |
+|  | Avatar Customization Product for Creators  | Coming Soon |
+|  | X World Infrastructure for Blockchain Developers: Internet players can easily use our tools to build their own blockchain games. | Coming Soon |
+|  | 5 - 10 Cooperative well-known Games | Coming Soon |
+|  | Added Pool Function to Marketplace | Coming Soon |
+|  | Launch DAO Community  | Coming Soon |
+| Q1 2022 | Build Cloud 3D Rendering System  | Coming Soon |
+| Q2 2022 | Cooperative 3D Games with the World's Top Brands | Coming Soon |
+| Q3 2022 | Cloud 3D Rendering System Demo | Coming Soon |
+|  | X World System Demo \(VR access to Metaverse\) | Coming Soon |
+| Q4 2022 | Plaers on board to create open world in Metaverse in VR leavel  | Coming Soon |
 
 
 
