@@ -31,7 +31,7 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | Q4 2021 | Creation of Second Batch Dream Card Character IPs | Coming Soon |
 |  | X World Games - 1 Million Users Achievement | Coming Soon |
 |  | Avatar Customization Product for Creators  | Coming Soon |
-|  | X World Infrastructure for Blockchain Developers: Internet players can easily use our tools to build their own blockchain games. | Coming Soon |
+|  | X World Infrastructure for Blockchain Developers: Tools for landscape Visualization, known for its adaptability for modifications \('mods'\) | Coming Soon |
 |  | 5 - 10 Cooperative well-known Games | Coming Soon |
 |  | Added Pool Function to Marketplace | Coming Soon |
 |  | Launch DAO Community  | Coming Soon |
