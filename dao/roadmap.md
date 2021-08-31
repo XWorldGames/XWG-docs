@@ -22,12 +22,12 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | ~~~~ | Dream Card Release  - Collector, Creator, Marketplace & Battle Functions | ~~Completed~~ |
 | Q3 2021 |  Global Community on Twitter, Discord, Reddit, Facebook, Telegram | ~~Launched~~ |
 |  | The Second Batch of Dream Card Characters IPs | ~~Signed~~ |
-| ~~~~ | X World Wallet | Released |
-|  | Dream Card - Expedition: Stake Card to Earn | Released |
-| ~~~~ | Dream Card - ELO System | Coming Soon |
+| ~~~~ | X World Wallet | ~~Released~~ |
+| ~~~~ | Dream Card - Expedition: Stake Card to Earn | ~~Released~~ |
+| ~~~~ | Dream Card - ELO System | ~~Released~~ |
 |  | Dream Card - Avatar Tool for Creators, Artists, Players, they can put their customize NFT into mystery box.  | Coming Soon |
-|  | Release Dream Card 2.0 Demo | Coming Soon |
-|  | Launch PVE for Dream Card 2.0 | Coming Soon |
+|  | Release Dream Card 2.0 Demo | ~~Released~~ |
+| ~~~~ | Launch PVE for Dream Card 2.0 | Coming Soon |
 | Q4 2021 | Creation of Second Batch Dream Card Character IPs | Coming Soon |
 |  | X World Games - 1 Million Users Achievement | Coming Soon |
 |  | Avatar Customization Product for Creators  | Coming Soon |

@@ -6,7 +6,7 @@ Transfers are divided into three sections: R**echarge, Withdraw and Record**.
 
 **Recharge**: Recharge $XWG from the wallet to the game platform.
 
-**Withdrawal**: Withdraw $XWG from the game platform to the wallet. _**\(Temporarily N/A\)**_
+**Withdrawal**: Withdraw $XWG from the game platform to the wallet.
 
 **Record**: View the transaction record of recharge and withdrawal.
 
@@ -108,13 +108,9 @@ Players can stake cards on the chain through the conquest function, which is div
 
 
 
-### Ladder 
+### ELO \(Ladder\) 
 
-{% hint style="info" %}
-Under Development
-{% endhint %}
-
-The ladders are carried out by seasons, offline battles and ranking. Players participate in the ladder competition by paying a certain amount of registration fee, and $XWG rewards will be given according to the player's ladder rankings after the end of the season.
+The ELO mode \(ladder\) is carried out by seasons, offline battles and ranking. Players participate in the ladder competition by paying a certain amount of registration fee, and $XWG rewards will be given according to the player's ladder rankings after the end of the season.
 
 ### Prize pool 
 
