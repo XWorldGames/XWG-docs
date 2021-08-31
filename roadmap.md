@@ -25,7 +25,8 @@ X World Games 将会在未来数年内完成一项的庞大平台基础架构计
 |  | 第二批游戏角色IP | ~~Signed~~ |
 | ~~~~ | X World Games - XWG 钱包 | ~~Released~~ |
 |  | Dream Card - 远征系统 | ~~Released~~ |
-| ~~~~ | Dream Card - ELO 系统 |  |
+| ~~~~ | Dream Card - ELO 系统 | ~~Released~~ |
+|  | Dream Card 2.0 Demo | ~~Released~~ |
 | Q4 2021 | 第二批游戏角色IP创建 |  |
 |  | X World Games - 100万用户达成 |  |
 |  | X World Games - 头像设计系统 |  |
