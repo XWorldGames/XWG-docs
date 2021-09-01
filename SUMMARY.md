@@ -52,6 +52,8 @@
   * [Bug Hunter Winner List](service/support/bug-hunter-winner-list.md)
 * [Contact Us](service/contact-us.md)
 * [Customer Support](service/customer-support.md)
+* [Feedback](service/feedback.md)
+* [Mod Support](service/mod-support.md)
 
 ---
 
