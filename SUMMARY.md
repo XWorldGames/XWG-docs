@@ -11,8 +11,6 @@
   * [DappRadar](press-mentioned/dappradar.md)
   * [Binance Chain News](press-mentioned/binance-chain-news.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
-  * [Token Network](token-metrics-1/token-network/README.md)
-    * [$XWG Token Contract](token-metrics-1/token-network/xwg-token-contract.md)
   * [$XWG Allocation](token-metrics-1/usdxwg-allocation/README.md)
     * [Token Release Schedule](token-metrics-1/usdxwg-allocation/release-schedule/README.md)
       * [Incentive Mechanism](token-metrics-1/usdxwg-allocation/release-schedule/incentive-mechanism.md)
@@ -29,7 +27,6 @@
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
   * [Genesis Sale \#2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
-* [NFT Smart Contracts](games/xwg-nft-contract.md)
 
 ## DAO
 
@@ -66,4 +63,10 @@
 * [Official Email Domains](docs/mail.md)
 * [Security Audit Report](docs/audit-report.md)
 * [Terms and Conditions](docs/terms-and-conditions.md)
+* [Token Network](docs/token-network.md)
+
+## Smart Contract
+
+* [$XWG Token Contract](smart-contract/xwg-token-contract.md)
+* [NFT Smart Contracts](smart-contract/xwg-nft-contract.md)
 

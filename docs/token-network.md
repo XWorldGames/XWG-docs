@@ -1,6 +1,6 @@
 # Token Network
 
-![XWG on BSC](../../.gitbook/assets/xbsc.jpeg)
+![XWG on BSC](../.gitbook/assets/xbsc.jpeg)
 
 X World Games has adopted different protocols for the issuance of various digital assets. The XWG token issuance adopts BEP-20 from Binance Smart Chain, given its security, scalability and affordability, we believe this will maximize our player base and lower the shifting cost for our players coming from the conventional gaming world.   
 
