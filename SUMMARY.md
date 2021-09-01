@@ -48,18 +48,22 @@
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
 
+## Service
+
+* [Marketing Events](service/support/README.md)
+  * [AirDrop Winner list](service/support/bug-hunter-program.md)
+  * [Bug Hunter Winner List](service/support/bug-hunter-winner-list.md)
+* [Contact Us](service/contact-us.md)
+* [Customer Support](service/customer-support.md)
+
+---
+
+* [Join Us](join-us.md)
+
 ## Docs
 
 * [Whitepaper](docs/whitepaper.md)
 * [Official Email Domains](docs/mail.md)
 * [Security Audit Report](docs/audit-report.md)
 * [Terms and Conditions](docs/terms-and-conditions.md)
-
----
-
-* [Marketing Events](support/README.md)
-  * [AirDrop Winner list](support/bug-hunter-program.md)
-  * [Bug Hunter Winner List](support/bug-hunter-winner-list.md)
-* [Contact Us](contact-us.md)
-* [Join Us](join-us.md)
 
