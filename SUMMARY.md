@@ -61,4 +61,5 @@
   * [AirDrop Winner list](support/bug-hunter-program.md)
   * [Bug Hunter Winner List](support/bug-hunter-winner-list.md)
 * [Contact Us](contact-us.md)
+* [Join Us](join-us.md)
 
