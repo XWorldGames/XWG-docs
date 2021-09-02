@@ -4,7 +4,7 @@ description: >-
   our community first.
 ---
 
-# 🌎 Join X World Family
+# 🌎 Join X World Community
 
 ## **X World Games Global Communities** 
 
@@ -29,6 +29,8 @@ Telegram Vietnam🇻🇳 : [https://t.me/xworldgamevn​](https://t.me/xworldgam
 Telegram Vietnam Announcement📢🇻🇳 : [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
 
 Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
+
+Telegram Japan 🇯🇵:[https://t.me/xworldgameJP](https://t.me/xworldgameJP)
 
 Discord: [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
 

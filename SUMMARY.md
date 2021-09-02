@@ -30,7 +30,7 @@
 
 ## DAO
 
-* [🌎 Join X World Family](dao/global-communties.md)
+* [🌎 Join X World Community](dao/global-communties.md)
 * [⚖️ Governance](dao/dao-introduction.md)
 * [📜Roadmap](dao/roadmap.md)
 
