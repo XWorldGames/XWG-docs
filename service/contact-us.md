@@ -8,15 +8,17 @@ Interested in partnership opportunities? `service@xwg.games`
 
 #### Customer Service Support: 
 
-#### _@xwg_\__army_
+#### @xwg\_army
 
-#### _@Eldrago101_
+#### @Eldrago101
 
-#### _@xwg\_knight_ 
+#### @xwg\_knight 
 
-#### _@Lukas\_D_ 
+#### @Lukas\_D
 
-#### _@XWGGuardian_
+#### @XWGGuardian
+
+**@Spotter\_XWG**
 
 ## Contact Core Team Member:
 
