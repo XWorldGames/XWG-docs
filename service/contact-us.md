@@ -20,6 +20,14 @@ Interested in partnership opportunities? `service@xwg.games`
 
 **@Spotter\_XWG**
 
+**@davidlangdon**
+
+**@hyp\_kitsune**
+
+**@jpvasquez87**
+
+
+
 ## Contact Core Team Member:
 
 [0x21 Labs](https://twitter.com/0x21_labs)
