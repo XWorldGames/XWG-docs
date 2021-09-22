@@ -66,6 +66,8 @@ The role is your account and you are in charge of the card battle. This role has
 
 **Level**: The commander level can be improved through combating or upgraded by purchased materials in the mall. The higher the level, the higher the life and total cost. In addition, the level can unlock the extra card slots in the deck and increase the number of cards can be used in the deck configuration.
 
+![](../../.gitbook/assets/tu-pian-%20%282%29.png)
+
 **Life**: In the card battle, a commander will have a specific amount of life to fight with the opponent.  When a commander's life is dropped to zero, the battle is concluded as defeated.
 
 **Total Cost**: The total cost determines the number of cards in the deck.  
