@@ -28,7 +28,7 @@ Telegram Vietnam🇻🇳 : [https://t.me/xworldgamevn​](https://t.me/xworldgam
 
 Telegram Vietnam Announcement📢🇻🇳 : [https://t.me/xworldgamevn\_ann​](https://t.me/xworldgamevn_ann%E2%80%8B) 
 
-Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indoneisa](https://t.me/xwg_games_indoneisa)
+Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indonesia](https://t.me/xwg_games_indonesia)
 
 Telegram Japan 🇯🇵:[https://t.me/xworldgameJP](https://t.me/xworldgameJP)
 
