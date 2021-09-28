@@ -46,7 +46,7 @@ Reddit: [https://new.reddit.com/r/XWorldGames/](https://new.reddit.com/r/XWorldG
 
 Youtube: [https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg](https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg)
 
-WeChat: XWG\_GAMES
+
 
 
 
