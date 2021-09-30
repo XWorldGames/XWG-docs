@@ -21,20 +21,23 @@ X World Games 将会在未来数年内完成一项的庞大平台基础架构计
 | Q1 2021 | NFT 合约安全审计 | ~~Passed~~ |
 | Q2 2021 | 官网&交易所 | ~~Launched~~ |
 | ~~~~ | Dream Card - 收集，创建，交易所，战斗功能 | ~~Completed~~ |
-| Q3 2021 | Dao 去中心化自治社群 | ~~Launched~~ |
-|  | 第二批游戏角色IP | ~~Signed~~ |
+| Q3 2021 | X World Games - 世界社交平台以及社群建立 | ~~Launched~~ |
+|  | Dream Card - 第二批游戏角色IP签署 | ~~Signed~~ |
 | ~~~~ | X World Games - XWG 钱包 | ~~Released~~ |
 |  | Dream Card - 远征系统 | ~~Released~~ |
 | ~~~~ | Dream Card - ELO 系统 | ~~Released~~ |
 |  | Dream Card 2.0 Demo | ~~Released~~ |
-| Q4 2021 | 第二批游戏角色IP创建 |  |
-|  | X World Games - 100万用户达成 |  |
-|  | X World Games - 头像设计系统 |  |
+|  | X World Games - 100万用户达成 | ~~Completed~~ |
+|  | Marketplace 2.0 | ~~Completed~~ |
+| Q4 2021 | Dream Card - 第二批游戏角色IP创建 |  |
+|  | Dream Card - 2.0 Alpha |  |
 |  | X World Games - 生态游戏开发工具 |  |
-|  | 5 - 10 合作IP游戏签署 |  |
-|  | 增加池系统 |  |
+|  | Marketplace - 增加池系统 |  |
+|  | X World Games - 头像设计系统 |  |
+|  | DAO - 去中心化自治社群成立 |  |
 | Q1 2022 | 云3D渲染系统项目 |  |
 | Q2 2022 | 5 - 10 世界知名品牌合作IP游戏签署 |  |
 | Q3 2022 | 雲3D渲染系統DEMO |  |
 |  | X 元宇宙系统 DEMO \(VR设备访问 X World Games\) |  |
+| Q4 2022  | 元宇宙系统 Alpha - 开放玩家使用VR登入X元宇宙 |  |
 
