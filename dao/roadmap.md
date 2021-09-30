@@ -25,21 +25,21 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | ~~~~ | X World Wallet | ~~Released~~ |
 | ~~~~ | Dream Card - Expedition: Stake Card to Earn | ~~Released~~ |
 | ~~~~ | Dream Card - ELO System | ~~Released~~ |
-|  | Dream Card - Avatar Tool for Creators, Artists, Players, they can put their customize NFT into mystery box.  | Coming Soon |
 |  | Release Dream Card 2.0 Demo | ~~Released~~ |
-| ~~~~ | Launch PVE for Dream Card 2.0 | Coming Soon |
-| Q4 2021 | Creation of Second Batch Dream Card Character IPs | Coming Soon |
-|  | X World Games - 1 Million Users Achievement | Coming Soon |
-|  | Avatar Customization Product for Creators  | Coming Soon |
-|  | X World Infrastructure for Blockchain Developers: Tools for landscape Visualization, known for its adaptability for modifications \('mods'\) | Coming Soon |
-|  | 5 - 10 Cooperative well-known Games | Coming Soon |
-|  | Added Pool Function to Marketplace | Coming Soon |
-|  | Launch DAO Community  | Coming Soon |
+|  | X World Games - 1 Million Users Achievement | ~~Completed~~ |
+|  | Marketplace 2.0  | ~~Completed~~ |
+| Q4 2021 | Dream Card - Creation of Second Batch Dream Card Character IPs | Coming Soon |
+|  | Dream Card - 2.0 Alpha | Coming Soon |
+|  | X World Games - Infrastructure for Blockchain Developers: Tools for landscape Visualization, known for its adaptability for modifications \('mods'\) | Coming Soon |
+|  | Marketplace - Pool Functions | Coming Soon |
+|  | X World Games - Avatar Customization Tool | Coming Soon |
+|  | DAO - Decentralized Community Launch | Coming Soon |
 | Q1 2022 | Build Cloud 3D Rendering System  | Coming Soon |
+|  | 5 - 10 Cooperative well-known Games | Coming Soon |
 | Q2 2022 | Cooperative 3D Games with the World's Top Brands | Coming Soon |
 | Q3 2022 | Cloud 3D Rendering System Demo | Coming Soon |
 |  | X World System Demo \(VR access to Metaverse\) | Coming Soon |
-| Q4 2022 | Plaers on board to create open world in Metaverse in VR leavel  | Coming Soon |
+| Q4 2022 | X World System Alpha - Players onboard to enjoy open-world VR Metaverse  | Coming Soon |
 
 
 
