@@ -114,6 +114,16 @@
       <td style="text-align:left"><a href="https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0#code">https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0#code</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">Binance Expedition</td>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0xbde30b04BB5CcE5808f225e46Aa069957d0C8efd">https://bscscan.com/address/0xbde30b04BB5CcE5808f225e46Aa069957d0C8efd</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Marketplace 2.0</td>
+      <td style="text-align:left"><a href="https://bscscan.com/address/0x1EE6539c12361B6Bc1fB930435c70D557DEE392f">https://bscscan.com/address/0x1EE6539c12361B6Bc1fB930435c70D557DEE392f</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
