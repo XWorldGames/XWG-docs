@@ -2,8 +2,7 @@
 
 * [About](README.md)
 * [👑 X World Games](x-world-games/README.md)
-  * [Team](x-world-games/team/README.md)
-    * [Vision](x-world-games/team/vision.md)
+  * [Vision](x-world-games/vision.md)
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
 * [📰 Press Release](press-mentioned/README.md)
@@ -11,11 +10,7 @@
   * [DappRadar](press-mentioned/dappradar.md)
   * [Binance Chain News](press-mentioned/binance-chain-news.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
-  * [$XWG Allocation](token-metrics-1/usdxwg-allocation/README.md)
-    * [Token Release Schedule](token-metrics-1/usdxwg-allocation/release-schedule/README.md)
-      * [Incentive Mechanism](token-metrics-1/usdxwg-allocation/release-schedule/incentive-mechanism.md)
   * [Token Utility](token-metrics-1/token-utility.md)
-  * [Listed Exchange](token-metrics-1/listed-exchange.md)
 
 ## Games
 
@@ -25,7 +20,7 @@
   * [Game Feature](games/dream-card/game-feature.md)
   * [Game Mechanism](games/dream-card/game-mechanism/README.md)
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
-  * [Genesis Sale \#2740](games/dream-card/marketplace.md)
+  * [Genesis Sale #2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
 
 ## DAO
@@ -34,7 +29,7 @@
 * [⚖️ Governance](dao/dao-introduction.md)
 * [📜Roadmap](dao/roadmap.md)
 
----
+***
 
 * [❓FAQs](faq/README.md)
   * [I need support! Where can I contact you?](faq/i-need-support-where-can-i-contact-you.md)
@@ -55,7 +50,7 @@
 * [Feedback](service/feedback.md)
 * [Mod Support](service/mod-support.md)
 
----
+***
 
 * [Join Us](join-us.md)
 
@@ -71,4 +66,3 @@
 
 * [$XWG Token Contract](smart-contract/xwg-token-contract.md)
 * [NFT Smart Contracts](smart-contract/xwg-nft-contract.md)
-

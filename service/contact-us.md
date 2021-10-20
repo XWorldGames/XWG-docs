@@ -6,13 +6,13 @@ Interested in partnership opportunities? `service@xwg.games`
 
 ## **Telegram Community Manager**
 
-#### Customer Service Support: 
+#### Customer Service Support:&#x20;
 
 #### @xwg\_army
 
 #### @Eldrago101
 
-#### @xwg\_knight 
+#### @xwg\_knight&#x20;
 
 #### @Lukas\_D
 
@@ -30,15 +30,13 @@ Interested in partnership opportunities? `service@xwg.games`
 
 ## Contact Core Team Member:
 
-[0x21 Labs](https://twitter.com/0x21_labs)
+[0x21 Labs](https://twitter.com/0x21\_labs)
 
 
 
-#### 
+####
 
-\*\*\*\*
-
-
+****
 
 
 
