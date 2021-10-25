@@ -1,6 +1,6 @@
 # 👑 X World Games
 
-## **Hih**
+## Project Features
 
 ### Decentralization
 
