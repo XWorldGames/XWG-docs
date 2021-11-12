@@ -82,7 +82,7 @@ There are five different rarities of cards in the game: Common, Rare, Epic, Lege
 
 | **Rarity**    | **Color** | **Max. Skill Slots** | **Combat Waiting Rounds** |
 | ------------- | --------- | -------------------- | ------------------------- |
-| **Common**    | White     | 0                    | 1                         |
+| **Common**    | White     | 1                    | 1                         |
 | **Rare**      | Green     | 1                    | 2                         |
 | **Epic**      | Blue      | 2                    | 4                         |
 | **Legendary** | Purple    | 3                    | 6                         |
