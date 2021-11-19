@@ -1,10 +1,10 @@
 # 40 Hero Characters
 
-The XWG Dream Cards \(NFTs\) are released in BEP-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels, and other features, which are assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
+The XWG Dream Cards (NFTs) are released in BEP-721 format. Each Dream Card has qualities, elements, techniques, HPs, ATKs, levels, and other features, which are assigned based on exclusive IP either developed by the XWG team or third-party partnerships, so that each Dream Card has uniqueness and collection value.
 
 In addition to the collection value of each Dream Card, XWG will also allow the holders of Dream Cards to use them to fight with each other in the XWG Arena, as well as to exchange them into XWG BEP-20 tokens.
 
-Here, let’s have the character introductions of heroes in XWG Dream Card：
+Here, let’s have the character introductions of heroes in Dream Card：
 
 
 
@@ -86,11 +86,11 @@ Light and dark were never the only opposites, and those who use dark magics were
 
 Dawn, who carried an ancient bloodline, had longed for becoming a God since childhood. She had abandoned everything to practice martial arts for long 12 years, only for pursuing her path as an heir of the ancient bloodline. She and her families were afflicted with such a heavy mission, and although her name was Dawn,  she had not seen the sun in these 12 years.
 
-    
+&#x20;  &#x20;
 
 ![](../../.gitbook/assets/col00000013.png)
 
-#### **14. Fiora**   
+#### **14. Fiora**  &#x20;
 
 Fiora, the strongest person in the Wild Stream Tribe,  was the only one who encouraged Emani and being a good sister to her in Emani's heart. She had killed countless monsters that escaped from the Fear Mountains and also been in a place full of the miracles of Gaia and Gods. However, she firmly believed that growth should not rely on external. So she refused to adopt Hornblade for growing her strength, and she criticized Emani for doing that. Although she participated in the battle of Godhead, she still protected Emani simply because she believed that people preserved their own values and should not attempt to become others.
 
@@ -249,4 +249,3 @@ Aurora, a mage in the Mortal Realm, was the older sister of Liz. She really hate
 #### **40.Kana**
 
 Kana, the spiritual creature of the Fear Mountains,  possessed a powerful restoration spell - the aura of life. With Kana's help, Emani found the magic tips to defeat the Giant-Horned Dragon-Lion. She really liked her name given by Emani, so she wanted to train to achieve a complete and independent human form; in that way, she could accompany Emani with her journey. Because she had seen Fiora killing countless creatures and beasts, she was afraid of Fiora, but she didn't know that the name of Kana was actually Fiora's nickname.
-

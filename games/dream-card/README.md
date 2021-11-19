@@ -1,7 +1,7 @@
-# Dream Card
+# Dream Card 1.0
 
 {% embed url="https://youtu.be/MjjqQAPLaHM" %}
-Dream Card Demo
+Dream Card 1.0 Teaser
 {% endembed %}
 
 The first game released on the X World Games platform is "Dream Card," which is the first series of collectable NFT cards issued by X World Games, and it is also the world's first Japanese ACG style NFT TCG game. The number of players with TCG games currently exceeds 60 million.

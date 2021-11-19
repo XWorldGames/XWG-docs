@@ -8,21 +8,22 @@ We are excited to see so many top crypto institutional investors in the space we
 
 | Investor Backers                                 |
 | ------------------------------------------------ |
+| [BTX Capital](http://btx.capital)                |
+| [0x21 Labs](https://0x21labs.xyz)                |
+| [Kyros Ventures](https://kyros.ventures)         |
+| [Catcher VC](https://www.chaincatcher.com)       |
+| [Chain Capital](http://capital-chain.com)        |
+| [Itsblockchain](https://itsblockchain.com)       |
 | [NGC Ventures](https://www.ngc.fund)             |
 | [PreAngel Fund](http://www.preangelfund.cn)      |
 | [FBG Capital](https://www.fbg.capital)           |
 | [AU21Capital](https://au21.capital)              |
 | [LongLing Capital](http://www.longling.com)      |
 | [SNZ](https://snzholding.com)                    |
-| [Chain Capital](http://capital-chain.com)        |
 | [Moonwhale Ventures](https://moonwhale.ventures) |
-| [BTX Capital](http://btx.capital)                |
 | [CryptoDiffer](https://cryptodiffer.com/news/)   |
 | [Lanlaxy Group](http://www.lanlaxy.com)          |
-| [Catcher VC](https://www.chaincatcher.com)       |
-| [Kyros Ventures](https://kyros.ventures)         |
 | [ChainLink Cap](http://www.chinalinkcap.com)     |
-| [Itsblockchain](https://itsblockchain.com)       |
 | [Consensus Lab](http://consensus-lab.com)        |
 | [Crasolum](https://crasolum.com)                 |
 | [LYVC](http://avstarcapital.co)                  |

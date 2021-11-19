@@ -24,7 +24,7 @@ Enjoy different games in one open world via cross-game world experience. Players
 
 Provide user traffics and economic flows for blockchain games, and create a game metaverse for players and creators.
 
-### **NFT Exchange**&#x20;
+### **NFT Marketplace**
 
 Provide exclusive NFT transactions for in-game characters and items, adopt various bidding models, and support NFT fragmentation and market maker liquidity in the future.
 
