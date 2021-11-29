@@ -12,3 +12,5 @@ Dream Card is inspired by "Pokémon Trading Card Game" and combines the technolo
 
 ![](../../.gitbook/assets/wechatimg1487.png)
 
+**Dream Card 1.0** is done by the minimum viable product approach, which mainly focuses on PVP gameplay, contains all the basic and functional elements of a crypto trading card game, such as level & rarity system, character growth, ELO ranking, passive skills, and NFT staking & trading. Dream Card 1.0 was successfully launched in June 2021 and attracted more than 1 million+ players all over the world.
+

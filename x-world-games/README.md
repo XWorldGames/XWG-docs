@@ -1,10 +1,10 @@
 # 👑 X World Games
 
-## Project Features
+## Features
 
 ### Decentralization
 
-A true decentralized ownership of a gaming world via DAO.  Games that hold XWG tokens get to decide the platform governance policy or the next in-game development, including reward mechanisms and tokenomic systems.
+True decentralized ownership of a gaming world via DAO. Gamers that hold XWG tokens get to decide the governance policy or the next in-game development for the ecosystem, including reward mechanisms and tokenomic systems.
 
 ### Creation & Collection
 
@@ -18,30 +18,24 @@ Ally your friends to battle your rivals. XWG is powered by a global community to
 
 Enjoy different games in one open world via cross-game world experience. Players truly own their characters and sets, and experience their assets in different games of the X World.
 
-## Project Focuses
+## Infrastructures
 
-### **Blockchain Game Platform**&#x20;
+### **Blockchain Game Platform,** X World Games
 
 Provide user traffics and economic flows for blockchain games, and create a game metaverse for players and creators.
 
-### **NFT Marketplace**
+### **NFT Exchange, Marketplace**
 
 Provide exclusive NFT transactions for in-game characters and items, adopt various bidding models, and support NFT fragmentation and market maker liquidity in the future.
 
-### **DeFi Gamification**&#x20;
+### **DeFi Gamification,** X-Pool
 
-A variety of DeFi functions with gamification, including liquidity mining, staking mining, DeFi lending and Swap.
+A variety of DeFi functions with gamification, including liquidity mining, NFT/token staking mining, DeFi lending and Swap.
 
-### **Authentic Anime IP**&#x20;
-
-Combine many Japanese masterpiece anime and game IPs and integrate exclusive characters into the game world
-
-### **Cross-Game Ecosystem**&#x20;
-
-Create unique cross-game character and equipment experience, secure digital in-game item ownership and share multi-game resources
-
-### **Open-Game Creation**
+### **Open-Game Creation, X-Creator**
 
 Provides a series of open-source and comprehensive game creation tools, from simple character creation to complex script/function editing
 
-\
+### **Cross-Game Ecosystem, X World System**
+
+Create unique cross-game character and equipment experience, secure digital in-game item ownership and share multi-game resources, adopt more protocols to integrate other projects, and achieve AR/VR gaming experience from the platform.\
