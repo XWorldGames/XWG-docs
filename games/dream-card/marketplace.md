@@ -14,7 +14,7 @@ Please visit[ X World Games Marketplace](https://xwg.games/marketplace.html) to 
 
 
 
-### **Please view the details of our genesis sale as below:  **
+### **Please view the details of our genesis sale as below:** &#x20;
 
 {% embed url="https://medium.com/x-world-games/x-world-games-genesis-sale-for-dream-card-25be3e346095" %}
 

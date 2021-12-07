@@ -73,7 +73,7 @@ The role is your account and you are in charge of the card battle. This role has
 **Total Cost**: The total cost determines the number of cards in the deck.\
 
 
-#### **2.2 **Card Attributes
+#### **2.2** Card Attributes
 
 #### **Quality (Rarity)**
 

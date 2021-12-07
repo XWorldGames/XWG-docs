@@ -4,9 +4,9 @@ description: >-
   our community first.
 ---
 
-# 🌎 Join X World Community
+# 🌎 X World Community
 
-## **X World Games Global Communities **
+## **X World Games Global Communities**&#x20;
 
 {% hint style="info" %}
 Our LinkTree: [https://linktr.ee/XWorldGames](https://linktr.ee/XWorldGames)

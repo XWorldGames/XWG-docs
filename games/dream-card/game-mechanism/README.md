@@ -4,7 +4,7 @@
 
 According to the matching time, the matching is divided into two stages:&#x20;
 
-> **Normal matching **
+> **Normal matching**&#x20;
 >
 > **Extended matching**
 
@@ -66,7 +66,7 @@ _S = current staking block #_
 
 _BP = current block production_
 
-** **$$PR = TR / TV * PV * ((B-S) / (TR/BP))$$&#x20;
+&#x20;**** $$PR = TR / TV * PV * ((B-S) / (TR/BP))$$&#x20;
 
 ****
 

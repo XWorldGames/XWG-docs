@@ -8,19 +8,19 @@
 
 ![](../.gitbook/assets/meta-airdrop1.png)
 
-**Step 2: **Open your Metamask browser and visit the [airdrop page](https://nft.xwg.games/pages/index/nftairdrop)
+**Step 2:** Open your Metamask browser and visit the [airdrop page](https://nft.xwg.games/pages/index/nftairdrop)
 
 ![](../.gitbook/assets/meta-airdrop2.png)
 
-**Step 3: **Click to connect with your selected wallet address
+**Step 3:** Click to connect with your selected wallet address
 
 ![](../.gitbook/assets/meta-airdrop3.png)
 
-**Step 4: **Click the **Claim Airdrop** button
+**Step 4:** Click the **Claim Airdrop** button
 
 ![](../.gitbook/assets/meta-airdrop4.png)
 
-**Step 5: **Confirm the transaction and pay your gas fee (BNB)
+**Step 5:** Confirm the transaction and pay your gas fee (BNB)
 
 ![](../.gitbook/assets/meta-airdrop5.png)
 

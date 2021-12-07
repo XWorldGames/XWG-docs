@@ -1,6 +1,6 @@
 # Official Email Domains
 
-X World Games official email domains: **@xwg.games **and** @mail.xwg.games **
+X World Games official email domains: **@xwg.games** and **@mail.xwg.games**&#x20;
 
 **@xwg.games** domain name mailbox is for external contact and its email address is: xxxx@xwg.games mail
 
