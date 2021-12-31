@@ -40,7 +40,7 @@ For more information, please review the article "[Security First in BSC & DeFi: 
 
 Besides the blockchain network, smart contracts programmed by X World Games were also audited by Certik. The detailed report can be found here: [Audit Report](https://docs.xwg.games/docs/audit-report).
 
-### Do you'll provide the type of insurance? I would like to have insurance, as it gives peace of mind mainly from any online theft or crime or maybe even from an insider attack?
+### Do you'll provide the type of insurance? as it gives peace of mind mainly from any online theft or crime.
 
 There's no single individual insurance provided. Regardless, suppose a significant collective financial loss was due to the fault of X World Games. In that case, we will step up to protect our user interests and compensate with our emergency insurance SAFU fund.
 
