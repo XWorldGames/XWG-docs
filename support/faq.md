@@ -1,8 +1,8 @@
 # 问与答
 
-### 什么是 $XWG 代币？
+### 什麼是 $XWG 代幣？
 
-$XWG 通证是 X World Games 的原生代币，基于币安智能链的 BEP-20 标准构建，固定总供应量为 100 亿。 
+$XWG 通证是 X World Games 的原生代币，基于币安智能链的 BEP-20 标准构建，固定总供应量为 100 亿。&#x20;
 
 $XWG 是推动 X World Games 生态系统发展的重要燃料。
 
@@ -44,7 +44,7 @@ $XWG 持有者将能够通过参与游戏挖矿机制、DeFi 运营和 DAO 投�
 
 ### 我需要一个加密钱包来玩游戏吗？
 
-是的，需要像 [MetaMask\(小狐狸\)](https://metamask.io/)或[币安钱包](https://www.binance.com/en/wallet-direct)这样的加密钱包。钱包地址作为您的账户，确保您所有数字资产（如XWG代币、NFT卡、虚拟道具）的安全和在虚拟世界中的进步。 
+是的，需要像 [MetaMask(小狐狸)](https://metamask.io)或[币安钱包](https://www.binance.com/en/wallet-direct)这样的加密钱包。钱包地址作为您的账户，确保您所有数字资产（如XWG代币、NFT卡、虚拟道具）的安全和在虚拟世界中的进步。&#x20;
 
 如果您目前没有加密钱包，您可以先使用手机号或邮箱注册并登录游戏，您的游戏内数据将保存在您的本地计算机上（链下）。但是，当您需要使用您的游戏资产进行链上操作时，您仍然需要将您的帐户与加密钱包地址绑定。
 
@@ -58,13 +58,11 @@ $XWG 持有者将能够通过参与游戏挖矿机制、DeFi 运营和 DAO 投�
 
 ### 我需要帮助！我在哪里可以联系到你？
 
-请加入我们的 [Discord](https://discord.gg/YeEkrr2PZQ)  或 [Twitter](https://twitter.com/xwg_games) 社区并询问您的问题。我们的工作人员会尽快回复，友好的社区成员也可以提供帮助。 此外，欢迎您加入我们的 Telegram/Wechat 群组以获得支持：
+请加入我们的 [Discord](https://discord.gg/YeEkrr2PZQ)  或 [Twitter](https://twitter.com/xwg\_games) 社区并询问您的问题。我们的工作人员会尽快回复，友好的社区成员也可以提供帮助。 此外，欢迎您加入我们的 Telegram/Wechat 群组以获得支持：
 
 * Telegram Official🌍: [https://t.me/xworldgames](https://t.me/xworldgames)
-* Telegram China🇨🇳: [https://t.me/xwg\_games\_CN](https://t.me/xwg_games_CN)
+* Telegram China🇨🇳: [https://t.me/xwg\_games\_CN](https://t.me/xwg\_games\_CN)
 * Telegram Vietnam🇻🇳: [https://t.me/xworldgamevn](https://t.me/xworldgamevn)
-* Telegram Vietnam Announcement📢:: [https://t.me/xworldgamevn\_an](https://t.me/xworldgamevn_ann)
+* Telegram Vietnam Announcement📢:: [https://t.me/xworldgamevn\_an](https://t.me/xworldgamevn\_ann)
 * Wechat: XWG\_GAMES
-
-
 

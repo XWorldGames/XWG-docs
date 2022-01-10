@@ -6,12 +6,12 @@
 * [X World Games](x-world-games.md)
 * [團隊](team.md)
 * [投資機構](backer.md)
-* [路线图](roadmap.md)
-* [媒体新闻](press-mentioned.md)
+* [路線圖](roadmap.md)
+* [媒體新聞](press-mentioned.md)
 
-## $XWG 通证指标 <a href="#token-metrics" id="token-metrics"></a>
+## $XWG 通證指標 <a href="#token-metrics" id="token-metrics"></a>
 
-* [通证用途](token-metrics/token-utility.md)
+* [通證用途](token-metrics/token-utility.md)
 * [通证标准](token-metrics/token-network.md)
 * [$XWG分配计划](token-metrics/usdxwg-allocation.md)
 * [通证释放时程](token-metrics/release-schedule.md)
