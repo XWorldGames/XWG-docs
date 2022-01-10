@@ -1,8 +1,8 @@
-# Game Feature
+# Game Features
 
 ### $XWG Transfer In Game
 
-Transfers are divided into three sections: R**echarge, Withdraw and Record**.
+Transfers are divided into three sections: **Recharge, Withdraw and Record**.
 
 **Recharge**: Recharge $XWG from the wallet to the game platform.
 
