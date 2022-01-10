@@ -1,6 +1,6 @@
 # Our Team
 
-**Fernando Liu Co-Founder, CEO**
+**Fernando Liu: Co-Founder, CEO**
 
 Former Asia Pacific president of Wall Street private equity investment fund Barron Partners&#x20;
 
@@ -16,7 +16,7 @@ Investor in crypto-games and blockchain since 2017
 
 
 
-**Sean Chen Co-Founder, CTO**&#x20;
+**Sean Chen: Co-Founder, CTO**&#x20;
 
 15+ years of experience in the online gaming and software sector.&#x20;
 
@@ -26,7 +26,7 @@ Investor in crypto-games and blockchain since 2017
 
 
 
-**Ada Yuan Co-Founder, COO**&#x20;
+**Ada Yuan: Co-Founder, COO**&#x20;
 
 Crypto investor & community advocate since 2012
 
@@ -38,7 +38,7 @@ Veteran in NFT gaming product design, development strategy and WEB 3.0 adoption 
 
 
 
-**Edwin Liu Co-Founder, Head of Business Development**&#x20;
+**Edwin Liu: Co-Founder, Head of Business Development**&#x20;
 
 A senior marketing specialist and financial analyst with a decade-long accumulation of experience in various business portfolios.&#x20;
 
@@ -50,7 +50,7 @@ Crypto and blockchain investor since 2013.&#x20;
 
 
 
-**Jouinss Head of Community**&#x20;
+**Jouinss: Head of Community**&#x20;
 
 10+ years as Back-end Engineer specializing in encryption, tokenization, and anything PCI-related at Fiserv.&#x20;
 
