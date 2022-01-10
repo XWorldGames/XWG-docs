@@ -66,7 +66,7 @@ _S = current staking block #_
 
 _BP = current block production_
 
-&#x20;**** $$PR = TR / TV * PV * ((B-S) / (TR/BP))$$&#x20;
+&#x20;**** $$PR= \frac{TR}{TV}\cdot PV\cdot\frac{B-S}{BP}$$&#x20;
 
 ****
 
