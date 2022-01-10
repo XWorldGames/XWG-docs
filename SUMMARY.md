@@ -37,6 +37,10 @@
   * [Mystery Box](games/dream-card/mystery-box.md)
 * [📜Roadmap](games/roadmap.md)
 
+## Tools
+
+* [X-Wallet](tools/x-wallet.md)
+
 ## DAO
 
 * [🌎 X World Community](dao/global-communties.md)
