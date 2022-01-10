@@ -16,5 +16,9 @@ Dream Card V2 comes with a versatile NFT feature that provides players with vari
 
 ![NFT Land in Dream Card V2 ](<../../.gitbook/assets/Screenshot 2022-01-10 at 18.11.05.png>)
 
+Equipments&#x20;
 
+Heroes in DC 2.0 can employ equipment, which can be categorized into two: weapons and clothes; in addition, each class owns exclusive and unique equipment. Equipment can be obtained through mystery box opening or game chapter clearance.
+
+The equipment is divided into 5 qualities of white, green, blue, purple, and orange qualities. Equipment can be upgraded by consuming other equipment, and the upgraded equipment keeps the consumed equipment's experience which will not be devalued in the end. Equipment can significantly improve heroes' attributes and can be traded on the marketplace and
 

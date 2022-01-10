@@ -11,7 +11,6 @@
   * [DappRadar](press-mentioned/dappradar.md)
   * [Binance Chain News](press-mentioned/binance-chain-news.md)
   * [Coindesk](press-mentioned/coindesk.md)
-  * [Gamek.vn](press-mentioned/gamek.vn.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility.md)
   * [Token Network](token-metrics-1/token-network.md)
