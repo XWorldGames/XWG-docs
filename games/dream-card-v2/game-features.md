@@ -2,7 +2,7 @@
 
 Lottery
 
-Dream Card v2's Lottery feature is a brand-new design and first of its kind in crypto games- upon completing each and every level and regardless winning or losing, players will get a chance at winning a lottery for their lucky draw at the Prize Pool.
+Dream Card V2's Lottery feature is a brand-new design and first of its kind in crypto games- upon completing each and every level and regardless winning or losing, players will get a chance at winning a lottery for their lucky draw at the Prize Pool.
 
 
 
@@ -16,9 +16,15 @@ Dream Card V2 comes with a versatile NFT feature that provides players with vari
 
 ![NFT Land in Dream Card V2 ](<../../.gitbook/assets/Screenshot 2022-01-10 at 18.11.05.png>)
 
-Equipments&#x20;
+Gears
 
-Heroes in DC 2.0 can employ equipment, which can be categorized into two: weapons and clothes; in addition, each class owns exclusive and unique equipment. Equipment can be obtained through mystery box opening or game chapter clearance.
+![](../../.gitbook/assets/image27.png) ![](../../.gitbook/assets/image4.png) ![](../../.gitbook/assets/image22.png) ![](../../.gitbook/assets/image39.png)
 
-The equipment is divided into 5 qualities of white, green, blue, purple, and orange qualities. Equipment can be upgraded by consuming other equipment, and the upgraded equipment keeps the consumed equipment's experience which will not be devalued in the end. Equipment can significantly improve heroes' attributes and can be traded on the marketplace and
+Heroes in Dream CardV2 can employ gears in two categories: weapons and outfits.&#x20;
+
+Each class owns its exclusive and unique gears. Equipments can be obtained through Mystery Box opening or game chapter clearance.&#x20;
+
+Gears are divided into 5 qualities in white, green, blue, purple, and orange from low to high. Gears can be upgraded by burning lower quality gears, the upgraded gears get to keep the burnt gears' experience.&#x20;
+
+Gears can significantly boosts heroes' attributes and can be traded on the marketplace.
 
