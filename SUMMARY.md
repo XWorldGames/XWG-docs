@@ -1,11 +1,11 @@
 # Table of contents
 
 * [關於](README.md)
-* [愿景](vision.md)
-* [历史](history.md)
+* [願景](vision.md)
+* [歷史](history.md)
 * [X World Games](x-world-games.md)
-* [团队](team.md)
-* [投资机构](backer.md)
+* [團隊](team.md)
+* [投資機構](backer.md)
 * [路线图](roadmap.md)
 * [媒体新闻](press-mentioned.md)
 
