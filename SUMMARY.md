@@ -6,6 +6,7 @@
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
     * [Team](x-world-games/backer/team.md)
+  * [Our Team](x-world-games/our-team.md)
 * [📰 Press Release](press-mentioned/README.md)
   * [Dapp.com](press-mentioned/dapp.com.md)
   * [DappRadar](press-mentioned/dappradar.md)
