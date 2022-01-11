@@ -1,4 +1,4 @@
-# 媒體新聞
+# 媒体新闻
 
 ### [DappRadar](https://dappradar.com/blog/x-world-games-arrives-on-binance-smart-chain)
 
@@ -20,7 +20,7 @@
 
 {% embed url="https://finance.yahoo.com/news/x-world-games-secures-1-155500576.html" %}
 
-### &#x20;[Crypto Press](https://cryptopress.network/x-world-games-secures-1-2-million-funding-led-by-top-crypto-venture-funds/)
+###  [Crypto Press](https://cryptopress.network/x-world-games-secures-1-2-million-funding-led-by-top-crypto-venture-funds/)
 
 {% embed url="https://cryptopress.network/x-world-games-secures-1-2-million-funding-led-by-top-crypto-venture-funds/" %}
 
@@ -36,9 +36,9 @@
 
 {% embed url="https://www.toutiao.com/i6959547531957420577/?wid=1620970895950" %}
 
-### &#x20;[Sohu](https://www.sohu.com/a/465172067\_100142711)
+###  [Sohu](https://www.sohu.com/a/465172067_100142711)
 
-{% embed url="https://www.sohu.com/a/465172067_100142711" %}
+{% embed url="https://www.sohu.com/a/465172067\_100142711" %}
 
 ### [ChainNews](https://www.chainnews.com/articles/659128536728.htm)
 
@@ -59,6 +59,8 @@
 ### [FeiXiaoHao](https://www.feixiaohao.com/news/9945544.html)
 
 {% embed url="https://www.feixiaohao.com/news/9945544.html" %}
+
+
 
 
 
