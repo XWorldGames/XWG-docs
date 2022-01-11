@@ -1,186 +1,187 @@
-# 新手教學
+# 新手教学
 
-## 什麼是Dream Card？
+## 什么是Dream Card？
 
-Dream Card 是X-World-Games遊戲生態發布的第一款NFT對戰卡牌遊戲，遊戲卡牌是建立在幣安智能鏈上的數字化，可收藏NFT卡牌。您至少需要獲取一張卡牌，即可在網絡上與全世界玩家進行匹配對戰。
+Dream Card 是X-World-Games游戏生态发布的第一款NFT对战卡牌游戏，游戏卡牌是建立在币安智能链上的数字化，可收藏NFT卡牌。您至少需要获取一张卡牌，即可在网络上与全世界玩家进行匹配对战。
 
-該項目託管在[GitHub](https://github.com/XWorldGames)上. 此處記錄了對本頁所做的所有更新以及所有過去版本的規則。此外，此頁面上的更改日誌描述了版本之間的所有規則更改。
+该项目托管在[GitHub](https://github.com/X-World-Games)上. 此处记录了对本页所做的所有更新以及所有过去版本的规则。此外，此页面上的更改日志描述了版本之间的所有规则更改。
 
-您可以在GitHub 頁面上或者X-World-Games官網的DAO中報告問題並討論更改。
+您可以在GitHub 页面上或者X-World-Games官网的DAO中报告问题并讨论更改。
 
-DAO是去中心化治理社區，您可以在社區對與遊戲相關的各項規則進行討論並提出修改意見，遊戲社區的所有玩家都可以對修改意見進行投票。
+DAO是去中心化治理社区，您可以在社区对与游戏相关的各项规则进行讨论并提出修改意见，游戏社区的所有玩家都可以对修改意见进行投票。
 
-## 新手教學
+## 新手教学
 
-### **1.**介紹
+### **1. 介绍**
 
-#### 1.1 什麼是Dream Card？
+#### **1.1** 什么是Dream Card？
 
-Dream Card 是X-World-Games遊戲生態發布的第一款NFT對戰卡牌遊戲，遊戲卡牌是建立在幣安智能鏈上的數字化，可收藏NFT卡牌。可以在NFT交易市場自由交易，並培育出具有令人振奮的特徵和不同程度的可愛形象，強大的戰鬥屬性和交易價值的新角色。
+Dream Card 是X-World-Games游戏生态发布的第一款NFT对战卡牌游戏，游戏卡牌是建立在币安智能链上的数字化，可收藏NFT卡牌。可以在NFT交易市场自由交易，并培育出具有令人振奋的特征和不同程度的可爱形象，强大的战斗属性和交易价值的新角色。
 
-使用卡牌進行策略對戰，規則類似於傳統的卡牌桌遊或網絡TCG卡牌遊戲，把對方的卡牌消耗完或對方角色生命值為0即可獲得勝利。
+使用卡牌进行策略对战，规则类似于传统的卡牌桌游或网络TCG卡牌游戏，把对方的卡牌消耗完或对方角色生命值为0即可获得胜利。
 
-該文檔可作為新手玩家入門標準規則的參考。首次開始前，請仔細閱讀該網站內容並準備所需要的工具。
+该文档可作为新手玩家入门标准规则的参考。首次开始前，请仔细阅读该网站内容并准备所需要的工具。
 
-#### **1.2** 入門
+#### **1.2** 入门
 
-Dream Card在PC端瀏覽器（例如：Chrome或Firefox）和移動端H5頁面都可以玩。但是，如果您想充分體驗去中心化遊戲的樂趣，建議具有：
+Dream Card在PC端浏览器（例如：Chrome或Firefox）和移动端H5页面都可以玩。但是，如果您想充分体验去中心化游戏的乐趣，建议具有：
 
-數字錢包 -像[MetaMask(小狐狸)](https://metamask.io)，[幣安錢包](https://www.binance.com/en/wallet-direct) 。數字錢包用作您的個人帳戶，可確保您所有的數字資產（例如XWG代幣，NFT卡牌，虛擬道具）和虛擬世界中的進展安全。
+数字钱包 -像[MetaMask\(小狐狸\)](https://metamask.io/)，[币安钱包](https://www.binance.com/en/wallet-direct) 。数字钱包用作您的个人帐户，可确保您所有的数字资产（例如XWG代币，NFT卡牌，虚拟道具）和虚拟世界中的进展安全。
 
-#### **1.3** 手機號碼或郵箱
+#### **1.3** 手机号码或邮箱
 
-如果您沒有數字錢包，可以使用您的手機號碼或郵箱註冊登錄遊戲，您的遊戲內數據信息將會被保存在本地。當您需要把遊戲內資產進行鏈上操作時，需要先綁定您的數字錢包地址。
+如果您没有数字钱包，可以使用您的手机号码或邮箱注册登录游戏，您的游戏内数据信息将会被保存在本地。当您需要把游戏内资产进行链上操作时，需要先绑定您的数字钱包地址。
 
-如果這是您第一次聽說數位錢包，我們建議您閱讀[獲取電子錢包–入門指南](https://docs.binance.org/smart-chain/wallet/metamask.html)。
+如果这是您第一次听说数字钱包，我们建议您阅读[获取电子钱包–入门指南](https://docs.binance.org/smart-chain/wallet/metamask.html)。
 
-**如果您沒有足够的卡牌，則有很多選擇：**
+**如果您没有足够的卡牌，则有很多选择：**
 
-#### **新手空投**
+#### 新手空投
 
-遊戲上線初期將會開啟初始卡牌空投活動，活動期間第一次進入遊戲的玩家可以免費獲得一張普通品質卡牌。 活動詳情敬請留意官方平臺公告。
+游戏上线初期将会开启初始卡牌空投活动，活动期间第一次进入游戏的玩家可以免费获得一张普通品质卡牌。活动详情敬请留意官方平台公告。
 
-#### 神秘十連抽
+#### **神秘十连抽**
 
-登陸游戲後，只需要錢包裡擁有足夠的XWG代幣即可參與神秘十連抽，每次可以獲得十張卡牌，並且有機會獲得高品質卡牌。
+登陆游戏后，只需要钱包里拥有足够的XWG代币即可参与神秘十连抽，每次可以获得十张卡牌，并且有机会获得高品质卡牌。
 
 #### **神秘盲盒**
 
-在[X World Games](https://xwg.games/#/)官網[Marketplace](https://xwg.farm/#/)頁面可以使用XWG代幣購買神秘盲盒，每次開啟神秘盒子可獲得一張卡牌，並且有機會獲得高品質卡牌。
+在[X World Games](https://xwg.games/)官网[Marketplace](https://nft.xwg.games/)页面可以使用XWG代币购买神秘盲盒，每次开启神秘盒子可获得一张卡牌，并且有机会获得高品质卡牌。
 
-#### 交易市場
+#### 交易市场
 
-擁有很多卡牌的玩家會把他們不需要的卡牌放到交易市場進行售賣，如果你想獲得卡牌可以去[交易市場](https://xwg.farm/#/)使用XWG購買。
+拥有很多卡牌的玩家会把他们不需要的卡牌放到交易市场进行售卖，如果你想获得卡牌可以去[交易市场](https://xwg.games/)使用XWG购买。
 
-### **2.** 遊戲屬性介紹
+### **2.** 游戏属性介绍
 
-在進入遊戲前，您還需要了解一下內容：
+在进入游戏前，您还需要了解一下内容：
 
-#### **2.1** 指揮官角色
+#### **2.1** 指挥官角色
 
-**指揮官角色**：角色就是您的賬號，會指揮戰鬥，角色有等級、生命和總費用3個屬性。&#x20;
+**指挥官角色**：角色就是您的账号，会指挥战斗，角色有等级、生命和总费用3个属性。 
 
-**角色等級**：角色等級通過戰鬥或商城購買材料來提升。等級越高，生命和總費用越高。此外角色等級還能解鎖卡組裡的卡槽，增加卡組配置中卡牌的數量。
+**角色等级**：角色等级通过战斗或商城购买材料来提升。等级越高，生命和总费用越高。此外角色等级还能解锁卡组里的卡槽，增加卡组配置中卡牌的数量。
 
-![](<../.gitbook/assets/tu-pian- (4).png>)
+![](../.gitbook/assets/tu-pian-%20%284%29.png)
 
-**角色生命**：戰鬥時，指揮官角色會被卡牌攻擊，生命被消耗到零時，判定戰鬥失敗。
+**角色生命**：战斗时，指挥官角色会被卡牌攻击，生命被消耗到零时，判定战斗失败。
 
-**角色總費用**：決定卡組中卡牌的數量。\
-
-
-#### **2.2** 卡牌屬性
-
-#### 品質
-
-遊戲共有五種不同品質的卡牌，分別為普通（Common）、稀有（Rare）、史詩（Epic）、傳奇（Legend）、神話（Myth），不同品質卡牌的顏色不同，卡牌品質越高戰鬥内容越高、擁有的技能數量越多。\
+**角色总费用**：决定卡组中卡牌的数量。  
 
 
-| 品質 | 顏色 | 技能槽上限 | 出戰等待回合 |
-| -- | -- | ----- | ------ |
-| 普通 | 白色 | 0     | 1      |
-| 稀有 | 綠色 | 1     | 2      |
-| 史詩 | 藍色 | 2     | 4      |
-| 傳奇 | 紫色 | 3     | 6      |
-| 神話 | 橙色 | 4     | 8      |
+#### **2.2** 卡牌属性
+
+#### 品质
+
+游戏共有五种不同品质的卡牌，分别为普通（Common）、稀有（Rare）、史诗（Epic）、传奇（Legend）、神话（Myth），不同品质卡牌的颜色不同，卡牌品质越高战斗属性越高、拥有的技能数量越多。  
+
+
+| 品质 | 颜色 | 技能槽上限 | 出战等待回合 |
+| :--- | :--- | :--- | :--- |
+| 普通 | 白色 | 0 | 1 |
+| 稀有 | 绿色 | 1 | 2 |
+| 史诗 | 蓝色 | 2 | 4 |
+| 传奇 | 紫色 | 3 | 6 |
+| 神话 | 橙色 | 4 | 8 |
 
 #### 五行
 
-每張卡牌在生成時都會賦予一個固定五行屬性，五行分別：金![jin](https://lh4.googleusercontent.com/SSK7mR8Wn\_zvVr62KnH4CTv\_CryNyqlFVqBtPjSpKy0GNJBda4CcgKbB8xHQsqPtTxZgyDBN-IhbF96Yh5ytOv7Mp9o9VvJNoe6ZcIyIMMClISpawUKjK6rYidUd\_Es8swOungYV), 木![mu](https://lh6.googleusercontent.com/TosBe7cAe0mY4mXvE0-SoYuHOCZtwI3nwS0YNfk11FQTRgDc\_sLSy2wehiKGE2BYitlpE1kcfvwXlmX46JLppDthP0tByGc7xbbh1H\_y4kb57ASqFebrcchqCzw0Vhf4Ywk3HcIP), 水![shui](https://lh6.googleusercontent.com/QEuKRo67QVN6-FYxPSzpWfCtaio0AXIPPFp\_8VEpZDPr4nEp4-H4pBu1ahADHfsgzksGjuqKtrAeAlgDi7uYeE2\_QZCYmvwEj0LewY9Oxu\_lLPIoOMqnr3hvDlA4pTkXkTsH1nAz), 火![huo](https://lh3.googleusercontent.com/MtqxGLSCGI-mc8Hb-WtOzDVGdVBJBp1KQldfhEELdP\_0FUjm3JiF7FAseyeo-GC-yj-nHiJ7wpJPkYsW8Go0N2IeiUks6SBuFjYSkANZosKJ7KmqkGphVxgsv6eQiukbjTuKWTPg), 土![tu](https://lh6.googleusercontent.com/C1Jr45baG71l1lVauF6fkTCXdqHsFL5NWk7kULB6LJWvj47AUEI3PugE7fvDz18a3qenlJqsWm2pakkdf2l7jlhSJWCqLVSpCwRZSG2oT01Umc3BwOkTQysXsypWYQmELPh44ncv). 五行相生相剋，玩家在組建卡組時可根據不同五行卡牌進行卡牌組合搭配，特定的五行卡牌組合出戰時可以觸發羈絆效果。
+每张卡牌在生成时都会赋予一个固定五行属性，五行分别：金![jin](https://lh4.googleusercontent.com/SSK7mR8Wn_zvVr62KnH4CTv_CryNyqlFVqBtPjSpKy0GNJBda4CcgKbB8xHQsqPtTxZgyDBN-IhbF96Yh5ytOv7Mp9o9VvJNoe6ZcIyIMMClISpawUKjK6rYidUd_Es8swOungYV), 木![mu](https://lh6.googleusercontent.com/TosBe7cAe0mY4mXvE0-SoYuHOCZtwI3nwS0YNfk11FQTRgDc_sLSy2wehiKGE2BYitlpE1kcfvwXlmX46JLppDthP0tByGc7xbbh1H_y4kb57ASqFebrcchqCzw0Vhf4Ywk3HcIP), 水![shui](https://lh6.googleusercontent.com/QEuKRo67QVN6-FYxPSzpWfCtaio0AXIPPFp_8VEpZDPr4nEp4-H4pBu1ahADHfsgzksGjuqKtrAeAlgDi7uYeE2_QZCYmvwEj0LewY9Oxu_lLPIoOMqnr3hvDlA4pTkXkTsH1nAz), 火![huo](https://lh3.googleusercontent.com/MtqxGLSCGI-mc8Hb-WtOzDVGdVBJBp1KQldfhEELdP_0FUjm3JiF7FAseyeo-GC-yj-nHiJ7wpJPkYsW8Go0N2IeiUks6SBuFjYSkANZosKJ7KmqkGphVxgsv6eQiukbjTuKWTPg), 土![tu](https://lh6.googleusercontent.com/C1Jr45baG71l1lVauF6fkTCXdqHsFL5NWk7kULB6LJWvj47AUEI3PugE7fvDz18a3qenlJqsWm2pakkdf2l7jlhSJWCqLVSpCwRZSG2oT01Umc3BwOkTQysXsypWYQmELPh44ncv). 五行相生相克，玩家在组建卡组时可根据不同五行卡牌进行卡牌组合搭配，特定的五行卡牌组合出战时可以触发羁绊效果。
 
-#### 星級
+#### 星级
 
-初始生成的所有卡牌的星級為1代1星，使用經驗書可以提升卡牌的星級，到達5星後需使用進階石對卡牌進行進階升代，卡牌星級最高可升級至3代5星。
+初始生成的所有卡牌的星级为1代1星，使用经验书可以提升卡牌的星级，到达5星后需使用进阶石对卡牌进行进阶升代，卡牌星级最高可升级至3代5星。
 
-![](<../.gitbook/assets/tu-pian- (15).png>)
+![](../.gitbook/assets/tu-pian-%20%2815%29.png)
 
 #### 技能
 
-稀有及以上品質的卡牌擁有技能槽，卡牌升級到對應星級可解鎖技能，卡牌的技能及技能等級隨機分配，更多技能詳情介紹請查閱[技能配置表](https://drive.google.com/file/d/16\_5uAJ6WgTdQRtC-yILUOQs4qembYLzF/view)。
+稀有及以上品质的卡牌拥有技能槽，卡牌升级到对应星级可解锁技能，卡牌的技能及技能等级随机分配，更多技能详情介绍请查阅[技能配置表](https://drive.google.com/file/d/16_5uAJ6WgTdQRtC-yILUOQs4qembYLzF/view)。
 
-#### 羈絆
+#### 羁绊
 
-遊戲特色玩法，適合高端玩家進行策略配置。五行組合、英雄組合等特定的卡組可以觸發羈絆效果，戰鬥時生效，目前五行組合羈絆已經上線。羈絆組合及效果介紹請查閱[羈絆設定表](https://drive.google.com/file/d/1SOHJj\_I1xfk\_BqbPgSULBAYb3Kvwf7yE/view)。
+游戏特色玩法，适合高端玩家进行策略配置。五行组合、英雄组合等特定的卡组可以触发羁绊效果，战斗时生效，目前五行组合羁绊已经上线。羁绊组合及效果介绍请查阅[羁绊设定表](https://drive.google.com/file/d/1SOHJj_I1xfk_BqbPgSULBAYb3Kvwf7yE/view)。
 
-#### **2.3** 戰鬥屬性
+#### **2.3** 战斗属性
 
-![](https://lh4.googleusercontent.com/kTyV3cSsozpm88Bz7fr6Xy51KFZe4SVkKq3Zkf5ZruOZTVLi\_vGjL-GVKSf-u\_PKZw\_tvkjNAsFbeFn23I3drJ2FLdyxxZe6vnCPupFzGj76QyaYEONElRAndhrJs99UCnOOBDro)
+![](https://lh4.googleusercontent.com/kTyV3cSsozpm88Bz7fr6Xy51KFZe4SVkKq3Zkf5ZruOZTVLi_vGjL-GVKSf-u_PKZw_tvkjNAsFbeFn23I3drJ2FLdyxxZe6vnCPupFzGj76QyaYEONElRAndhrJs99UCnOOBDro)
 
-**戰力**：可通過卡牌培養提升，戰力越高對戰獲勝的機率越大；&#x20;
+**战力**：可通过卡牌培养提升，战力越高对战获胜的几率越大； 
 
-**生命**：可通過卡牌培養提升，當卡牌生命值為0時會被移出對戰牌堆；&#x20;
+**生命**：可通过卡牌培养提升，当卡牌生命值为0时会被移出对战牌堆； 
 
-**攻擊**：可通過卡牌培養提升，攻擊力越高造成對方的傷害值越高；
+**攻击**：可通过卡牌培养提升，攻击力越高造成对方的伤害值越高；
 
-**回复**：卡牌加入戰鬥前會進行一次生命值回复，值越高回复的生命越高；
+**回复**：卡牌加入战斗前会进行一次生命值回复，值越高回复的生命越高；
 
-**命中率**：命中率越高攻擊時對手卡牌的躲避概率越低；&#x20;
+**命中率**：命中率越高攻击时对手卡牌的躲避概率越低； 
 
-**躲避率**：躲避率越高對手卡牌攻擊時躲避概率越高；&#x20;
+躲避率：躲避率越高对手卡牌攻击时躲避概率越高； 
 
-**暴擊率**：暴擊率越高攻擊時出現暴擊效果的概率越高；&#x20;
+**暴击率**：暴击率越高攻击时出现暴击效果的概率越高； 
 
-**暴擊倍數**：暴擊倍數越高出現暴擊效果時產生的傷害越高；&#x20;
+**暴击倍数**：暴击倍数越高出现暴击效果时产生的伤害越高； 
 
-**等待回合**：卡牌在加入戰鬥前需要在牌堆進行等待，等待回合為0時方可加入戰鬥，卡牌品質越高，等待回合數值越大。
+**等待回合**：卡牌在加入战斗前需要在牌堆进行等待，等待回合为0时方可加入战斗，卡牌品质越高，等待回合数值越大。
 
-#### **2.4** 升級道具
+#### **2.4** 升级道具
 
-**經驗書**：初級經驗道具，可用於提升角色或卡牌經驗值；&#x20;
+**经验书**：初级经验道具，可用于提升角色或卡牌经验值； 
 
-**經驗石**：中級經驗道具，可用於提升角色或卡牌經驗值；&#x20;
+**经验石**：中级经验道具，可用于提升角色或卡牌经验值； 
 
-**經驗藥水**：高級經驗道具，可用於提升角色或卡牌經驗值；&#x20;
+**经验药水**：高级经验道具，可用于提升角色或卡牌经验值； 
 
-**經驗寶珠**：特殊經驗道具，使用經驗寶箱開出來的經驗會存儲在經驗寶珠裡，可用於提升角色或卡牌經驗值；&#x20;
+**经验宝珠**：特殊经验道具，使用经验宝箱开出来的经验会存储在经验宝珠里，可用于提升角色或卡牌经验值； 
 
-**進階石**：卡牌升代道具；\
+**进阶石**：卡牌升代道具；  
 
 
-### 3. 新手游戲教程
+### 3. 新手游戏教程
 
-如果您是第一次進入遊戲，建議您先閱讀以下新手教程：
+如果您是第一次进入游戏，建议您先阅读以下新手教程：
 
-遊戲中設置了新手引導，只需要按照引導步驟操作完成就可以對遊戲有一個基本的了解，引導共4個步驟包括：領取獎勵、升級卡牌、配置卡組和匹配戰鬥。下面，我們一起來體驗一下：
+游戏中设置了新手引导，只需要按照引导步骤操作完成就可以对游戏有一个基本的了解，引导共4个步骤包括：领取奖励、升级卡牌、配置卡组和匹配战斗。下面，我们一起来体验一下：
 
 ![](../.gitbook/assets/tutorial1.png)
 
-#### **3.1** 領取獎勵
+#### **3.1** 领取奖励
 
-用戶首次進入遊戲可以獲得一張普通品質卡牌和一本經驗書，點擊領取按鈕獎勵就會發放到账户中；
+用户首次进入游戏可以获得一张普通品质卡牌和一本经验书，点击领取按钮奖励就会发放到账户中；
 
 ![](../.gitbook/assets/tutorial2.png)
 
-#### **3.2** 升級卡牌
+#### **3.2** 升级卡牌
 
-進入卡牌頁面可以看到剛才領取的一張普通品質卡牌，我們按步驟對卡牌進行升級操作；
+进入卡牌页面可以看到刚才领取的一张普通品质卡牌，我们按步骤对卡牌进行升级操作；
 
 ![](../.gitbook/assets/tutorial3.png)
 
-經驗道具是升級的材料，可在遊戲內商城使用XWG幣購買;
+Experience props are materials for upgrading cards, which can be purchased in the in-game mall with XWG tokens;
 
 ![](../.gitbook/assets/tutorial4.png)
 
-卡牌升級之後當前經驗值為100，此時卡牌已經可以加入卡組進行戰鬥了。
+卡牌升级之后当前经验值为100，此时卡牌已经可以加入卡组进行战斗了。
 
-#### **3.3** 配置卡組
+#### **3.3** 配置卡组
 
-配置卡組是開始戰鬥前最重要的一環，擁有的卡牌越多可配置卡組的類型越多。初始卡組只有一個卡槽，升級角色等級可以解鎖卡槽。
+配置卡组是开始战斗前最重要的一环，拥有的卡牌越多可配置卡组的类型越多。初始卡组只有一个卡槽，升级角色等级可以解锁卡槽。
 
 ![](../.gitbook/assets/tutorial5.png)
 
 ![](../.gitbook/assets/tutorial6.png)
 
-#### **3.4** 匹配戰鬥
+#### **3.4** 匹配战斗
 
-點擊首頁的“戰鬥”按鈕就可以開始匹配對手，即使只有一張卡牌也沒關係，遊戲會匹配玩家戰力值相近的兩個對手進行對戰；
+点击首页的“战斗”按钮就可以开始匹配对手，即使只有一张卡牌也没关系，游戏会匹配玩家战力值相近的两个对手进行对战；
 
 ![](../.gitbook/assets/tutorial7.png)
 
-進入戰鬥界面後，可以將牌堆中等待回合為0的卡牌加入戰場進行對戰，雙方回合製攻擊，一方卡牌數量為0或角色生命值為0時戰鬥結束。
+进入战斗界面后，可以将牌堆中等待回合为0的卡牌加入战场进行对战，双方回合制攻击，一方卡牌数量为0或角色生命值为0时战斗结束。
 
 ![](../.gitbook/assets/tutorial8.png)
 
-戰鬥勝利的一方將會獲得經驗值（角色經驗值）及戰利品寶箱獎勵，失敗方會扣除一定數量的經驗值（卡牌經驗值），獲得（角色經驗值）及戰鬥寶箱（經驗寶箱）獎勵。
+战斗胜利的一方将会获得经验值（角色经验值）及战利品宝箱奖励，失败方会扣除一定数量的经验值（卡牌经验值），获得（角色经验值）及战斗宝箱（经验宝箱）奖励。
 
 ![](../.gitbook/assets/tutorial9.png)
+
