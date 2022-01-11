@@ -23,7 +23,7 @@
 * [Dream Card V2](games/dream-card-v2/README.md)
   * [Beginner's Guide](games/dream-card-v2/beginners-guide/README.md)
     * [Android (Closed Alpha)](games/dream-card-v2/beginners-guide/android-closed-alpha.md)
-    * [iOS](games/dream-card-v2/beginners-guide/ios.md)
+    * [iOS (Coming Soon)](games/dream-card-v2/beginners-guide/ios-coming-soon.md)
     * [Mac/Windows (Coming Soon)](games/dream-card-v2/beginners-guide/mac-windows-coming-soon.md)
   * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
   * [Game Features](games/dream-card-v2/game-features.md)
