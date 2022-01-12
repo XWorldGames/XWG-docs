@@ -5,7 +5,6 @@
   * [Vision](x-world-games/vision.md)
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
-    * [Team](x-world-games/backer/team.md)
   * [Our Team](x-world-games/our-team.md)
 * [📰 Press Mentions](press-mentioned.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
