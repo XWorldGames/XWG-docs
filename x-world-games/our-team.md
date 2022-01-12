@@ -1,6 +1,6 @@
 # Our Team
 
-**Fernando Liu**
+### **Fernando Liu**
 
 **Co-Founder, CEO**
 
@@ -14,7 +14,7 @@
 
 
 
-**Sean Chen**
+### **Sean Chen**
 
 **Co-Founder, CTO**&#x20;
 
@@ -25,7 +25,7 @@
 
 
 
-**Ada Yuan**
+### **Ada Yuan**
 
 **Co-Founder, COO**&#x20;
 
@@ -37,7 +37,7 @@
 
 
 
-**Edwin Liu**
+### **Edwin Liu**
 
 **Co-Founder, Head of Business Development**&#x20;
 
@@ -49,7 +49,7 @@
 
 
 
-**Jouinss**
+### **Jouinss**
 
 **Head of Community**&#x20;
 
