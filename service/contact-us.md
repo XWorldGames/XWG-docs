@@ -4,33 +4,29 @@ For all media and interview requests, please contact `media@xwg.games`
 
 Interested in partnership opportunities? `service@xwg.games`
 
-## **Telegram Community Manager**
+### **Telegram Community Moderators**
 
-#### Customer Service Support:&#x20;
+@xwg\_army
 
-#### @xwg\_army
+@Eldrago101
 
-#### @Eldrago101
+@xwg\_knight&#x20;
 
-#### @xwg\_knight&#x20;
+@Lukas\_D
 
-#### @Lukas\_D
+@XWGGuardian
 
-#### @XWGGuardian
+@Spotter\_XWG
 
-**@Spotter\_XWG**
+@davidlangdon
 
-**@davidlangdon**
+@hyp\_kitsune
 
-**@hyp\_kitsune**
+@jpvasquez87
 
-**@jpvasquez87**
+### Contact Core Team Member:
 
-
-
-## Contact Core Team Member:
-
-[0x21 Labs](https://twitter.com/0x21\_labs)
+### [0x21 Labs](https://twitter.com/0x21\_labs)
 
 
 
