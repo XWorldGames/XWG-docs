@@ -56,6 +56,8 @@
 
 ### DappRadar
 
+{% embed url="https://dappradar.com/blog/x-world-games-and-its-xwg-token" %}
+
 {% embed url="https://dappradar.com/blog/x-world-games-joins-top-10-bsc-play-to-earn-dapps" %}
 
 {% embed url="https://dappradar.com/blog/x-world-games-registers-over-a-million-users" %}
