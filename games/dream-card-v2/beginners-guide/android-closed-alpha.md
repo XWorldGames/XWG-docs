@@ -4,7 +4,7 @@
 **Switch your Mainnet to the BSC Test Net**
 {% endhint %}
 
-1. Switch your **Mainnet** to the **BSC test net**. This will ensure that you won’t lose any cryptocurrency. Please see the link below for further instructions:
+* Switch your **Mainnet** to the **BSC test net**. This will ensure that you won’t lose any cryptocurrency. Please see the link below for further instructions:
 
 [https://docs.binance.org/smart-chain/wallet/metamask.html](https://docs.binance.org/smart-chain/wallet/metamask.html)&#x20;
 
