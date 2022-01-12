@@ -16,7 +16,7 @@
 
 {% embed url="https://www.bsc.news/post/xworld-games-garners-trading-token-status-following-airdrop-on-top-of-learn-and-earn-event" %}
 
-### BNBsmtchain
+### BNBsmartchain
 
 {% embed url="https://bnbsmartchain.com/bsc-project-spotlight-x-world-games" %}
 
