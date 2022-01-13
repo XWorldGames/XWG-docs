@@ -8,6 +8,8 @@
 
 ### BSC News
 
+{% embed url="https://www.bsc.news/post/x-world-games-begins-2022-launching-dream-card-v2-alpha" %}
+
 {% embed url="https://www.bsc.news/post/x-world-games-surges-ahead-of-bsc-news-amachella" %}
 
 {% embed url="https://www.bsc.news/post/xwg-re-opens-marketplace-after-malicious-contract-and-phishing-issues" %}

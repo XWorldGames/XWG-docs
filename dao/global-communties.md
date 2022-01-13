@@ -34,8 +34,6 @@ Telegram Japan 🇯🇵:[https://t.me/xworldgameJP](https://t.me/xworldgameJP)
 
 Discord: [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
 
-Discourse: [https://community.xwg.games/](https://community.xwg.games)
-
 Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B)&#x20;
 
 Gitbook: [https://docs.xwg.games/](https://docs.xwg.games)&#x20;
