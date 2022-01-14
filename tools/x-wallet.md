@@ -20,7 +20,7 @@ X Wallet is fast, safe, and user-friendly, while many new innovative functions s
 
 X World Games has developed a wallet plugin for Web Extension, also apps in Android and iOS, to ensure that users remain in control of all their crypto assets, which additionally assures that your tokens and NFTs can be accessible from anywhere, at any time.
 
-Users may cast several functions, like browsing and logging trending dApps, storing and transferring NFT collectibles, and comparing and joining staking pools, in one ultimate destination - the X wallet.
+Users may cast several functions, like browsing and logging trending dApps, storing and transferring NFT collectibles, and comparing and joining staking pools, all in one ultimate destination -  X wallet.
 
 
 
