@@ -14,7 +14,7 @@ Building the gaming ecosystem is always the top priority carved on X World Games
 
 On the other hand, many gaming dApps out there fail to pave such a path because they rely on 3rd-party wallets to onboard users. When the login becomes problematic and complicated, players usually prefer to give up and exist through the red button on the top right-hand corner.
 
-The X World Games platform includes a variety of wallet accesses that ensure a freedom-of-choice experience across all functionalities. However, with the X Wallet delivered by X World Games, designed explicitly for gaming dApps on Binance SMart Chain, players are guaranteed to have the best user experience and the most accessible process integrated with the XWG ecosystem.
+The X World Games platform includes a variety of wallet accesses that ensure a freedom-of-choice experience across all functionalities. However, with the X Wallet delivered by X World Games, designed explicitly for gaming dApps on Binance Smart Chain, players are guaranteed to have the best user experience and the most accessible process integrated with the XWG ecosystem.
 
 X Wallet is fast, safe, and user-friendly, while many new innovative functions such as NFTs and Collectibles showcase, easy-staking, and Web3 support are in planning to release. Players will have their keys stored in Cloud with a non-custodial approach; this keeps your private keys and funds safe, secured, and decentralized.
 
