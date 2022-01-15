@@ -36,7 +36,7 @@ X World Games will be completing its  infrastructure plan for the product, inclu
 |         | Marketplace - Pool Functions                                                                                                                | ~~Completed~~ |
 |         | X World Games - Avatar Customization Tool                                                                                                   | ~~Completed~~ |
 |         | DAO - Decentralized Community Launch                                                                                                        | ~~Completed~~ |
-| Q1 2022 | Launch Game Assets (NFTs) borrow and lending ​                                                                                              | Coming Soon   |
+| Q1 2022 | Launch Game Assets (NFTs) borrowing and lending ​                                                                                           | Coming Soon   |
 |         | Launch X-Wallet                                                                                                                             | Coming Soon   |
 |         | Launch Mining Terminal Apps                                                                                                                 | Coming Soon   |
 |         | Launch Game Hub for MiniGames App                                                                                                           | Coming Soon   |
