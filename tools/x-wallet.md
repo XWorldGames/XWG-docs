@@ -12,7 +12,7 @@ description: an accessible crypto wallet for your blockchain games
 
 Building the gaming ecosystem is always the top priority carved on X World Games' mission statements, and the comfort of access is the first step in constructing its infrastructure. Players will always select the least bumpy route with the smoothest experience.
 
-On the other hand, many gaming dApps out there fail to pave such a path because they rely on 3rd-party wallets to onboard users. When the login becomes problematic and complicated, players usually prefer to give up and exist through the red button on the top right-hand corner.
+On the other hand, many gaming dApps out there fail to pave such a path because they rely on 3rd-party wallets to onboard users. When the login becomes problematic and complicated, players usually prefer to give up and exit through the red button on the top right-hand corner.
 
 The X World Games platform includes a variety of wallet accesses that ensure a freedom-of-choice experience across all functionalities. However, with the X Wallet delivered by X World Games, designed explicitly for gaming dApps on Binance Smart Chain, players are guaranteed to have the best user experience and the most accessible process integrated with the XWG ecosystem.
 
