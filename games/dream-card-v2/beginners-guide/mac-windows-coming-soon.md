@@ -1,2 +1,0 @@
-# Mac/Windows (Coming Soon)
-

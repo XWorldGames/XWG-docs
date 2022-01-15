@@ -6,7 +6,7 @@ description: an accessible crypto wallet for your blockchain games
 
 ### An accessible crypto wallet for your blockchain games
 
-#### _**X Wallet will be integrated with Dream Card V2 to ease the game access. It’s a friendly BSC wallet built for X World Games. The Wallet will support Dream Card V1 and Dream Card V2.**_
+#### _**X Wallet will be integrated with Dream Card v2 to ease the game access. It’s a friendly BSC wallet built for X World Games. The X Wallet will support Dream Card v1 and Dream Card v2.**_
 
 ![X Wallet Showcase](https://lh5.googleusercontent.com/O8UKq4\_lb-AtX6CH1XbuPA4qR\_ubKtO-hehGI2V\_UpiczCQNbH82CvMz\_noqVzULCdhYEYN1yjFJFSX\_flUHXo1L9bnwIUYCbQDeiPqFlTOdYtSe-Cpznsbj-NYMNu0lBwXJn8Ew)
 
@@ -18,9 +18,9 @@ The X World Games platform includes a variety of wallet accesses that ensure a f
 
 X Wallet is fast, safe, and user-friendly, while many new innovative functions such as NFTs and Collectibles showcase, easy-staking, and Web3 support are in planning to release. Players will have their keys stored in Cloud with a non-custodial approach; this keeps your private keys and funds safe, secured, and decentralized.
 
-X World Games has developed a wallet plugin for Web Extension, also apps in Android and iOS, to ensure that users remain in control of all their crypto assets, which additionally assures that your tokens and NFTs can be accessible from anywhere, at any time.
+X World Games has developed an embedded version of X Wallet and integrated it with Dream Card v1 & v2 to ensure that users remain in control of all their crypto assets, which also assures that your tokens and NFTs can be accessible from anywhere, at any time.
 
-Users may cast several functions, like browsing and logging trending dApps, storing and transferring NFT collectibles, and comparing and joining staking pools, all in one ultimate destination -  X wallet.
+In the future, users may cast several more additional functions, like browsing and logging trending dApps, storing and transferring NFT collectibles, and comparing and joining staking pools, all in one ultimate destination - X wallet.
 
 
 

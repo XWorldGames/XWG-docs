@@ -1,34 +1,29 @@
-# Android (Closed Alpha)
+# Android (Open Beta)
 
 {% hint style="info" %}
-**Switch your Mainnet to the BSC Test Net**
+**Switch your Network to the Binance Smart Chain**
 {% endhint %}
 
-* Switch your **Mainnet** to the **BSC test net**. This will ensure that you won’t lose any cryptocurrency. Please see the link below for further instructions:
+* Switch your **Network** to the **Binance Smart Chain**. This will ensure that you won’t lose any of your crypto assets.&#x20;
+* Please see the link below for further instructions: [https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chai](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 
-[https://docs.binance.org/smart-chain/wallet/metamask.html](https://docs.binance.org/smart-chain/wallet/metamask.html)&#x20;
+2\. Make sure your wallet address contains enough BNB tokens for the required gas fee.
 
-You can also search for “BSC” through [https://chainlist.org/](https://chainlist.org) to select the one-key configuration of the BSC testnet;
+3\. Download the [Dream Card 2.0 APK Package(OPEN BETA)](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_1\_2022\_1\_12.apk) here _**(right-click & save as)**_ or visit the [official page](https://xwg.games/#/download/dreamcardv2) for the newest update!
 
-![](https://miro.medium.com/max/1400/0\*Qvj1-Ipq7oVbQ82A)
-
-2\. Switch the wallet network to the **BSC Test Chain**, and use the wallet address to go to the BSC test chain faucet [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart) to receive 1 BNB test coin. The chain operation in the test server requires the test server BNB as a gas fee.
-
-3\. Download the Dream Card 2.0 APK package- releasing soon so stay tuned!
-
-4\. Once the APK package download and wallet set-up are completed, you will be able to join the Dream Card 2.0 Closed Alpha.
+4\. Once the APK package download and wallet set-up are completed, you will be able to join the Dream Card 2.0 Open Beta.
 
 5\. Double-click “Dream Card 2.0” to get started.
 
-![](https://miro.medium.com/max/30/0\*qXhVXxMWL2H72T9o?q=20)![](https://miro.medium.com/max/1156/0\*qXhVXxMWL2H72T9o)
+![](https://miro.medium.com/max/1156/0\*qXhVXxMWL2H72T9o)
 
 6\. Choose your wallet and get connected.
 
 ![](https://miro.medium.com/max/1400/0\*vMW96hSwlnzkNkC0)
 
-7\. Confirm authorization for your wallet & then go back to the game **manually.**
+7\. Confirm authorization from your wallet & then go back to the game **manually.**
 
-![](https://miro.medium.com/max/28/0\*dU6vjB7bbNWjdMP3?q=20)![](https://miro.medium.com/max/1188/0\*dU6vjB7bbNWjdMP3)![](https://miro.medium.com/max/30/0\*HZuv8Cw6mYIOctHb?q=20)![](https://miro.medium.com/max/1200/0\*HZuv8Cw6mYIOctHb)
+![](https://miro.medium.com/max/1188/0\*dU6vjB7bbNWjdMP3)
 
 8\. After connecting with your wallet, you will see your in-game test XWG token balance and test BNB balance.
 
@@ -83,5 +78,3 @@ _Note: Card Box and Item Box items are NFTs, therefore, they require wallet auth
 20\. You will receive a “Chapter Treasure” as a reward upon completing a chapter.
 
 ![](https://miro.medium.com/max/1400/0\*qtM1LRSevubrTW\_f)
-
-The treasure chest in the alpha test service section is settled every hour. The treasure chest obtained in the nth round needs to wait for the nth + 1 round to open.

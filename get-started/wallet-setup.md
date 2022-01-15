@@ -16,5 +16,7 @@
 
 [Clover Finance ](https://clover.finance)
 
-X Wallet - Coming Soon
+[Coin98 Wallet](https://wallet.coin98.com)
+
+[X Wallet - Coming Soon](https://docs.xwg.games/tools/x-wallet)
 
