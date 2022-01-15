@@ -6,7 +6,7 @@ description: an accessible crypto wallet for your blockchain games
 
 ### An accessible crypto wallet for your blockchain games
 
-#### _**X Wallet will be integrated with Dream Card v2 to ease the game access. It’s a friendly BSC wallet built for X World Games. The X Wallet will support Dream Card v1 and Dream Card v2.**_
+#### _**X Wallet will be integrated with Dream Card v2 to ease the game access. It’s a BSC-friendly wallet built for X World Games. The X Wallet will support Dream Card v1 and Dream Card v2.**_
 
 ![X Wallet Showcase](https://lh5.googleusercontent.com/O8UKq4\_lb-AtX6CH1XbuPA4qR\_ubKtO-hehGI2V\_UpiczCQNbH82CvMz\_noqVzULCdhYEYN1yjFJFSX\_flUHXo1L9bnwIUYCbQDeiPqFlTOdYtSe-Cpznsbj-NYMNu0lBwXJn8Ew)
 
