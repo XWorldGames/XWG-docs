@@ -2,9 +2,9 @@
 
 The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card 2.0 is available only on Android mobile devices at the moment, we have- as we always will- go through hell or high water to facilitate ALL our XWG players.
 
-> [Download Dream Card v2 for Mobile (Android APK)](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_1\_2022\_1\_12.apk) _**(right-click & save as)**_
+> [Download Dream Card v2 Open Beta for Mobile (Android APK)](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_1\_2022\_1\_12.apk) _**(right-click & save as)**_
 >
-> Visit the [Official Page](https://xwg.games/#/download/dreamcardv2) for the newest update!
+> or Visit the [Official Page](https://xwg.games/#/download/dreamcardv2) for the newest update!
 
 So below is the how-to for all our Mac-only players:
 
