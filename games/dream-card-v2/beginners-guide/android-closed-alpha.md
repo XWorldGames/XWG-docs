@@ -1,7 +1,7 @@
 # Android (Open Beta)
 
 {% hint style="info" %}
-**Switch your Network to the Binance Smart Chain**
+**1.Switch your Network to the Binance Smart Chain**
 {% endhint %}
 
 * Switch your **Network** to the **Binance Smart Chain**. This will ensure that you won’t lose any of your crypto assets.&#x20;
@@ -25,15 +25,15 @@
 
 ![](https://miro.medium.com/max/1188/0\*dU6vjB7bbNWjdMP3)
 
-8\. After connecting with your wallet, you will see your in-game test XWG token balance and test BNB balance.
+8\. After connecting with your wallet, you will see your in-game XWG token balance.
 
 ![](https://miro.medium.com/max/1400/0\*yssoB7q5Ydk0Z0rV)
 
-9\. You are now logged in successfully to Dream Card 2.0.
+9\. You are now logged in successfully to Dream Card V2.
 
 ![](https://miro.medium.com/max/1400/0\*pe7EEE3cPmp8vheM)
 
-10\. You can’t play Dream Card 2.0 without NFTs. So, click “Mystery Box” to purchase a “Card Box” & an “Item Box”.
+10\. You can’t play Dream Card V2 without NFTs. So, click “Mystery Box” to purchase a “Card Box” & an “Item Box”.
 
 ![](https://miro.medium.com/max/1400/0\*qzQNrQ-UCHSFGdhu)
 
