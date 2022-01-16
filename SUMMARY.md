@@ -1,12 +1,13 @@
 # Table of contents
 
 * [About](README.md)
-* [👑 X World Games](x-world-games/README.md)
+* [👑 👑X World Games](x-world-games/README.md)
   * [Vision](x-world-games/vision.md)
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
   * [Our Team](x-world-games/our-team.md)
 * [📰 Press Mentions](press-mentioned.md)
+* [📜Roadmap](roadmap.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility.md)
   * [Token Network](token-metrics-1/token-network.md)
@@ -30,7 +31,6 @@
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
   * [Genesis Sale #2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
-* [📜Roadmap](games/roadmap.md)
 
 ## Tools
 
