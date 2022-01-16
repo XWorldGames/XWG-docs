@@ -1,6 +1,6 @@
 # Wallet Setup
 
-### Blockchain Wallets
+### Supported Blockchain Wallets:
 
 [MetaMask](https://metamask.io)
 
@@ -17,6 +17,10 @@
 [Clover Finance ](https://clover.finance)
 
 [Coin98 Wallet](https://wallet.coin98.com)
+
+[Math Wallet ](https://mathwallet.org/en-us/)
+
+[imToken ](https://token.im/download)
 
 [X Wallet - Coming Soon](https://docs.xwg.games/tools/x-wallet)
 
