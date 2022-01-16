@@ -8,7 +8,7 @@
 
 [Trust Wallet ](https://trustwallet.com)
 
-[WalletConnet ](https://walletconnect.com)
+[WalletConnect ](https://walletconnect.com)
 
 [Token Pocket ](https://www.tokenpocket.pro)
 
@@ -21,6 +21,8 @@
 [Math Wallet ](https://mathwallet.org/en-us/)
 
 [imToken ](https://token.im/download)
+
+[SafePal](https://safepal.io)
 
 [X Wallet - Coming Soon](https://docs.xwg.games/tools/x-wallet)
 
