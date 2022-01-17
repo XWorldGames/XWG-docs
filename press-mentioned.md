@@ -58,6 +58,8 @@
 
 ### DappRadar
 
+{% embed url="https://dappradar.com/blog/dream-card-2-pushes-x-world-games-into-top-3" %}
+
 {% embed url="https://dappradar.com/blog/x-world-games-and-its-xwg-token" %}
 
 {% embed url="https://dappradar.com/blog/x-world-games-joins-top-10-bsc-play-to-earn-dapps" %}
