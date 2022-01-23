@@ -6,9 +6,11 @@ The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card V2 is a
 >
 > or Visit the [Official Page](https://xwg.games/#/download/dreamcardv2) for the newest update!
 
-## Below is the How-to for all our Mac-only Players:
+1.
 
-****:joy:**How to download Bluestacks to Mac**
+## How to Download the BlueStacks for Windows <a href="#45e7" id="45e7"></a>
+
+:joy:
 
 1. Go to [https://www.bluestacks.com/](https://www.bluestacks.com) and download the BlueStacks installer.
 
