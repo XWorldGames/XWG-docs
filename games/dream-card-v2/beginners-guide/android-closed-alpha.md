@@ -1,6 +1,6 @@
 # Android (Open Beta)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **1.Switch your Network to the Binance Smart Chain**
 {% endhint %}
 
