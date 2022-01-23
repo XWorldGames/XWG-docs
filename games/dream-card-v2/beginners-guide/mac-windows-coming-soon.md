@@ -1,4 +1,4 @@
-# PC: Mac/Windows (Bluestack)
+# Mac/Windows (Bluestack)
 
 The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card V2 is available only on Android mobile devices at the moment, we have- as we always will- go through hell or high water to facilitate ALL our XWG players.
 
@@ -6,7 +6,7 @@ The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card V2 is a
 >
 > or Visit the [Official Page](https://xwg.games/#/download/dreamcardv2) for the newest update!
 
-### So below is the how-to for all our Mac-only players:
+## Below is the How-to for all our Mac-only Players:
 
 ****:joy:**How to download Bluestacks to Mac**
 
