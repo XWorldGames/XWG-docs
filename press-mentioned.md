@@ -74,6 +74,10 @@
 
 {% embed url="https://www.marketwatch.com/press-release/x-world-games-secures-12-million-funding-led-by-top-crypto-venture-funds-2021-05-07" %}
 
+### South China Morning Post
+
+{% embed url="https://www.scmp.com/week-asia/economics/article/3164220/syahrinis-nfts-axie-infinity-southeast-asia-waking-metaverse" %}
+
 ### Yahoo Finance
 
 {% embed url="https://finance.yahoo.com/news/x-world-games-secures-1-155500576.html" %}
