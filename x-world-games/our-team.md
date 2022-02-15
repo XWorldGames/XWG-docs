@@ -37,6 +37,18 @@
 
 
 
+### Hong Xing
+
+**CBO**&#x20;
+
+* Senior Operation Executive in multiple publicly listed gaming companies - NetDragon, Mgame, and Good Gamers.&#x20;
+* Over 26+ years of Gaming business development & operation, talent Acquisition, and game production&#x20;
+* Extensive experience in Asia & North America gaming industry, led 200+ people international team and managed 10M+ concurrent user projects&#x20;
+
+**LinkedIn：**[**https://www.linkedin.com/in/hxing/**](https://www.linkedin.com/in/hxing/)****
+
+****
+
 ### **Edwin Liu**
 
 **Co-Founder, Head of Business Development**&#x20;
