@@ -32,7 +32,9 @@ Telegram Indonesia 🇮🇩: [https://t.me/xwg\_games\_indonesia](https://t.me/x
 
 Telegram Japan 🇯🇵:[https://t.me/xworldgameJP](https://t.me/xworldgameJP)
 
-Discord: [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
+Telegram Turkey🇹🇷 :[https://t.me/xwg\_games\_turkey](https://t.me/xwg\_games\_turkey)
+
+Discord:  [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
 
 Discourse: [https://community.xwg.games/](https://community.xwg.games)
 
