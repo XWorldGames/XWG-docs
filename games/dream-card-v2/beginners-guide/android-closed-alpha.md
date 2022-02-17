@@ -9,7 +9,7 @@
 
 2\. Make sure your wallet address contains enough BNB tokens for the required gas fee.
 
-3\. Download the [Dream Card 2.0 APK Package(OPEN BETA)](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_1\_2022\_1\_12.apk) here _**(long-press & save as)**_ or visit the [official page](https://xwg.games/#/download/dreamcardv2) for the newest update!
+3\. Download the [Dream Card 2.0 APK Package](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_2\_2022\_2\_17.apk)(OPEN BETA 02.17) _**(long-press & save as)**_ or visit the [official page](https://xwg.games/#/download/dreamcardv2) for the newest update!
 
 4\. Once the APK package download and wallet set-up are completed, you will be able to join the Dream Card 2.0 Open Beta.
 
