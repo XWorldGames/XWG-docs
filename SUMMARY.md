@@ -34,7 +34,7 @@
 
 ## Tools
 
-* [X-Wallet](tools/x-wallet.md)
+* [X Wallet](tools/x-wallet.md)
 
 ## DAO
 
