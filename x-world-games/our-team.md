@@ -71,3 +71,15 @@
 * Bitcoin veteran since 2016, also experienced in building Smart Contracts on Ethereum.
 
 **LinkedIn:** [**https://www.linkedin.com/in/j0uinss8/**](https://www.linkedin.com/in/j0uinss8/)
+
+
+
+### **Kata Botica**
+
+**Director of Global Engagement**&#x20;
+
+* Over 5 years corporate industry experience in the technology, administration, HR, and social media marketing space.
+* More than 2 years of experience in the crypto space, with knowledge of industry trends and community engagement.
+* Previous experience in Talent Acquisitions for the gaming industry (client Electronic Arts), for the accounting field (Smythe LLP), and in the tech industry (Yardi Systems Inc.).
+
+**Linkedin:** [**https://www.linkedin.com/in/stefaniebotica/**](https://www.linkedin.com/in/stefaniebotica/)****
