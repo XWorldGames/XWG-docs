@@ -2,10 +2,6 @@
 
 ## <mark style="color:purple;">Global Opportunities</mark>
 
-### Global Community Manager&#x20;
-
-[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSffNv2TUZadoxGf3zB8bTQelb3-TLDDkvKTqbxDEESaplCErw/viewform)
-
 ### Global Community Moderator
 
 [Apply Here](https://forms.gle/q7v93bAyAPUSfjtn6)
