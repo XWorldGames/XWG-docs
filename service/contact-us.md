@@ -1,4 +1,4 @@
-# Contact Us
+# 📞 Contact Us
 
 For all media and interview requests, please contact `media@xwg.games`
 

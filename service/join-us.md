@@ -1,10 +1,10 @@
-# Join Us
+# 👷 Join Us
 
 ## <mark style="color:purple;">Global Opportunities</mark>
 
 ### Global Community Moderator
 
-[Apply Here](https://forms.gle/q7v93bAyAPUSfjtn6)
+``[`Apply Here`](https://forms.gle/q7v93bAyAPUSfjtn6)``
 
 ## <mark style="color:purple;">Vancouver Opportunites</mark>
 
@@ -337,5 +337,5 @@ The position of Graphic Designer will be part of the XWG Global Marketing team a
 </details>
 
 {% hint style="success" %}
-**Please send your CV / RESUME to edwin@xwg.games**
+**`Please send your CV / RESUME to edwin@xwg.games`**
 {% endhint %}

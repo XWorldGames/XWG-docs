@@ -1,13 +1,13 @@
 # Table of contents
 
 * [About](README.md)
-* [👑 👑X World Games](x-world-games/README.md)
+* [👑 X World Games](x-world-games/README.md)
   * [Vision](x-world-games/vision.md)
   * [History](x-world-games/history.md)
   * [Backers](x-world-games/backer.md)
   * [Our Team](x-world-games/our-team.md)
 * [📰 Press Mentions](press-mentioned.md)
-* [📜Roadmap](roadmap.md)
+* [🗺 Roadmap](roadmap.md)
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility.md)
   * [Token Network](token-metrics-1/token-network.md)
@@ -41,30 +41,22 @@
 * [🌎 X World Community](dao/global-communties.md)
 * [⚖️ Governance](dao/dao-introduction.md)
 
-***
-
-* [❓FAQs](faq/README.md)
-  * [I need support! Where can I contact you?](faq/i-need-support-where-can-i-contact-you.md)
-  * [I lost my wallet! What will happen to my account?](faq/i-lost-my-wallet-what-will-happen-to-my-account.md)
-  * [Can I play games with a mobile device?](faq/can-i-play-games-with-a-mobile-device.md)
-  * [What is the $XWG token?](faq/what-is-the-usdxwg-token.md)
-  * [Do I need a crypto wallet to play games?](faq/do-i-need-a-crypto-wallet-to-play-games.md)
-  * [How to claim Airdrop?](faq/airdrop-help.md)
-  * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
-
 ## Service
 
-* [Marketing Events](service/support/README.md)
+* [🏆 Event Winners](service/support/README.md)
   * [AirDrop Winner list](service/support/bug-hunter-program.md)
   * [Bug Hunter Winner List](service/support/bug-hunter-winner-list.md)
-* [Contact Us](service/contact-us.md)
-* [Customer Support](service/customer-support.md)
-* [Feedback](service/feedback.md)
-* [Mod Support](service/mod-support.md)
-
-***
-
-* [Join Us](join-us.md)
+* [❓ FAQs](service/faq/README.md)
+  * [I need support! Where can I contact you?](service/faq/i-need-support-where-can-i-contact-you.md)
+  * [I lost my wallet! What will happen to my account?](service/faq/i-lost-my-wallet-what-will-happen-to-my-account.md)
+  * [Can I play games with a mobile device?](service/faq/can-i-play-games-with-a-mobile-device.md)
+  * [What is the $XWG token?](service/faq/what-is-the-usdxwg-token.md)
+  * [Do I need a crypto wallet to play games?](service/faq/do-i-need-a-crypto-wallet-to-play-games.md)
+  * [How to claim Airdrop?](service/faq/airdrop-help.md)
+  * [How To Connect MetaMask Wallet to The Binance Smart Chain?](service/faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
+* [👷 Join Us](service/join-us.md)
+* [📞 Contact Us](service/contact-us.md)
+* [🗒 Customer Support](service/customer-support.md)
 
 ## Docs
 
