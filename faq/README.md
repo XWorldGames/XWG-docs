@@ -1,5 +1,7 @@
 # ❓ FAQs
 
+
+
 <details>
 
 <summary>What's the system requirement for X World Games?</summary>
@@ -71,8 +73,6 @@ There's no single individual insurance provided. Regardless, suppose a significa
 X World Games provide no appraisal service. Every NFT buy and sell in our marketplace is purely a market behavior.&#x20;
 
 </details>
-
-
 
 <details>
 
