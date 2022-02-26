@@ -1,5 +1,7 @@
 # Our Team
 
+![Fernando Liu - Co-Founder & CEO](../.gitbook/assets/fernando-team-round.png)
+
 ### **Fernando Liu**
 
 **Co-Founder, CEO**
@@ -12,7 +14,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/**](https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/)****
 
-
+![Sean Chen - Co-Founder & CTO](../.gitbook/assets/sean-team-round.png)
 
 ### **Sean Chen**
 
@@ -25,6 +27,8 @@
 
 
 
+![Ada Yuan - Co-Founder & COO](../.gitbook/assets/ada-team-round.png)
+
 ### **Ada Yuan**
 
 **Co-Founder, COO**&#x20;
@@ -35,19 +39,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/ada-jyun-6286b720b/**](https://www.linkedin.com/in/ada-jyun-6286b720b/)****
 
-
-
-### Hong Xing
-
-**CBO**&#x20;
-
-* Senior Operation Executive in multiple publicly listed gaming companies - NetDragon, Mgame, and Good Gamers.&#x20;
-* Over 26+ years of Gaming business development & operation, talent Acquisition, and game production&#x20;
-* Extensive experience in Asia & North America gaming industry, led a 200+ people international team and managed 10M+ concurrent user projects&#x20;
-
-**LinkedIn：**[**https://www.linkedin.com/in/hxing/**](https://www.linkedin.com/in/hxing/)****
-
-****
+![Edwin Liu - Co-Founder & Head of BD](../.gitbook/assets/Edwin-Team-Round.png)
 
 ### **Edwin Liu**
 
@@ -59,7 +51,19 @@
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
+![Hong Xing - CBO](../.gitbook/assets/hong-team-round.png)
 
+### Hong Xing
+
+**CBO**&#x20;
+
+* Senior Operation Executive in multiple publicly listed gaming companies - NetDragon, Mgame, and Good Gamers.&#x20;
+* Over 26+ years of Gaming business development & operation, talent Acquisition, and game production&#x20;
+* Extensive experience in Asia & North America gaming industry, led a 200+ people international team and managed 10M+ concurrent user projects&#x20;
+
+**LinkedIn：**[**https://www.linkedin.com/in/hxing/**](https://www.linkedin.com/in/hxing/)****
+
+![Jouinss - Head of Community](../.gitbook/assets/ss8-team-round.png)
 
 ### **Jouinss**
 
@@ -72,7 +76,7 @@
 
 **LinkedIn:** [**https://www.linkedin.com/in/j0uinss8/**](https://www.linkedin.com/in/j0uinss8/)
 
-
+![Kata Botica - Director of Global Engagement](../.gitbook/assets/kata-team-round.png)
 
 ### **Kata Botica**
 
