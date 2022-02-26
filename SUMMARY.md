@@ -11,8 +11,6 @@
 * [🧐 Token Metrics](token-metrics-1/README.md)
   * [Token Utility](token-metrics-1/token-utility.md)
   * [Token Network](token-metrics-1/token-network.md)
-* [Get Started](get-started/README.md)
-  * [Wallet Setup](get-started/wallet-setup.md)
 
 ## Games
 
@@ -34,6 +32,8 @@
 
 ## Tools
 
+* [Get Started](tools/get-started/README.md)
+  * [Wallet Setup](tools/get-started/wallet-setup.md)
 * [X Wallet](tools/x-wallet.md)
 
 ## DAO
