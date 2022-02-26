@@ -1,4 +1,4 @@
-# Our Team
+# 👪 Our Team
 
 ![Fernando Liu - Co-Founder & CEO](../.gitbook/assets/fernando-team-round.png)
 

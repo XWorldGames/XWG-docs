@@ -1,4 +1,4 @@
-# $XWG Token Contract
+# 🪙 $XWG Token Contract
 
 **$XWG Smart Contract Address:**&#x20;
 

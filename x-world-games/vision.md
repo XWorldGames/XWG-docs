@@ -1,4 +1,4 @@
-# Vision
+# 👶 Vision
 
 The vision of X World Games is to build a diversified gaming ecosystem that connects traditional game players and the blockchain world, also help more game developers who would like to enter the crypto space by creating and providing an underlying blockchain framework.
 

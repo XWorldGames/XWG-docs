@@ -1,4 +1,4 @@
-# Whitepaper
+# 🗒 Whitepaper
 
 **Please read our whitepaper here:**&#x20;
 

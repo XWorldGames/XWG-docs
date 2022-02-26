@@ -1,4 +1,4 @@
-# Token Network
+# 🌐 Token Network
 
 ![XWG on BSC](../.gitbook/assets/xbsc.jpeg)
 

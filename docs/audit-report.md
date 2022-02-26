@@ -2,7 +2,7 @@
 description: by Certik
 ---
 
-# Security Audit Report
+# 🔐 Security Audit Report
 
 All our smart contracts passed the security audit by [Certik](https://www.certik.org), you can view our audit report here:
 

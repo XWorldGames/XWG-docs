@@ -2,7 +2,7 @@
 description: an accessible crypto wallet for your blockchain games
 ---
 
-# X Wallet
+# 🏦 X Wallet
 
 ### An accessible crypto wallet for your blockchain games
 

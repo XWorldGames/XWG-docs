@@ -1,4 +1,4 @@
-# Official Email Domains
+# 🕵 Official Email Domains
 
 X World Games official email domains: **@xwg.games** and **@mail.xwg.games**&#x20;
 
