@@ -74,6 +74,8 @@
 
 ### MarketWatch
 
+{% embed url="https://www.marketwatch.com/press-release/being-the-pioneer-of-decentralized-gaming-world-x-world-games-welcomes-the-new-chief-business-officer-hong-xing-2022-02-25" %}
+
 {% embed url="https://www.marketwatch.com/press-release/x-world-games-secures-12-million-funding-led-by-top-crypto-venture-funds-2021-05-07" %}
 
 ### South China Morning Post
