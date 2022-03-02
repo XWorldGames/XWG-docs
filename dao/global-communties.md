@@ -46,15 +46,15 @@ description: >-
 
 ### More
 
-Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B)&#x20;
+💾 Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B)&#x20;
 
-Facebook: [http://facebook.com/XWGgames](http://facebook.com/XWGgames)&#x20;
+🙃 Meta/Facebook: [http://facebook.com/XWGgames](http://facebook.com/XWGgames)&#x20;
 
-Reddit: [https://new.reddit.com/r/XWorldGames/](https://new.reddit.com/r/XWorldGames/)&#x20;
+👾 Reddit: [https://new.reddit.com/r/XWorldGames/](https://new.reddit.com/r/XWorldGames/)&#x20;
 
-Snapshot: [https://snapshot.org/#/xwg.eth](https://snapshot.org/#/xwg.eth)
+🗳 Snapshot: [https://snapshot.org/#/xwg.eth](https://snapshot.org/#/xwg.eth)
 
-Youtube: [https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg](https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg)
+🎥 Youtube: [https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg](https://www.youtube.com/channel/UCerSyKRrzMYe-YPTdHve0Kg)
 
 
 
