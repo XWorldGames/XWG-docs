@@ -6,7 +6,7 @@ description: >-
 
 # 🌎 X World Community
 
-## **X World Games**&#x20;
+### **X World Games**&#x20;
 
 👑 Official Web: [https://xwg.games/](https://xwg.games)&#x20;
 
