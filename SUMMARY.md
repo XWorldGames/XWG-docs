@@ -5,7 +5,7 @@
   * [👶 Vision](x-world-games/vision.md)
   * [👴 History](x-world-games/history.md)
   * [👨💼 Features](x-world-games/features.md)
-  * [👩💼 Backers](x-world-games/backer.md)
+  * [💵 Backers](x-world-games/backer.md)
   * [👪 Our Team](x-world-games/our-team.md)
 * [📰 Press Mentions](press-mentioned.md)
 * [🗺 Roadmap](roadmap.md)
