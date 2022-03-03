@@ -35,7 +35,7 @@
 
 * [🔧 Get Started](get-started/README.md)
   * [Wallet Setup](get-started/wallet-setup.md)
-* [🏦 X Wallet](tools/x-wallet.md)
+* [👜 X Wallet](tools/x-wallet.md)
 
 ## DAO
 
