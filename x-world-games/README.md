@@ -10,7 +10,7 @@ True decentralized ownership of a gaming world via DAO. Players that hold XWG to
 
 Players can create all kinds of in-game items, from unique avatars to fantasy equipment. All in-game items will be tokenized and represented by NFTs, and all assets can be traded through an open decentralized marketplace.
 
-### Community
+### Global Community
 
 XWG is powered by a global community, made up of gamers, investors, and creators, to build an immersive multiplayer experience and balanced ecosystem.
 
