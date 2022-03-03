@@ -2,10 +2,6 @@
 
 ![](<../.gitbook/assets/image (6).png>)
 
-{% hint style="info" %}
-## Features
-{% endhint %}
-
 ### Decentralization
 
 True decentralized ownership of a gaming world via DAO. Players that hold XWG tokens get to decide the governance policy or the next in-game development for the ecosystem, including reward mechanisms and tokenomic systems.
@@ -24,9 +20,7 @@ d.Enjoy different games in one open metaverse via cross-game experience. Players
 
 ![](<../.gitbook/assets/image (3).png>)
 
-{% hint style="info" %}
-## Infrastructures
-{% endhint %}
+## **Infrastructures**
 
 ### **Blockchain Game Platform,** X World Games
 
