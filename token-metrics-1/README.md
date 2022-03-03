@@ -10,7 +10,11 @@ $XWG holders will be able to claim rewards through participating in the play-to-
 
 $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets.
 
-## Token Allocation&#x20;
+
+
+![](<../.gitbook/assets/X World Games (1).png>)
+
+### Token Allocation&#x20;
 
 #### Mining Pool: 49%, 4,900,000,000 XWG
 
