@@ -1,6 +1,6 @@
 # Wallet Setup
 
-### Blockchain Wallets:
+### Wallets Supported:
 
 [**MetaMask**](https://metamask.io)****![](<../.gitbook/assets/image (7).png>)****
 
