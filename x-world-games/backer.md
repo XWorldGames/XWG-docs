@@ -1,4 +1,4 @@
-# Backers
+# 💵 Backers
 
 ![](../.gitbook/assets/backer.jpeg)
 
