@@ -1,41 +1,13 @@
 # 👑 X World Games
 
-## Features
+![X World Games x Dream Card](<../.gitbook/assets/image (5).png>)
 
-### Decentralization
+Founded in 2018, X World Games (“XWG”) aims to build the next-gen decentralized gaming metaverse.
 
-True decentralized ownership of a gaming world via DAO. Players that hold XWG tokens get to decide the governance policy or the next in-game development for the ecosystem, including reward mechanisms and tokenomic systems.
+X World Games' vision is to build a diversified gaming ecosystem that connects traditional gamers with the blockchain world and invite more game developers into the crypto space by creating and providing the underlying blockchain framework.
 
-### Creation & Collection
+With its gaming innovation, crypto game - Dream Card, NFT Marketplace and DeFi Pool, X World Games now serves over 2 million registered gamers, and has quickly become the fastest-growing crypto gaming platform in the ecosystem.
 
-Players can create all kinds of in-game items, from unique avatars to fantasy equipment. All in-game items will be tokenized and represented by NFTs, and all assets can be traded through an open decentralized marketplace.
+X World Games is headquartered in Singapore with a 100+ dynamic team located worldwide.&#x20;
 
-### Global Community
-
-XWG is powered by a global community, made up of gamers, investors, and creators, to build an immersive multiplayer experience and balanced ecosystem.
-
-### Cross-Game Experience&#x20;
-
-d.Enjoy different games in one open metaverse via cross-game experience. Players truly own their characters and sets, and experience their unique assets in every different game of the X World.
-
-## Infrastructures
-
-### **Blockchain Game Platform,** X World Games
-
-Provides user traffic and economic flows for blockchain games, and creates a game metaverse for players and creators.
-
-### **NFT Exchange, Marketplace**
-
-Provides exclusive NFT transactions for in-game characters and items, adopts various bidding models, and supports NFT fragmentation and market maker liquidity in the future.
-
-### **DeFi Gamification,** X Pool
-
-A variety of DeFi functions with gamification, including liquidity mining, NFT/token staking mining, DeFi lending and Swap.
-
-### **Open-Game Creation, X Creator**
-
-Provides a series of open-source and comprehensive game creation tools, from simple character creation to complex script/function editing.
-
-### **Cross-Game Ecosystem, X World System**
-
-To create a unique cross-game character and equipment experience, allowing players to secure digital in-game item ownership and share across multi-game resources, and adopt more protocols to integrate other projects, and achieve AR/VR gaming experience from the platform.\
+Please learn more by visiting https://xwg.games .
