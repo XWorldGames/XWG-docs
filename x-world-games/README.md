@@ -10,4 +10,4 @@ With its gaming innovation, crypto game - Dream Card, NFT Marketplace and DeFi P
 
 X World Games is headquartered in Singapore with a 100+ dynamic team located worldwide.&#x20;
 
-Please learn more by visiting https://xwg.games .
+Please learn more by visiting [https://xwg.games](https://xwg.games).
