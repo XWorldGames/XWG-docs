@@ -17,7 +17,7 @@
 
 * [1⃣ Dream Card V1](games/dream-card/README.md)
   * [Beginner's Guide](games/dream-card/dream-card.md)
-  * [40 Hero Characters](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
+  * [Original 40s](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
   * [Game Features](games/dream-card/game-feature.md)
   * [Game Mechanism](games/dream-card/game-mechanism/README.md)
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
