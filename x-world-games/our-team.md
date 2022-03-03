@@ -25,11 +25,11 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/xcsean**](https://www.linkedin.com/in/xcsean)****
 
+![Ada Yuan - Co-Founder & COO](<../.gitbook/assets/ada-team-round (1).png>)
 
 
-![Ada Yuan - Co-Founder & COO](../.gitbook/assets/ada-team-round.png)
 
-### **Ada Yuan**
+**Ada Yuan**
 
 **Co-Founder, COO**&#x20;
 

@@ -15,13 +15,6 @@
 
 ## Games
 
-* [2⃣ Dream Card V2](games/dream-card-v2/README.md)
-  * [Beginner's Guide](games/dream-card-v2/beginners-guide/README.md)
-    * [Android (Open Beta)](games/dream-card-v2/beginners-guide/android-closed-alpha.md)
-    * [iOS (Coming Soon)](games/dream-card-v2/beginners-guide/ios-coming-soon.md)
-    * [Mac/Windows (Bluestack)](games/dream-card-v2/beginners-guide/mac-windows-coming-soon.md)
-  * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
-  * [Game Features](games/dream-card-v2/game-features.md)
 * [1⃣ Dream Card V1](games/dream-card/README.md)
   * [Beginner's Guide](games/dream-card/dream-card.md)
   * [40 Hero Characters](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
@@ -30,6 +23,13 @@
     * [Play to Earn Guide](games/dream-card/game-mechanism/play-to-earn-guide.md)
   * [Genesis Sale #2740](games/dream-card/marketplace.md)
   * [Mystery Box](games/dream-card/mystery-box.md)
+* [2⃣ Dream Card V2](games/dream-card-v2/README.md)
+  * [Beginner's Guide](games/dream-card-v2/beginners-guide/README.md)
+    * [Android (Open Beta)](games/dream-card-v2/beginners-guide/android-closed-alpha.md)
+    * [iOS (Coming Soon)](games/dream-card-v2/beginners-guide/ios-coming-soon.md)
+    * [Mac/Windows (Bluestack)](games/dream-card-v2/beginners-guide/mac-windows-coming-soon.md)
+  * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
+  * [Game Features](games/dream-card-v2/game-features.md)
 
 ## Tools
 
