@@ -192,15 +192,6 @@ The position of Strategic Manager will be part of the XWG Global Business Develo
 
 <summary>Content Manager/Copywriter</summary>
 
-**About the company**\
-Founded in 2018, X World Games (“XWG”) aims to build the next-gen decentralized gaming metaverse.
-
-X World Games' vision is to build a diversified gaming ecosystem that connects traditional gamers with the blockchain world and invite more game developers into the crypto space by creating and providing the underlying blockchain framework.
-
-With its gaming innovation, crypto game - Dream Card, NFT Marketplace and DeFi Pool, X World Games now serves over 2 million registered gamers, and has quickly become the fastest-growing crypto gaming platform in the ecosystem.
-
-X World Games is headquartered in Singapore with a 100+ dynamic team located worldwide. Please learn more by visiting https://xwg.games .
-
 **About the position**
 
 The position of Content Manager will be part of the XWG Global Marketing team and work closely with the operation team in Canada. The role will be responsible for leading and developing X World Games' non-technical written content, from long-lengthy reading Medium blog to gaming copywriting of catching marketing phrases. We're looking for someone with exceptional verbal/written communication skills and a comprehensive understanding of the latest blockchain/crypo trends such as Gamefi and Metaverse.
