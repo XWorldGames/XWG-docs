@@ -1,6 +1,6 @@
-# 👪 Our Team
+# 👪 Team
 
-![Fernando Liu - Co-Founder & CEO](../.gitbook/assets/fernando-team-round.png)
+![Co-Founder & Chief Executive Officer](../.gitbook/assets/fernando-team-round.png)
 
 ### **Fernando Liu**
 
@@ -14,7 +14,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/**](https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/)****
 
-![Sean Chen - Co-Founder & CTO](../.gitbook/assets/sean-team-round.png)
+![Co-Founder & Chief Technology Officer](../.gitbook/assets/sean-team-round.png)
 
 ### **Sean Chen**
 
@@ -25,7 +25,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/xcsean**](https://www.linkedin.com/in/xcsean)****
 
-![Ada Yuan - Co-Founder & COO](<../.gitbook/assets/ada-team-round (1).png>)
+![Co-Founder & Chief Operating Officer](<../.gitbook/assets/ada-team-round (1).png>)
 
 
 
@@ -39,11 +39,11 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/ada-jyun-6286b720b/**](https://www.linkedin.com/in/ada-jyun-6286b720b/)****
 
-![Edwin Liu - Co-Founder & Head of BD](../.gitbook/assets/Edwin-Team-Round.png)
+![Co-Founder & Chief Global Officer](../.gitbook/assets/Edwin-Team-Round.png)
 
 ### **Edwin Liu**
 
-**Co-Founder, Head of Business Development**&#x20;
+**Co-Founder, CGO**
 
 * A senior marketing specialist and financial analyst with a decade-long accumulation of experience in various business portfolios.&#x20;
 * Responsible for managing and growing Cardano Foundation's Asian & N. America communities beyond 100k.
@@ -51,7 +51,7 @@
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
-![Hong Xing - CBO](../.gitbook/assets/hong-team-round.png)
+![Chief Business Officer](../.gitbook/assets/hong-team-round.png)
 
 ### Hong Xing
 
@@ -63,7 +63,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/hxing/**](https://www.linkedin.com/in/hxing/)****
 
-![Jouinss - Head of Community](../.gitbook/assets/ss8-team-round.png)
+![Head of Community](../.gitbook/assets/ss8-team-round.png)
 
 ### **Jouinss**
 
@@ -76,7 +76,7 @@
 
 **LinkedIn:** [**https://www.linkedin.com/in/j0uinss8/**](https://www.linkedin.com/in/j0uinss8/)
 
-![Kata Botica - Director of Global Engagement](../.gitbook/assets/kata-team-round.png)
+![Director of Global Engagement](../.gitbook/assets/kata-team-round.png)
 
 ### **Kata Botica**
 
