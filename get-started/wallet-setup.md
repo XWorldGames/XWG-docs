@@ -6,7 +6,7 @@
 
 ****[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct) **** ![](<../.gitbook/assets/image (18).png>)****
 
-****[**Trust Wallet**](https://trustwallet.com) **** ![](<../.gitbook/assets/image (16).png>)****
+****[**Trust Wallet**](https://trustwallet.com) **** ![](../.gitbook/assets/trust\_logotype.png)****
 
 [**WalletConnect** ](https://walletconnect.com)****![](<../.gitbook/assets/image (17).png>)****
 
