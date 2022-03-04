@@ -45,9 +45,9 @@
 
 **Co-Founder, CGO**
 
-* A senior marketing specialist and financial analyst with a decade-long accumulation of experience in various business portfolios.&#x20;
-* Responsible for managing and growing Cardano Foundation's Asian & N. America communities beyond 100k.
-* Crypto and blockchain investor since 2013.&#x20;
+* A senior marketing specialist and financial analyst with a decade-long accumulation of experience in various business portfolios and investment, also a crypto investor since 2013.
+* Responsible for managing and growing Cardano Foundation's Asian & N. America communities beyond 100k.&#x20;
+* Actively contributed and participated in multiple blockchain projects' incubation and development, including ones that were later invested by industry-recognized VC funds.
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
