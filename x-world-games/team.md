@@ -51,18 +51,6 @@
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
-![Chief Business Officer](../.gitbook/assets/hong-team-round.png)
-
-### Hong Xing
-
-**CBO**&#x20;
-
-* Senior Operation Executive in multiple publicly listed gaming companies - NetDragon, Mgame, and Good Gamers.&#x20;
-* Over 26+ years of Gaming business development & operation, talent Acquisition, and game production&#x20;
-* Extensive experience in Asia & North America gaming industry, led a 200+ people international team and managed 10M+ concurrent user projects&#x20;
-
-**LinkedIn：**[**https://www.linkedin.com/in/hxing/**](https://www.linkedin.com/in/hxing/)****
-
 ![Head of Community](../.gitbook/assets/ss8-team-round.png)
 
 ### **Jouinss**
