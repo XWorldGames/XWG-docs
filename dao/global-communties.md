@@ -44,6 +44,8 @@ description: >-
 
 🇵🇰 X World PK: [https://t.me/xwg\_games\_PK](https://t.me/xwg\_games\_PK)
 
+🇦🇪 X World AR: [https://t.me/xwg\_games\_arab](https://t.me/xwg\_games\_arab)
+
 ### More
 
 💾 Github: [https://github.com/XWorldGames​](https://github.com/XWorldGames%E2%80%8B)&#x20;
