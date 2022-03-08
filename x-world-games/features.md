@@ -26,15 +26,15 @@ Enjoy different games in one open metaverse via cross-game experience. Players t
 
 Provides user traffic and economic flows for blockchain games, and creates a game metaverse for players and creators.
 
-### **📈 NFT Exchange, Marketplace**
+### **📈 NFT Marketplace, X Marketplace**
 
-Provides exclusive NFT transactions for in-game characters and items, adopts various bidding models, and supports NFT fragmentation and market maker liquidity in the future.
+Provides exclusive NFT transactions for in-game items, adopts various bidding models, and supports NFT fragmentation and market maker liquidity in the future.
 
 ### **🤿 DeFi Gamification,** X Pool
 
 A variety of DeFi functions with gamification, including liquidity mining, NFT/token staking mining, DeFi lending and Swap.
 
-### **🚧 Open-Game Creation, X Creator**
+### **🚧 Open-Game Creator, X Creator**
 
 Provides a series of open-source and comprehensive game creation tools, from simple character creation to complex script/function editing.
 
