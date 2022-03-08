@@ -4,7 +4,7 @@
 
 [**MetaMask**](https://metamask.io)****![](<../.gitbook/assets/image (7).png>)****
 
-****[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct) **** ![](<../.gitbook/assets/image (18).png>)****
+****[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct) **** ![](<../.gitbook/assets/image (18) (1).png>)****
 
 ****[**Trust Wallet**](https://trustwallet.com) **** ![](../.gitbook/assets/trust\_logotype.png)****
 
