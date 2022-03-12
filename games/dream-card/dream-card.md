@@ -1,15 +1,5 @@
 # Beginner's Guide
 
-## What is Dream Card?
-
-Dream Card is an NFT battle card game under the X-World-Games ecosystem. Each card has its own unique attributes. You only need to obtain a few cards, you can match and play against the world's players on the Internet.
-
-The project is hosted on [GitHub](https://github.com/X-World-Games). All updates made to this page and all past versions of the rules are recorded here. In addition, the changelog on this page describes all rule changes between versions.
-
-You can report issues and discuss changes on the GitHub Issues page or in the DAO on the X-World-Games official website.
-
-DAO is a decentralized governance community, where you can discuss various rules related to the game and propose amendments. All players in the game community can vote on amendments.
-
 ## **Beginner's Guide**
 
 ### **Part 1 - Introduction**
