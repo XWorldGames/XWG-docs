@@ -98,37 +98,11 @@ Click the battle button to enter the battle matching queue, and match according 
 
 ### Expedition
 
-Players can stake cards on the chain through the conquest function, which is divided into ordinary conquest and genesis conquest according to the players’ card type, and obtain corresponding XWG staking rewards according to the card reference price and staking time.
+Players can stake cards on the chain through the conquest function, which is divided into ordinary conquest and genesis conquest according to the players’ card type, and obtain the corresponding XWG staking rewards according to the card reference price and staking time.
 
 
 
 ### ELO (Ladder)&#x20;
 
 The ELO mode (ladder) is carried out by seasons, offline battles and ranking. Players participate in the ladder competition by paying a certain amount of registration fee, and $XWG rewards will be given according to the player's ladder rankings after the end of the season.
-
-### Prize pool&#x20;
-
-{% hint style="info" %}
-Under DeveDevelopment&#x20;
-{% endhint %}
-
-A large prize pool to reward some achievement ranked sections for the purpose of promoting the activeness of the game. The source of the prize pool is divided into two parts: the original mining pool mining and the player's defeat in battle.
-
-
-
-### PVE&#x20;
-
-{% hint style="info" %}
-Under DeveDevelopment&#x20;
-{% endhint %}
-
-24/7, players can level up through PVE and complete numbers of levels to earn $XWG rewards for the purpose of promoting the activeness of the game. The source of reward is paid from the activity mining pool
-
-### World Boss&#x20;
-
-{% hint style="info" %}
-Under Development
-{% endhint %}
-
-Opening limited time only every day, players will attack the world BOSS through PVE. After killing the world BOSS, the player will be rewarded with $XWG according to the proportion of the kill contribution for the purpose of promoting the activeness of the game. The source of reward is paid from the activity mining pool
 
