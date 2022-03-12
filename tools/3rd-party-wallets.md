@@ -1,6 +1,4 @@
-# Wallet Setup
-
-### Wallets Supported:
+# 🦊 3rd-Party Wallets
 
 [**MetaMask**](https://metamask.io)****![](<../.gitbook/assets/image (7).png>)****
 
