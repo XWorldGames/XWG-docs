@@ -2,7 +2,7 @@
 
 ### Dream Card Avatar Collection
 
-![](../.gitbook/assets/bimbos.jpg)
+![Dream Card Bimbos - 7777](../.gitbook/assets/bimbos.jpg)
 
 **Dream Card Bimbos** is a collection of 7,777 generative Bimbos NFTs, sitting on the ETH network, with hundreds of elements powered by X World Games.
 
