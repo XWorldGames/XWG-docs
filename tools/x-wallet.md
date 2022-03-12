@@ -6,17 +6,15 @@ description: an accessible crypto wallet for your blockchain games
 
 ### An accessible crypto wallet for your blockchain games
 
-#### _**X Wallet will be integrated with Dream Card v2 to ease the game access. It’s a BSC-friendly wallet built for X World Games. The X Wallet will support Dream Card v1 and Dream Card v2.**_
+![X-Wallet (Web) Showcase](https://lh5.googleusercontent.com/O8UKq4\_lb-AtX6CH1XbuPA4qR\_ubKtO-hehGI2V\_UpiczCQNbH82CvMz\_noqVzULCdhYEYN1yjFJFSX\_flUHXo1L9bnwIUYCbQDeiPqFlTOdYtSe-Cpznsbj-NYMNu0lBwXJn8Ew)
 
-_****_
-
-![X Wallet (Mobile)](../.gitbook/assets/X-Wallet1.jpeg)
+**X Wallet** will be integrated with Dream Card v2 to ease the game access. It’s a BSC-friendly wallet built for X World Games. The X Wallet will support Dream Card v1 and Dream Card v2.
 
 Building the gaming ecosystem is always the top priority carved on X World Games' mission statements, and the comfort of access is the first step in constructing its infrastructure. Players will always select the least bumpy route with the smoothest experience.
 
 On the other hand, many gaming dApps out there fail to pave such a path because they rely on 3rd-party wallets to onboard users. When the login becomes problematic and complicated, players usually prefer to give up and exit through the red button on the top right-hand corner.
 
-![X-Wallet (Web) Showcase](https://lh5.googleusercontent.com/O8UKq4\_lb-AtX6CH1XbuPA4qR\_ubKtO-hehGI2V\_UpiczCQNbH82CvMz\_noqVzULCdhYEYN1yjFJFSX\_flUHXo1L9bnwIUYCbQDeiPqFlTOdYtSe-Cpznsbj-NYMNu0lBwXJn8Ew)
+![X Wallet (Mobile)](../.gitbook/assets/X-Wallet1.jpeg)
 
 The X World Games platform includes a variety of wallet accesses that ensure a freedom-of-choice experience across all functionalities. However, with the X Wallet delivered by X World Games, designed explicitly for gaming dApps on Binance Smart Chain, players are guaranteed to have the best user experience and the most accessible process integrated with the XWG ecosystem.
 

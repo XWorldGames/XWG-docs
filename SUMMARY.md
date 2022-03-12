@@ -36,6 +36,8 @@
 * [🔧 Get Started](get-started/README.md)
   * [Wallet Setup](get-started/wallet-setup.md)
 * [👜 X Wallet](tools/x-wallet.md)
+* [🤽 X Pool](tools/x-pool.md)
+* [🛒 X Maretplace](tools/x-maretplace.md)
 
 ## DAO
 
