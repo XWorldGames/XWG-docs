@@ -31,6 +31,12 @@
   * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
   * [Game Features](games/dream-card-v2/game-features.md)
 
+## Fun
+
+* [👧 Dream Card Bimbos](fun/dream-card-bimbos.md)
+* [🎙 VR Landscape](fun/vr-landscape.md)
+* [🎲 Game Hub](fun/game-hub.md)
+
 ## Tools
 
 * [👜 X Wallet](tools/x-wallet.md)
