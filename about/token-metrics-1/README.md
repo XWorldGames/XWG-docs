@@ -12,7 +12,7 @@ $XWG will also be accepted as the payment currency in X World Games Marketplace,
 
 
 
-![](<../.gitbook/assets/X World Games (1).png>)
+![](<../../.gitbook/assets/X World Games (1).png>)
 
 ### Token Allocation&#x20;
 

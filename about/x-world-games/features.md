@@ -1,6 +1,6 @@
 # 👨💼 Features
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ### 🤳 Decentralization
 
@@ -18,7 +18,7 @@ XWG is powered by a global community, made up of gamers, investors, and creators
 
 Enjoy different games in one open metaverse via cross-game experience. Players truly own their characters and sets, and experience their unique assets in every different game of the X World.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ## **Infrastructures**
 

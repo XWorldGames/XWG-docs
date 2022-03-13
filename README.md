@@ -1,17 +1,13 @@
-# About
+# 👑 X World Games
 
-![](https://lh3.googleusercontent.com/uTCiFpW2ppEfqHND3BAjiT-Kj9Un9ksGgD8yVS04gfdRtwRmpzIxjvhoZCiOEBhFxcbtE\_Aw3GKPsCHH5tKwrb8mayOdZjKlnNiBqQKCqHtFgj-FPhhcJg-nkLDuMraTXEMeuBpt)
+![X World Games x Dream Card](<../.gitbook/assets/image (5) (1) (1).png>)
 
-_****_
+Founded in 2018, X World Games (“XWG”) aims to build the next-gen decentralized gaming metaverse.
 
-_**X World Games is the next-generation decentralized gaming metaverse.**_&#x20;
+X World Games' vision is to build a diversified gaming ecosystem that connects traditional gamers with the blockchain world and invite more game developers into the crypto space by creating and providing the underlying blockchain framework.
 
-“X World” represents an unknown virtual world open for players to explore, and "Games" represents all of our gaming ecosystems connected.
+With its gaming innovation, crypto game - Dream Card, NFT Marketplace and DeFi Pool, X World Games now serves over 2 million registered gamers, and has quickly become the fastest-growing crypto gaming platform in the ecosystem.
 
-The mission of X World Games is to bring blockchain technology into an open space where players from all over the world can participate in games together; simply put, **X World Games will introduce blockchain into the World of Games.**
+X World Games is headquartered in Singapore with a 100+ dynamic team located worldwide.&#x20;
 
-****
-
-{% embed url="https://youtu.be/dY3GEeRKv-s" %}
-_**What's X World Games?**_
-{% endembed %}
+Please learn more by visiting [https://xwg.games](https://xwg.games).
