@@ -1,7 +1,3 @@
----
-description: an accessible crypto wallet for your blockchain games
----
-
 # 👜 X Wallet
 
 ### An accessible crypto wallet for your blockchain games
