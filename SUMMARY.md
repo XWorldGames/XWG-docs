@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👑 X World Games](README.md)
-* [🧙 About](x-world-games/README.md)
+* [🦸 About](x-world-games/README.md)
   * [👶 Vision](x-world-games/vision.md)
   * [👴 History](x-world-games/history.md)
   * [👨💼 Features](x-world-games/features.md)

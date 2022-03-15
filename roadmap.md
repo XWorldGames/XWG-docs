@@ -35,9 +35,9 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 |         | X World Games - Avatar Customization Tool                                                                                                   | ~~Completed~~  |
 |         | DAO - Decentralized Community Launch                                                                                                        | ~~Completed~~  |
 | Q1 2022 | Launch Game Assets (NFTs) borrowing and lending ​                                                                                           | Coming Soon    |
-|         | Launch X-Wallet                                                                                                                             | Coming Soon    |
+|         | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
 |         | Launch Mining Terminal Apps                                                                                                                 | Coming Soon    |
-|         | Launch Game Hub for MiniGames App                                                                                                           | Coming Soon    |
+|         | Launch Game Hub for MiniGames App                                                                                                           | ~~Completed~~  |
 |         | Onboard 5 -10 popular games into X World Games through collaboration                                                                        | Coming Soon    |
 | Q2 2022 | Launch Avatar system for designers                                                                                                          | Coming Soon    |
 |         | Onboard new 3D Games to X World Games                                                                                                       | Coming Soon    |

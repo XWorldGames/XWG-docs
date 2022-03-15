@@ -1,4 +1,4 @@
-# 🧙 About
+# 🦸 About
 
 ![X World Games x Dream Card](<../.gitbook/assets/image (5) (1) (1).png>)
 
