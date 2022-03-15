@@ -1,6 +1,6 @@
-# 🦸 About
+# 🦸♀ About
 
-![X World Games x Dream Card](<../.gitbook/assets/image (5) (1) (1).png>)
+![X World Games x Dream Card](<.gitbook/assets/image (5) (1) (1).png>)
 
 Founded in 2018, X World Games (“XWG”) aims to build the next-gen decentralized gaming metaverse.
 

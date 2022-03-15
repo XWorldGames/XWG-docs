@@ -4,7 +4,7 @@ The vision of X World Games is to build a diversified gaming ecosystem that conn
 
 X World Games will be a gaming platform that connects blockchain systems with millions of players from the conventional gaming world. X World Games is currently working with game developers and industry-leading professionals to attract traditional players and expand its ecosystem, aiming to become the "Open Sea" in the space of blockchain gaming and a Steam-like blockchain platform.
 
-![X World Games x Dream Card](../.gitbook/assets/1627899561164.jpeg)
+![X World Games x Dream Card](../../.gitbook/assets/1627899561164.jpeg)
 
 
 

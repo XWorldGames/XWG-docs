@@ -1,17 +1,17 @@
 # Table of contents
 
 * [👑 X World Games](README.md)
-* [🦸 About](x-world-games/README.md)
-  * [👶 Vision](x-world-games/vision.md)
-  * [👴 History](x-world-games/history.md)
-  * [👨💼 Features](x-world-games/features.md)
-  * [💵 Backers](x-world-games/backer.md)
-  * [👪 Team](x-world-games/team.md)
-* [📰 Press Mentions](press-mentioned.md)
-* [🗺 Roadmap](roadmap.md)
-* [🧐 Token Metrics](token-metrics-1/README.md)
-  * [🗼 Token Utility](token-metrics-1/token-utility.md)
-  * [🌐 Token Network](token-metrics-1/token-network.md)
+* [🦸♀ About](<README (1).md>)
+  * [👶 Vision](about/x-world-games/vision-1.md)
+  * [👴 History](about/x-world-games/history.md)
+  * [👨💼 Features](about/x-world-games/features.md)
+  * [💵 Backers](about/x-world-games/backer.md)
+  * [👪 Team](about/x-world-games/team.md)
+* [📰 Press Mentions](about/press-mentioned.md)
+* [🗺 Roadmap](about/roadmap.md)
+* [🧐 Token Metrics](about/token-metrics-1/README.md)
+  * [🗼 Token Utility](about/token-metrics-1/token-utility.md)
+  * [🌐 Token Network](about/token-metrics-1/token-network.md)
 
 ## Games
 

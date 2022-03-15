@@ -1,6 +1,6 @@
 # 👪 Team
 
-![Co-Founder & Chief Executive Officer](../.gitbook/assets/fernando-team-round.png)
+![Co-Founder & Chief Executive Officer](../../.gitbook/assets/fernando-team-round.png)
 
 ### **Fernando Liu**
 
@@ -14,7 +14,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/**](https://www.linkedin.com/in/fernando-oscar-liu-536a0720a/)****
 
-![Co-Founder & Chief Technology Officer](../.gitbook/assets/sean-team-round.png)
+![Co-Founder & Chief Technology Officer](../../.gitbook/assets/sean-team-round.png)
 
 ### **Sean Chen**
 
@@ -25,7 +25,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/xcsean**](https://www.linkedin.com/in/xcsean)****
 
-![Co-Founder & Chief Operating Officer](<../.gitbook/assets/ada-team-round (1).png>)
+![Co-Founder & Chief Operating Officer](<../../.gitbook/assets/ada-team-round (1).png>)
 
 
 
@@ -39,7 +39,7 @@
 
 **LinkedIn：**[**https://www.linkedin.com/in/ada-jyun-6286b720b/**](https://www.linkedin.com/in/ada-jyun-6286b720b/)****
 
-![Co-Founder & Chief Global Officer](../.gitbook/assets/Edwin-Team-Round.png)
+![Co-Founder & Chief Global Officer](../../.gitbook/assets/Edwin-Team-Round.png)
 
 ### **Edwin Liu**
 
@@ -51,7 +51,7 @@
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
-![Head of Community](../.gitbook/assets/ss8-team-round.png)
+![Head of Community](../../.gitbook/assets/ss8-team-round.png)
 
 ### **Jouinss**
 
@@ -64,7 +64,7 @@
 
 **LinkedIn:** [**https://www.linkedin.com/in/j0uinss8/**](https://www.linkedin.com/in/j0uinss8/)
 
-![Director of Global Engagement](../.gitbook/assets/kata-team-round.png)
+![Director of Global Engagement](../../.gitbook/assets/kata-team-round.png)
 
 ### **Kata Botica**
 
