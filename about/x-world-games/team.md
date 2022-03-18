@@ -29,7 +29,7 @@
 
 
 
-**Ada Yuan**
+### **Ada Yuan**
 
 **Co-Founder, COO**&#x20;
 
