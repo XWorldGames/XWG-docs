@@ -68,7 +68,7 @@
 
 ### **Kata Botica**
 
-**Director of Global Engagement**&#x20;
+**Head of Global Engagement**&#x20;
 
 * Over 5 years corporate industry experience in the technology, administration, HR, and social media marketing space.
 * More than 2 years of experience in the crypto space, with knowledge of industry trends and community engagement.
