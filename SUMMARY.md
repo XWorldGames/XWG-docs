@@ -12,6 +12,7 @@
 * [🧐 Token Metrics](about/token-metrics-1/README.md)
   * [🗼 Token Utility](about/token-metrics-1/token-utility.md)
   * [🌐 Token Network](about/token-metrics-1/token-network.md)
+  * [🔥 Burning Mechanism](token-metrics-1/token-network-1.md)
 
 ## Games
 
