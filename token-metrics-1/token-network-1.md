@@ -4,14 +4,14 @@
 
 **X World Games** is excited to introduce our future plans for the $XWG token. In this outline, we will describe some of the existing measures and burning mechanisms we have designed, and our future plans for burning $XWG tokens. With these token-burning mechanisms, we will improve the X World Games ecosystem and the future volatility of the $XWG token.
 
-#### TLDR; <a href="#dd8f" id="dd8f"></a>
+### TLDR; <a href="#dd8f" id="dd8f"></a>
 
 1. $XWG token burning and NFT burning will be upgraded and introduced into our ecosystem in the future. Token burning will happen to a portion of our recycled $XWG (a portion kept for rewards) and when $XWG is received through transaction fees.
 2. A Burning Tax will be implemented to limit abusive behaviors and a “Loot Box” style mechanism will allow players to burn their $XWG and NFTs for a chance to receive exclusive rewards.
 3. In the future, X World Games will announce token burning on outside revenue streams by swapping a fixed portion (_50%_) of the quarterly profit to $XWG to burn. As well as implementing DAO governance burning mechanisms to require players to burn $XWG to vote on specific DAO events.
 4. The Burning Address will be announced soon, and the total burning amount will be announced monthly/quarterly. All burnt amounts of $XWG will be removed from the circulation.
 
-#### How is “Token Burning” Positive? <a href="#364e" id="364e"></a>
+### How is “Token Burning” Positive? <a href="#364e" id="364e"></a>
 
 The positive output of token burning benefits the project and token holders. Token burning helps with stabilizing the value of a coin and minimizing the risk of potential price inflation. By burning $XWG tokens and reducing the supply of $XWG in circulation, we will improve the stability of the coin and the X World Games ecosystem.
 
