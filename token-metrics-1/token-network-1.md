@@ -6,10 +6,11 @@
 
 ### TLDR; <a href="#dd8f" id="dd8f"></a>
 
-1. $XWG token burning and NFT burning will be upgraded and introduced into our ecosystem in the future. Token burning will happen to a portion of our recycled $XWG (a portion kept for rewards) and when $XWG is received through transaction fees.
+1. $XWG token burning and NFT burning will be upgraded and introduced into our ecosystem in the future. Token burning will happen to a portion of our recycled $XWG (_**Recycle pool, 100% for one year**_) and when $XWG is received through transaction fees.
 2. A Burning Tax will be implemented to limit abusive behaviors and a “Loot Box” style mechanism will allow players to burn their $XWG and NFTs for a chance to receive exclusive rewards.
-3. In the future, X World Games will announce token burning on outside revenue streams by swapping a fixed portion (_50%_) of the quarterly profit to $XWG to burn. As well as implementing DAO governance burning mechanisms to require players to burn $XWG to vote on specific DAO events.
-4. The Burning Address will be announced soon, and the total burning amount will be announced monthly/quarterly. All burnt amounts of $XWG will be removed from the circulation.
+3. In the future, X World Games will announce token burning on outside revenue streams by swapping a fixed portion (_**50% profit**_) of the quarterly profit to $XWG to burn. As well as implementing DAO governance burning mechanisms to require players to burn $XWG to vote on specific DAO events.
+4. The Burning Address will be announced soon and the total burning amount will be announced _**quarterly**_.
+5. The max cap of burning will be _**49%**_ of the total supply. All burnt amounts of $XWG will be removed from the circulation.
 
 ### How is “Token Burning” Positive? <a href="#364e" id="364e"></a>
 
