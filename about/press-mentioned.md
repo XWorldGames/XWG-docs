@@ -8,6 +8,8 @@
 
 ### BSC News
 
+{% embed url="https://www.bsc.news/post/x-world-games-unveils-new-tokenomics" %}
+
 {% embed url="https://www.bsc.news/post/x-world-games-vr-landscape-reveals-first-3-dream-girls" %}
 
 {% embed url="https://www.bsc.news/post/x-world-games-begins-2022-launching-dream-card-v2-alpha" %}
