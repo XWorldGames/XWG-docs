@@ -10,7 +10,7 @@
 
 ****[**Token Pocket** ](https://www.tokenpocket.pro)****![](<../.gitbook/assets/image (9).png>)****
 
-****[**Onto Wallet** ](https://onto.app)****![](<../.gitbook/assets/image (10).png>)****
+****[**Onto Wallet** ](https://onto.app)****![](<../.gitbook/assets/image (10) (1).png>)****
 
 [**Clover Finance** ](https://clover.finance)****![](<../.gitbook/assets/image (6).png>)****
 
