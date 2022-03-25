@@ -4,6 +4,10 @@
 
 {% embed url="https://bscscan.com/address/0x0000000000000000000000000000000000000000" %}
 
+{% hint style="info" %}
+The previous quarter's profits will be burned on the last Sunday of each quarter.
+{% endhint %}
+
 {% hint style="danger" %}
 Max burn limit of 49% token supply
 {% endhint %}
