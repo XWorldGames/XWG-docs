@@ -27,11 +27,11 @@ Max burn limit of 49% token supply
 | <mark style="color:orange;">**Profit**</mark>            | Mystery Box    | [BSCScan](https://bscscan.com/address/0x282c154c533bef0f49de97be7a9ec491f1c94f56)                                            |
 |                                                          |                |                                                                                                                              |
 
-| Burning Date     | $XWG           | % of Total Supply | Burning Category                         | Ref Period | Ref Price |
-| ---------------- | -------------- | ----------------- | ---------------------------------------- | ---------- | --------- |
-| April 1st, 2022  | 25,962,830     | 0.26%             | <mark style="color:blue;">**A**</mark>   | Q1 2022    |           |
-| April 15th, 2022 | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
-| **Total Burn**   | **61,518,386** |                   |                                          |            |           |
+| Burning Date     | Burn TXN                                                                                         | $XWG           | % of Total Supply | Burning Category                         | Ref Period | Ref Price |
+| ---------------- | ------------------------------------------------------------------------------------------------ | -------------- | ----------------- | ---------------------------------------- | ---------- | --------- |
+| March 27th, 2022 | [TXN](https://bscscan.com/tx/0x6cfa4e549baecb95477e9709dc633c28ea557514d203d47570a0b41a7b3244a0) | 25,962,830     | 0.26%             | <mark style="color:blue;">**A**</mark>   | Q1 2022    |           |
+| April 15th, 2022 |                                                                                                  | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
+| **Total Burn**   |                                                                                                  | **61,518,386** |                   |                                          |            |           |
 
 | Circulating Supply |             |       |
 | ------------------ | ----------- | ----- |
