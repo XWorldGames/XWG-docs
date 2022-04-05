@@ -21,7 +21,7 @@
   * [How to Play](games/dream-card/how-to-play/README.md)
     * [Tiếng Việt (Vietnamese)](games/dream-card/how-to-play/tieng-viet-vietnamese.md)
     * [भारतीय (Indian)](games/dream-card/how-to-play/indian.md)
-    * [中国人(Chinese)](games/dream-card/how-to-play/zhong-guo-ren-chinese.md)
+    * [华语(Chinese)](games/dream-card/how-to-play/hua-yu-chinese.md)
     * [Pilipinas (Philippines)](games/dream-card/how-to-play/pilipinas-philippines.md)
     * [日本 (Japanese)](games/dream-card/how-to-play/ri-ben-japanese.md)
     * [Española (Spanish)](games/dream-card/how-to-play/espanola-spanish.md)
