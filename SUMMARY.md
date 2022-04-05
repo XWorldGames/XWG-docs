@@ -18,6 +18,14 @@
 ## Games
 
 * [1⃣ Dream Card V1](games/dream-card/README.md)
+  * [How to Play](games/dream-card/how-to-play/README.md)
+    * [Tiếng Việt (Vietnamese)](games/dream-card/how-to-play/tieng-viet-vietnamese.md)
+    * [भारतीय (Indian)](games/dream-card/how-to-play/indian.md)
+    * [中国人(Chinese)](games/dream-card/how-to-play/zhong-guo-ren-chinese.md)
+    * [Pilipinas (Philippines)](games/dream-card/how-to-play/pilipinas-philippines.md)
+    * [日本 (Japanese)](games/dream-card/how-to-play/ri-ben-japanese.md)
+    * [Española (Spanish)](games/dream-card/how-to-play/espanola-spanish.md)
+    * [Türk (Turkish)](games/dream-card/how-to-play/tuerk-turkish.md)
   * [Beginner's Guide](games/dream-card/dream-card.md)
   * [Game Features](games/dream-card/game-feature.md)
   * [Game Mechanism](games/dream-card/game-mechanism.md)
