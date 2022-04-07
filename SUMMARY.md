@@ -12,8 +12,9 @@
 * [🧐 Token Metrics](about/token-metrics-1/README.md)
   * [🗼 Token Utility](about/token-metrics-1/token-utility.md)
   * [🌐 Token Network](about/token-metrics-1/token-network.md)
-  * [🔥 Burning Mechanism](token-metrics-1/token-network-1/README.md)
-    * [🎆 Token Burning | 2022](token-metrics-1/token-network-1/token-burning-or-2022.md)
+  * [🌊 $XWG Earning Flow](token-metrics-1/token-network-1.md)
+  * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
+    * [🎆 Token Burning | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
 
 ## Games
 
