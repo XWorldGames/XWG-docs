@@ -1,4 +1,3 @@
-# 🌊 $XWG Earning Flow
+# ⤴ Token Earning Flow
 
-![](<../.gitbook/assets/xwg eco framework.png>)
-
+{% file src="../.gitbook/assets/earningflow.pdf" %}
