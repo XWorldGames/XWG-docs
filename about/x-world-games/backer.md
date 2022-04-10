@@ -2,13 +2,12 @@
 
 ![](../../.gitbook/assets/backer.jpeg)
 
-We are very excited to announce a **$1.2M** strategic funding from institutional investors, including [**NGC Ventures**](https://www.ngc.fund)**、**[**PreAngel Fund**](http://www.preangelfund.cn)**、**[**AU21 Capital**](https://au21.capital)**、**[**FBG Capital**](https://www.fbg.capital)**、**[**LongLing Capital**](http://www.longling.com)**、**[**SNZ**](https://snzholding.com)**、**[**Chain Capital**](http://capital-chain.com)**、**[**Moonwhale ventures**](https://moonwhale.ventures)**、** [**BTX Capital**](http://btx.capital)**、** [**CryptoDiffer**](https://cryptodiffer.com/news/)**、** [**Lanlaxy Group**](http://www.lanlaxy.com)**、**[**Catcher VC**](https://www.chaincatcher.com)**、**[**Kyros Ventures**](https://kyros.ventures)**,** [**Titans Ventures**](https://titans.ventures) and etc**.**
+We are very excited to announce a **$1.2M** strategic funding from institutional investors, including [**NGC Ventures**](https://www.ngc.fund)**、**[**PreAngel Fund**](http://www.preangelfund.cn)**、**[**AU21 Capital**](https://au21.capital)**、**[**FBG Capital**](https://www.fbg.capital)**、**[**LongLing Capital**](http://www.longling.com)**、**[**SNZ**](https://snzholding.com)**、**[**Chain Capital**](http://capital-chain.com)**、**[**Moonwhale ventures**](https://moonwhale.ventures)**、**[**CryptoDiffer**](https://cryptodiffer.com/news/)**、** [**Lanlaxy Group**](http://www.lanlaxy.com)**、**[**Catcher VC**](https://www.chaincatcher.com)**、**[**Kyros Ventures**](https://kyros.ventures)**,** [**Titans Ventures**](https://titans.ventures) and etc**.**
 
 We are excited to see so many top crypto institutional investors in the space were interested in supporting blockchain gaming and acknowledging XWG’s open-ecosystem vision and progressive roadmap. We will further extend the depth of our chain-tech involved within the gaming and improve our overall gaming experience. All this is to achieve a simple goal — to provide a simple and fun gaming ecosystem for crypto and non-crypto players.
 
 | Investors & Backers                              |
 | ------------------------------------------------ |
-| [BTX Capital](http://btx.capital)                |
 | [0x21 Labs](https://0x21labs.xyz)                |
 | [Kyros Ventures](https://kyros.ventures)         |
 | [Catcher VC](https://www.chaincatcher.com)       |
