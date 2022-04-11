@@ -12,8 +12,6 @@ Interested in partnership opportunities? `service@xwg.games`
 
 @xwg\_knight&#x20;
 
-@Lukas\_D
-
 @XWGGuardian
 
 @Spotter\_XWG
