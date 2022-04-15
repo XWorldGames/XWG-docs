@@ -51,19 +51,6 @@
 
 **LinkedIn:** [ **https://www.linkedin.com/in/edwin-xwg/**](https://www.linkedin.com/in/edwin-xwg/)****
 
-![Head of Community](../../.gitbook/assets/ss8-team-round.png)
-
-### **Jouinss**
-
-**Head of Community**&#x20;
-
-* 10+ years as Back-end Engineer specializing in encryption, tokenization, and anything PCI-related at Fiserv.&#x20;
-* Team member of Apple Pay's back-end processing.&#x20;
-* Avid Gamer, left the financial sector to pursue his passion as Game Master at Aeria Games.&#x20;
-* Bitcoin veteran since 2016, also experienced in building Smart Contracts on Ethereum.
-
-**LinkedIn:** [**https://www.linkedin.com/in/j0uinss8/**](https://www.linkedin.com/in/j0uinss8/)
-
 ![Director of Global Engagement](../../.gitbook/assets/kata-team-round.png)
 
 ### **Kata Botica**
