@@ -30,7 +30,7 @@ Max burn limit of 49% token supply
 | Burning Date     | Burn TXN                                                                                              | $XWG           | % of Total Supply | Burning Category                         | Ref Period | Ref Price |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ----------------- | ---------------------------------------- | ---------- | --------- |
 | March 27th, 2022 | [TXN LINK](https://bscscan.com/tx/0x6cfa4e549baecb95477e9709dc633c28ea557514d203d47570a0b41a7b3244a0) | 25,962,830     | 0.26%             | <mark style="color:blue;">**A**</mark>   | Q1 2022    | $0.033    |
-| April 15th, 2022 |                                                                                                       | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
+| End of Q2        |                                                                                                       | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
 | **Total Burn**   |                                                                                                       | **61,518,386** |                   |                                          |            |           |
 
 | Circulating Supply |             |       |
