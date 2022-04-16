@@ -34,17 +34,18 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 |         | Marketplace - Pool Functions                                                                                                                | ~~Completed~~  |
 |         | X World Games - Avatar Customization Tool                                                                                                   | ~~Completed~~  |
 |         | DAO - Decentralized Community Launch                                                                                                        | ~~Completed~~  |
-| Q1 2022 | Launch Game Assets (NFTs) borrowing and lending ​                                                                                           | Coming Soon    |
-|         | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
-|         | Launch Mining Terminal Apps                                                                                                                 | Coming Soon    |
+| Q1 2022 | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
 |         | Launch Game Hub for MiniGames App                                                                                                           | ~~Completed~~  |
-|         | Onboard 5 -10 popular games into X World Games through collaboration                                                                        | Coming Soon    |
 | Q2 2022 | Launch Avatar system for designers                                                                                                          | Coming Soon    |
 |         | Onboard new 3D Games to X World Games                                                                                                       | Coming Soon    |
 |         | Launch Dream CardV3                                                                                                                         | Coming Soon    |
-|         | Complete cross-chain trading for Marketplace                                                                                                | Coming Soon    |
+|         | Launch Dream Girls                                                                                                                          | Coming Soon    |
 |         | Release SAFU Fund for X-Wallet                                                                                                              | Coming Soon    |
+|         | Launch Game Assets (NFTs) borrowing and lending ​                                                                                           | Coming Soon    |
 | Q3 2022 | Launch 3D Rendering System in Cloud Demo                                                                                                    | Coming Soon    |
 |         | Improve on-chain transaction speed and lower gas fee                                                                                        | Coming Soon    |
-| Q4 2022 | Launch Metaverse system Demo, enabling VR equipment access to X World Games                                                                 | Coming Soon    |
+|         | Launch Mining Terminal Apps                                                                                                                 | Coming Soon    |
+|         | Onboard 5 -10 popular games into X World Games through collaboration                                                                        | Coming Soon    |
+| Q4 2022 | Complete cross-chain trading for Marketplace                                                                                                | Coming Soon    |
+|         | Launch Metaverse Dream Concert                                                                                                              | Coming Soon    |
 
