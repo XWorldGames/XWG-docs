@@ -1,26 +1,24 @@
 # 🦊 3rd-Party Wallets
 
-[**MetaMask**](https://metamask.io)****![](<../.gitbook/assets/image (7).png>)****
+[**MetaMask**](https://metamask.io)****<img src="../.gitbook/assets/image (7).png" alt="" data-size="line">****
 
-****[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct) **** ![](<../.gitbook/assets/image (18) (1).png>)****
+****[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct) **** <img src="../.gitbook/assets/image (18) (1).png" alt="" data-size="line">****
 
-****[**Trust Wallet**](https://trustwallet.com) **** ![](../.gitbook/assets/trust\_logotype.png)****
+****[**Trust Wallet**](https://trustwallet.com) **** <img src="../.gitbook/assets/trust_logotype.png" alt="" data-size="line">****
 
-[**WalletConnect** ](https://walletconnect.com)****![](<../.gitbook/assets/image (17).png>)****
+[**WalletConnect** ](https://walletconnect.com)****<img src="../.gitbook/assets/image (17).png" alt="" data-size="line">****
 
-****[**Token Pocket** ](https://www.tokenpocket.pro)****![](<../.gitbook/assets/image (9).png>)****
+****[**Token Pocket** ](https://www.tokenpocket.pro)****<img src="../.gitbook/assets/image (9).png" alt="" data-size="line">****
 
-****[**Onto Wallet** ](https://onto.app)****![](<../.gitbook/assets/image (10) (1).png>)****
+****[**Onto Wallet** ](https://onto.app)****<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line">****
 
-[**Clover Finance** ](https://clover.finance)****![](<../.gitbook/assets/image (6).png>)****
+[**Clover Finance** ](https://clover.finance)****<img src="../.gitbook/assets/image (6).png" alt="" data-size="line">****
 
-[**Coin98 Wallet**](https://wallet.coin98.com) **** ![](<../.gitbook/assets/image (11).png>)****
+[**Coin98 Wallet**](https://wallet.coin98.com) **** <img src="../.gitbook/assets/image (11).png" alt="" data-size="line">****
 
-[**Math Wallet** ](https://mathwallet.org/en-us/)****![](<../.gitbook/assets/image (13).png>)****
+[**Math Wallet** ](https://mathwallet.org/en-us/)****<img src="../.gitbook/assets/image (13).png" alt="" data-size="line">****
 
-****[**imToken** ](https://token.im/download)****![](../.gitbook/assets/imtoken-logo-vector.png)****
+****[**imToken** ](https://token.im/download)****<img src="../.gitbook/assets/imtoken-logo-vector.png" alt="" data-size="line">****
 
-****[**SafePal**](https://safepal.io) **** ![](<../.gitbook/assets/image (15).png>)****
-
-****[**X Wallet**](https://docs.xwg.games/tools/x-wallet) **** ![](../.gitbook/assets/xwglogo.png)****
+****[**SafePal**](https://safepal.io) **** <img src="../.gitbook/assets/image (15).png" alt="" data-size="line">****
 
