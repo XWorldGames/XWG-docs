@@ -1,24 +1,10 @@
-# Token Utility
+# 🗼 Token Utility
 
-## $XWG
+![](<../../.gitbook/assets/X World Games.png>)
 
-#### $XWG token is the native token of the X World Games, built based on Binance Smart Chain's BEP-20 standard, with a fixed total supply of 10 billion. 
-
-$XWG is the essential fuel to boost the growth of the X World Games ecosystem.  
-
-$XWG holders will be able to claim rewards through participating in the play-to-earn mechanism, DeFi operation and DAO voting process. $XWG will also be accepted as the payment currency in X World Games Marketplace, where players can buy and sell their in-game NFT assets.
-
-## Token Utility
-
-![Token Utility](../../.gitbook/assets/tu.png)
-
-| Function | Description |
-| :--- | :--- |
-| Purchase | $XWG is the digital token that players use to purchase in-game items and participate in gaming events.  |
-| Mining Pool | Game mining is an approach to enrich the game ecosystem by receiving token rewards from playing games. Token holders could participate in creating new cards and earn a token as a creator from the marketplace. For instance, the X World Games platform would have revenues from the mystery box, card sales, asset sales, transaction fees, etc., and that a fixed proportion would be distributed to the staking pool rewards. NFTs will also have Defi features such as collateralization, repurchase, and burn mechanisms. |
-| Governance | Owning XWG tokens enables players to participate in the governance process through a decentralized autonomous organization \(DAO\), with development proposals and voting structures. Issues related to the platform operations and development could be voted based on the preference of the token holders. In order to encourage users to participate in the voting process, there will also be rewards for voting actions. |
-| Play-to-Earn | There are a proportion of the tokens reserved for user incentives. Players could earn XWG tokens by simply playing games. This design is to encourage user participation in the game, grow the community and maintain platform traction. |
-
-  
-
-
+| **Token Utilities**               | **Description**                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Incentives, Play-to-Earn-to-Stake | The ultimate reward for playing. It comes with the self-developed and pioneered GameFi approach of the Play-to-Earn-to Stake (P2E2S) mechanism. Players could earn XWG tokens by a series of actions from playing and staking. This design encourages user participation in the game, integrates GameFi with DeFi, and resolves the complicated challenge of Gamefi's economic problem.                                     |
+| Yield Farming, Stake Mining       | Rewards for DeFi/GameFi, such as liquidity farming & staking, are involved with the practice of staking or lending crypto assets to generate high returns or rewards in the form of additional $XWG.                                                                                                                                                                                                                        |
+| Governance                        | Owning XWG tokens enables players to participate in the governance process through a decentralized autonomous organization (DAO), with development proposals and voting structures. Issues related to the platform operations and development could be voted based on the preference of the token holders. In order to encourage users to participate in the voting process, there will also be rewards for voting actions. |
+| Purchasing                        | $XWG is the digital token circulated around the X World Games ecosystem, which players use to purchase NFTs & in-game items and participate in different gaming events.                                                                                                                                                                                                                                                     |
