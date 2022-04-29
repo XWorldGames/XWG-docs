@@ -24,4 +24,9 @@
 | Mystery Box                       | [https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0#code](https://bscscan.com/address/0x8fb51f12332A33a418C8721a8dCcd9a845ffA3A0#code) |
 | Binance Expedition                | [https://bscscan.com/address/0xbde30b04BB5CcE5808f225e46Aa069957d0C8efd](https://bscscan.com/address/0xbde30b04BB5CcE5808f225e46Aa069957d0C8efd)           |
 | Marketplace 2.0                   | [https://bscscan.com/address/0x1EE6539c12361B6Bc1fB930435c70D557DEE392f](https://bscscan.com/address/0x1EE6539c12361B6Bc1fB930435c70D557DEE392f)           |
+| Dream Card V2 Treasure Chest      | [https://bscscan.com/token/0xBe6BFe2CD66F2D9721186717CfA8DD99EF43c0BD](https://bscscan.com/token/0xBe6BFe2CD66F2D9721186717CfA8DD99EF43c0BD)               |
+| Dream Card V2 Equipment           | [https://bscscan.com/token/0xe15d12D29dfb8a0020a59492886A36CAa90DB724](https://bscscan.com/token/0xe15d12D29dfb8a0020a59492886A36CAa90DB724)               |
+| Dream Card V2 Lottery             | [https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d](https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d)               |
+| Dream Card V2 Talent              | [https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89](https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89)               |
+| Dream Card LUCID                  | [https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)               |
 
