@@ -5,17 +5,18 @@
   * [👶 Vision](about/x-world-games/vision-1.md)
   * [👴 History](about/x-world-games/history.md)
   * [👨💼 Features](about/x-world-games/features.md)
-  * [💵 Backers](about/x-world-games/backer.md)
+  * [💵 Investors](about/x-world-games/backer.md)
   * [👪 Team](about/x-world-games/team.md)
 * [📰 Press Mentions](about/press-mentioned.md)
 * [🗺 Roadmap](about/roadmap.md)
-* [🧐 Token Metrics](about/token-metrics-1/README.md)
+* [🧐 $XWG Token Metrics](about/token-metrics-1/README.md)
   * [🗼 Token Utility](token-metrics-1/token-utility/README.md)
     * [🃏 LUCID](token-metrics-1/token-utility/token-network.md)
   * [🌐 Token Network](about/token-metrics-1/token-network.md)
-  * [🛣 Token Earning Flow](token-metrics-1/token-network-1.md)
+  * [🛣 P2E2S Model](token-metrics-1/token-network-1.md)
   * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
     * [🎆 Token Burning | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
+* [NFT Assests](nft-assests.md)
 
 ## Games
 
