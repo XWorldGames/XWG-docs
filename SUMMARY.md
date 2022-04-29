@@ -10,13 +10,13 @@
 * [📰 Press Mentions](about/press-mentioned.md)
 * [🗺 Roadmap](about/roadmap.md)
 * [🧐 $XWG Token Metrics](about/token-metrics-1/README.md)
-  * [🗼 Token Utility](token-metrics-1/token-utility/README.md)
-    * [🃏 LUCID](token-metrics-1/token-utility/token-network.md)
+  * [🗼 Token Utility](token-metrics-1/token-utility.md)
   * [🌐 Token Network](about/token-metrics-1/token-network.md)
   * [🛣 P2E2S Model](token-metrics-1/token-network-1.md)
   * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
     * [🎆 Token Burning | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
-* [NFT Assests](nft-assests.md)
+* [NFT Assests](nft-assests/README.md)
+  * [🃏 LUCID](nft-assests/token-network.md)
 
 ## Games
 
@@ -74,6 +74,8 @@
   * [Do I need a crypto wallet to play games?](faq/do-i-need-a-crypto-wallet-to-play-games.md)
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
+* [📖 Blockchain 101](service/blockchain-101/README.md)
+  * [BEP1155](service/blockchain-101/bep1155.md)
 * [👷 Join Us](join-us.md)
 * [📞 Contact Us](service/contact-us.md)
 * [👩💼 Customer Support](service/customer-support.md)
