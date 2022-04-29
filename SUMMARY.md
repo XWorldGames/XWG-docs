@@ -16,7 +16,7 @@
   * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
     * [🎆 Token Burning | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
 * [NFT Assests](nft-assests/README.md)
-  * [🃏 LUCID](nft-assests/token-network.md)
+  * [🃏 LUCID Token](nft-assests/token-network.md)
 
 ## Games
 
