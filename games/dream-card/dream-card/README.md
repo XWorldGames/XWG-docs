@@ -56,7 +56,7 @@ The role is your account and you are in charge of the card battle. This role has
 
 **Level**: The commander level can be improved through combating or upgraded by purchased materials in the mall. The higher the level, the higher the life and total cost. In addition, the level can unlock the extra card slots in the deck and increase the number of cards can be used in the deck configuration.
 
-![](<../../.gitbook/assets/tu-pian- (13).png>)
+![](<../../../.gitbook/assets/tu-pian- (13).png>)
 
 **Life**: In the card battle, a commander will have a specific amount of life to fight with the opponent.  When a commander's life is dropped to zero, the battle is concluded as defeated.
 
@@ -86,7 +86,7 @@ Each card has a fixed five-element attribute when it is generated. The five elem
 
 The star level of all cards initially created is 1st generation and 1 star. Players can use the experience book to increase the star level of the card. After reaching five stars, players need to use the advancement stone to upgrade the card. The highest star level a card star can go to is 3rd generation and 5 stars.
 
-![](<../../.gitbook/assets/tu-pian- (10).png>)
+![](<../../../.gitbook/assets/tu-pian- (10).png>)
 
 #### **Skills**
 
@@ -175,4 +175,4 @@ After entering the battle interface, you can add the cards with 0 waiting value 
 
 The party who wins the battle will receive experience points and victory box rewards, and the loser will deduct a certain amount of experience points and get the battle box rewards.
 
-![](../../.gitbook/assets/tu-pian-.png)
+![](../../../.gitbook/assets/tu-pian-.png)
