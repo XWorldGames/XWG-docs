@@ -1,6 +1,6 @@
 # Genesis Sale #2740
 
-![Genesis Sale](../../.gitbook/assets/gs.jpeg)
+![Genesis Sale](../../../.gitbook/assets/gs.jpeg)
 
 With the first game release of X World Games, **2740** Dream Cards will be introduced to the public on[ X World Games](http://xwg.games) and Genesis Sale through [X World Games](http://xwg.games) — [**Marketplace**](https://nft.xwg.games). The presale will be a 4-day exciting NFT Genesis Sale introducing 8 different characters that come in the following rarities: rare, epic, legendary and myth.
 
