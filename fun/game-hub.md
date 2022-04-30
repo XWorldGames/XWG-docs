@@ -1,4 +1,4 @@
-# 🎲 Game Hub
+# 🎲 Fungames
 
 ### When Play-to-Earn meets Mini-Games
 

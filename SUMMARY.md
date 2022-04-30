@@ -54,7 +54,7 @@
 
 * [👧 Dream Card Bimbos](fun/dream-card-bimbos.md)
 * [🎙 VR Landscape](fun/vr-landscape.md)
-* [🎲 Fungames](fun/fungames.md)
+* [🎲 Fungames](fun/game-hub.md)
 
 ## Tools
 
@@ -82,8 +82,8 @@
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
 * [📖 Blockchain 101](service/blockchain-101/README.md)
-  * [BEP1155](service/blockchain-101/bep1155/README.md)
-    * [BEP](service/blockchain-101/bep1155/bep.md)
+  * [BEP1155](service/blockchain-101/bep1155.md)
+  * [BEP](service/blockchain-101/bep.md)
 * [👷 Join Us](join-us.md)
 * [📞 Contact Us](service/contact-us.md)
 * [👩💼 Customer Support](service/customer-support.md)
