@@ -6,4 +6,4 @@ Dream Card
 
 Lucide: Basic, Magic, Super
 
-Shared: Common,
+Shared:&#x20;

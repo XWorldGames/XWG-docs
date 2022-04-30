@@ -72,7 +72,7 @@ _BP = current block production_
 
 ### **Genesis Expedition Staking Reward**
 
-![](<../../.gitbook/assets/0 (1).png>)
+![](<../../../.gitbook/assets/0 (1).png>)
 
 
 

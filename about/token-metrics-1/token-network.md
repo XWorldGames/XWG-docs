@@ -1,4 +1,4 @@
-# 🌐 Multichain Network
+# 🌐 Token Network
 
 ![XWG on BSC](../../.gitbook/assets/xbsc.jpeg)
 
@@ -11,16 +11,10 @@ As part of our infrastructure construction, we're building a layer-2 protocol to
 
 We aim to facilitate more than 20,000 transactions per second (TPS) with instant minting ability, and most importantly, no gas fee. So gamers can finally play, create and trade without worries and experience the true decentralizing gaming.
 
-## Multi-Chain Integration&#x20;
+## Multi Chain Integration&#x20;
 
 Solana - coming soon
 
 Polygon - coming soon
 
-Avalanche - coming soon&#x20;
-
-Arbitrum- coming soon
-
-Starkware - coming soon
-
-\
+Avalanche - coming soon\

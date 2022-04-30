@@ -1,4 +1,4 @@
-# $XWG Token
+# $XWG Token Economics
 
 {% hint style="info" %}
 #### $XWG token is the native token of the X World Games, built on BNB Chain as BEP-20 standard.&#x20;
