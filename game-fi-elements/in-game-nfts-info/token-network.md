@@ -1,8 +1,14 @@
 # 🃏 LUCID Token
 
-![LUCID: Super, Magic, Basic](../.gitbook/assets/Lucid.jpeg)
+{% hint style="info" %}
+Lucide contract:&#x20;
 
-X World Games is excited to unveil the newest [**BEP-1155 token**](../service/blockchain-101/bep1155.md) asset — **LUCID.**
+
+{% endhint %}
+
+![LUCID: Super, Magic, Basic](../../.gitbook/assets/Lucid.jpeg)
+
+X World Games is excited to unveil the newest [**BEP-1155 token**](../../service/blockchain-101/bep1155.md) asset — **LUCID.**
 
 LUCID will be the **primary** **play-to-earn reward** asset throughout the ecosystem. As X World Games enters the next phase of external gaming integration, the single-token economy model won’t be fit and inclusive enough to embrace the whole gaming metaverse. Therefore, LUCID will be the new incentive of Play-to-Earn and pave the path to XWG’s latest introduction of the **Play-to-Earn-to-Stake (P2E2S)** economic model.
 
