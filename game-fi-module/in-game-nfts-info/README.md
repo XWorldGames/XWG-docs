@@ -1,2 +1,0 @@
-# In-Game NFTs Info
-
