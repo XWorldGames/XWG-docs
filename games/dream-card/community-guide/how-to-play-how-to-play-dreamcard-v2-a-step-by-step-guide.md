@@ -14,34 +14,29 @@ If you already have another wallet, like Metamask for example, and you want to u
 
 Now with your wallet set up and ready to go it’s time to download the game, right now the game works both on android phones and android emulators ([Nox ](https://en.bignox.com)(1) and [Bluestacks ](https://www.bluestacks.com)(2) both works fine) you can find a direct download of the APK [here ](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_2\_2022\_2\_17.apk)(1), on android phones it’s as simples as running the APK and installing it and you’re good to go, for emulation I will use Nox as an example, after you download the APK on your computer, open Nox and click the following button:
 
-
-
 ![](../../../.gitbook/assets/8a8910fa4248e0ddead711989b07ddb5f9b7880b.jpeg)
 
 This will open a window, all you have to do is navigate to where you downloaded the APK and select it to install, you can also just drag and drop the APK file into Nox window to install it.
 
 ### **The game - Logging in, game UI and Gameplay**
 
-So you finally have the game installed and running, cool, what to do from here? well after you start the game and wait for it to load, you will be prompted to the following window:\
+So you finally have the game installed and running, cool, what to do from here? well after you start the game and wait for it to load, you will be prompted to the following window:
 
-
-[![tutorial 2](https://aws1.discourse-cdn.com/standard10/uploads/xwg/optimized/1X/822c576badfec6e7ac611e6d136c2121404c7306\_2\_690x391.png)tutorial 21625×921 51.6 KB](https://aws1.discourse-cdn.com/standard10/uploads/xwg/original/1X/822c576badfec6e7ac611e6d136c2121404c7306.png)
+![](../../../.gitbook/assets/822c576badfec6e7ac611e6d136c2121404c7306.png)
 
 If you are on android just click connect, this will open Token Pocket requiring you to authorize the app, after authorizing, close wallet connect window on the game by taping the X on the top right, then tap the screen, this will give you another prompt on your Token Pocket to login, confirm it and you’re good to go.
 
-For VM user the process is a little different you will need to click the QR code option on wallet connect, this will generate you a QR code that you will need to scan on Token Pocket on your android phone (DO NOT use your wallet inside the emulator, besides the obvious security concerns it probably won’t work), the QR code reader is on the top right of the app main screen, it’s easy to miss:\
+For VM user the process is a little different you will need to click the QR code option on wallet connect, this will generate you a QR code that you will need to scan on Token Pocket on your android phone (DO NOT use your wallet inside the emulator, besides the obvious security concerns it probably won’t work), the QR code reader is on the top right of the app main screen, it’s easy to miss:
 
-
-[![tutorial 3](https://aws1.discourse-cdn.com/standard10/uploads/xwg/optimized/1X/0ebc612712c81dc6d516709dd8ca46a02b653ab0\_2\_276x500.jpeg)tutorial 3881×1593 122 KB](https://aws1.discourse-cdn.com/standard10/uploads/xwg/original/1X/0ebc612712c81dc6d516709dd8ca46a02b653ab0.jpeg)
+![](<../../../.gitbook/assets/Screen Shot 2022-05-03 at 1.46.33 PM.png>)
 
 After you read the QR code, it’s the same process, authorize the app and login.
 
 Now that you are officially on the game, let’s talk about the UI, for this part I will use images to help you understand where everything is and what it does, I hope the images don’t get too blurry…
 
-First let’s talk about the main menu, after that I will go through each of the important parts of the game:\
+First let’s talk about the main menu, after that I will go through each of the important parts of the game:
 
-
-[![tutorial 4](https://aws1.discourse-cdn.com/standard10/uploads/xwg/optimized/1X/d206cf301c37247c3239e83c36b401254d66b2d9\_2\_690x401.jpeg)tutorial 41597×929 197 KB](https://aws1.discourse-cdn.com/standard10/uploads/xwg/original/1X/d206cf301c37247c3239e83c36b401254d66b2d9.jpeg)
+![](../../../.gitbook/assets/d206cf301c37247c3239e83c36b401254d66b2d9.jpeg)
 
 Here as you can see we have access to all the major part of the games, I will go through each of them as we go forward, you can see your BNB balance and XWG balance on the top, our first stop will be the hero section:\
 
