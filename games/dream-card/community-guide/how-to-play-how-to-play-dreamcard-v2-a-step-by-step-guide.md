@@ -2,7 +2,7 @@
 
 
 
-**First steps - Creating a wallet and downloading the game**
+### **First steps - Creating a wallet and downloading the game**
 
 Dream Card V2 as any other blockchain game, requires the use of a crypto wallet to work, currently the only working wallets are [Token Pocket](https://play.google.com/store/apps/details?id=vip.mytokenpocket\&hl=en\_US\&gl=US) and [Safepal](https://play.google.com/store/apps/details?id=io.safepal.wallet\&hl=en\_US\&gl=US), both can be found on the android appstore but for this guide we will be using Token Pocket.
 
@@ -17,7 +17,7 @@ Now with your wallet set up and ready to go it’s time to download the game, ri
 
 This will open a window, all you have to do is navigate to where you downloaded the APK and select it to install, you can also just drag and drop the APK file into Nox window to install it.
 
-**The game - Logging in, game UI and Gameplay**
+### **The game - Logging in, game UI and Gameplay**
 
 So you finally have the game installed and running, cool, what to do from here? well after you start the game and wait for it to load, you will be prompted to the following window:\
 
@@ -133,7 +133,7 @@ Here you can see all your lottery tickets, they give you a random amount of XWG 
 
 With that I explained everything you need to know to play DC V2, hope you liked it and have fun.
 
-* Kioku
+
 
 _`Content Creator: Kioku`_
 
