@@ -52,7 +52,7 @@ A: Như mình nói ở trên, các công thức và con số dự trên giả đ
 
 ****
 
-Content Creator: namnv89
+_`Content Creator: namnv89`_
 
-Link: [https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361](https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361)
+_`Link:`_ [_`https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361`_](https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361)_``_
 
