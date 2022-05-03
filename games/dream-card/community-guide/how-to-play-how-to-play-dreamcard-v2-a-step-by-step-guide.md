@@ -38,15 +38,13 @@ First let’s talk about the main menu, after that I will go through each of the
 
 ![](../../../.gitbook/assets/d206cf301c37247c3239e83c36b401254d66b2d9.jpeg)
 
-Here as you can see we have access to all the major part of the games, I will go through each of them as we go forward, you can see your BNB balance and XWG balance on the top, our first stop will be the hero section:\
+Here as you can see we have access to all the major part of the games, I will go through each of them as we go forward, you can see your BNB balance and XWG balance on the top, our first stop will be the hero section:
 
+![](../../../.gitbook/assets/06fc912f2ab73a2307efef5b7fd86a85f4f85309.jpeg)
 
-[![tutorial 5](https://aws1.discourse-cdn.com/standard10/uploads/xwg/optimized/1X/06fc912f2ab73a2307efef5b7fd86a85f4f85309\_2\_690x398.jpeg)tutorial 51591×919 212 KB](https://aws1.discourse-cdn.com/standard10/uploads/xwg/original/1X/06fc912f2ab73a2307efef5b7fd86a85f4f85309.jpeg)
+Here you can see all you cards, to play Dream Card 2.0 you will need cards, you can start with as little as one card, but it’s recommended to have at least 7 to make an entire team, if you don’t have any card yet you can either go to the [marketplace](https://app.xwg.games/#/) and buy it from other players or [draw a box](https://app.xwg.games/#/pages/index/mystery) and test your luck, now back to the hero section, here you can see your cards model as well as their details and upgrade them, for that tap on details on the bottom left, it will give you this screen:
 
-Here you can see all you cards, to play Dream Card 2.0 you will need cards, you can start with as little as one card, but it’s recommended to have at least 7 to make an entire team, if you don’t have any card yet you can either go to the [marketplace](https://app.xwg.games/#/) and buy it from other players or [draw a box](https://app.xwg.games/#/pages/index/mystery) and test your luck, now back to the hero section, here you can see your cards model as well as their details and upgrade them, for that tap on details on the bottom left, it will give you this screen:\
-
-
-[![tutorial 6](https://aws1.discourse-cdn.com/standard10/uploads/xwg/optimized/1X/bcfedb34c1b73d71232bbc8dc4d3fb9d11f064fb\_2\_690x385.jpeg)tutorial 61587×887 155 KB](https://aws1.discourse-cdn.com/standard10/uploads/xwg/original/1X/bcfedb34c1b73d71232bbc8dc4d3fb9d11f064fb.jpeg)
+![](../../../.gitbook/assets/bcfedb34c1b73d71232bbc8dc4d3fb9d11f064fb.jpeg)
 
 On the right you can see your card stats and skill, the “+” stats represents the bonus stats given by equipment, be sure to read your cards skill since it has great impact on the gameplay, the symbol on the left of the card name represents their classes, cards can have one of the five following classes: Knight, Assassin, Archer, Mage and Priest, each of them specialize in something different, to make it quick: Knights focus on defense, Assassin single target damage, Archers sustained damage, Mages debuffs and AoE, Priests cure, it’s important to keep that in mind when making your formation later on.
 
