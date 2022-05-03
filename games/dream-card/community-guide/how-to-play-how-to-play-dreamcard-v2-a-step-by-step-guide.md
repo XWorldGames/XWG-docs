@@ -1,6 +1,8 @@
-# \[How-to-Play] How to play DreamCard V2 - A step-by-step guide
+---
+description: Dream Card Game Guide Contest - XWG Spirit Award Winner
+---
 
-### \[How-to-Play] How to play DreamCard V2 - A step-by-step guide
+# \[How-to-Play] How to play DreamCard V2 - A step-by-step guide
 
 #### **First steps - Creating a wallet and downloading the game**
 

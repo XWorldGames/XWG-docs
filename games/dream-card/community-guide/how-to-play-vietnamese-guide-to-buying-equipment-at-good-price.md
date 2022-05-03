@@ -4,8 +4,6 @@ description: Dream Card Game Guide Contest - XWG Spirit Award Winner
 
 # \[ How-to-Play] \[Vietnamese] Guide to buying equipment at good price
 
-### \[ How-to-Play] \[Vietnamese] Guide to buying equipment at good price
-
 Chào tất cả các bạn,\
 Bài viết này hướng đến các bạn đã biết các chơi cơ bản của V2, bài viết nhằm mục đích đưa ra thông tin để các bạn có thể giao dịch một cách hiệu quả mà không sợ mình bán rẻ/mua đắt.\
 Chúng ta sẽ đi lần lượt từng nội dung dưới dạng hỏi đáp như sau:
