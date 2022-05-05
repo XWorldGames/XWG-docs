@@ -42,8 +42,7 @@
     * [Get Started](games/dream-card/dream-card/get-started.md)
     * [Game Attributes](games/dream-card/dream-card/game-attributes.md)
     * [Game Tutorial](games/dream-card/dream-card/game-tutorial.md)
-  * [Community Guide](games/dream-card/community-guide/README.md)
-    * [\[ How-to-Play\] \[Vietnamese\] Guide to buying equipment at good price](games/dream-card/community-guide/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price.md)
+  * [Community Guide](games/dream-card/community-guide.md)
 * [2⃣ Dream Card V2](games/dream-card-v2/README.md)
   * [Beginner's Guide](games/dream-card-v2/beginners-guide/README.md)
     * [Android (Open Beta)](games/dream-card-v2/beginners-guide/android-closed-alpha.md)
@@ -51,6 +50,7 @@
     * [Mac/Windows (Bluestack)](games/dream-card-v2/beginners-guide/mac-windows-coming-soon.md)
   * [Community Guide](games/dream-card-v2/community-guide/README.md)
     * [\[How-to-Play\] How to play DreamCard V2 - A step-by-step guide](games/dream-card-v2/community-guide/how-to-play-how-to-play-dreamcard-v2-a-step-by-step-guide.md)
+    * [\[ How-to-Play\] \[Vietnamese\] Guide to buying equipment at good price](games/dream-card-v2/community-guide/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price.md)
   * [Game Features](games/dream-card-v2/game-features.md)
   * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
 
