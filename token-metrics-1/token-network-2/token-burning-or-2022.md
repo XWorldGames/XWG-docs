@@ -14,14 +14,14 @@ Max burn limit of 49% token supply
 
 ## Q2 2022
 
-![Total Burn | Q2 2022](<../../../.gitbook/assets/image (10).png>)
+![Total Burn | Q2 2022](<../../.gitbook/assets/image (10).png>)
 
 | Burning Category                         | Description                                                                                              |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**A**</mark>   | All <mark style="color:blue;">**In-Game Consumption**</mark> by players will be 100% burned by Quarterly |
 | <mark style="color:orange;">**B**</mark> | 50% <mark style="color:orange;">**Profit**</mark> burned by Quarterly                                    |
 
-| Burning List                                             | Burning Source | Source Address                                                                                                               |
+| Burning List                                             | Burning Source | Data Source                                                                                                                  |
 | -------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">**In-Game Consumption**</mark> | Recycle Pool   | [BSCScan](https://bscscan.com/token/0x6b23c89196deb721e6fd9726e6c76e4810a464bc?a=0x00f891847537f95164c26284e4ec9d27cd4c535b) |
 | <mark style="color:orange;">**Profit**</mark>            | Mystery Box    | [BSCScan](https://bscscan.com/address/0x282c154c533bef0f49de97be7a9ec491f1c94f56)                                            |

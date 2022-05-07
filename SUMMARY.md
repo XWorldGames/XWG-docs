@@ -15,7 +15,7 @@
     * [🪙 Token Distribution](game-fi-module/token-metrics-1/token-distribution.md)
     * [🛣 P2E2S Model](token-metrics-1/token-network-1.md)
     * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
-      * [🎆 Token Burning Info | 2022](game-fi-module/token-metrics-1/token-network-1/token-burning-info-or-2022.md)
+      * [🎆 Token Burning Info | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
     * [🌐 Multichain Network](about/token-metrics-1/token-network.md)
   * [In-Game NFTs Info](nft-assests/README.md)
     * [🗃 Dream Card](game-fi-elements/in-game-nfts-info/dream-card/README.md)
