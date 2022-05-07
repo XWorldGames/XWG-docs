@@ -33,8 +33,8 @@ Max burn limit of 49% token supply
 | End of Q2        |                                                                                                       | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
 | **Total Burn**   |                                                                                                       | **61,518,386** |                   |                                          |            |           |
 
-| Circulating Supply |             |       |
-| ------------------ | ----------- | ----- |
-| Before Burn        | 449,166,663 | 4.49% |
-| After Burn         | 387,648,277 | 3.88% |
+| Circulating Supply  | Circulating Supply | % Circulating Supply |
+| ------------------- | ------------------ | -------------------- |
+| Before Burn Round 1 | 449,166,663        | 4.49%                |
+| After Burn          | 387,648,277        | 3.88%                |
 
