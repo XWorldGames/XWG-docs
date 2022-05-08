@@ -17,11 +17,11 @@
     * [🔥 Burning Mechanism](token-metrics-1/token-network-2/README.md)
       * [🎆 Token Burning Info | 2022](token-metrics-1/token-network-2/token-burning-or-2022.md)
     * [🌐 Multichain Network](about/token-metrics-1/token-network.md)
-  * [🗃 In-Game NFTs Info](nft-assests/README.md)
-    * [♥ Dream Card](game-fi-elements/in-game-nfts-info/dream-card/README.md)
-      * [Genesis Sale #2740](game-fi-elements/in-game-nfts-info/dream-card/marketplace.md)
-    * [🃏 LUCID Token](nft-assests/token-network.md)
-    * [✨ Shard Token](game-fi-elements/in-game-nfts-info/shard-token.md)
+  * [🗃 In-Game NFTs](game-fi-module/in-game-nfts/README.md)
+    * [♥ Dream Card](game-fi-module/in-game-nfts/dream-card/README.md)
+      * [Genesis Sale #2740](game-fi-module/in-game-nfts/dream-card/marketplace.md)
+    * [🃏 LUCID Token](game-fi-module/in-game-nfts/token-network.md)
+    * [✨ Shard Token](game-fi-module/in-game-nfts/shard-token.md)
 
 ## Games
 
