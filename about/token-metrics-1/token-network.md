@@ -13,14 +13,14 @@ We aim to facilitate more than 20,000 transactions per second (TPS) with instant
 
 ## Multi-Chain Integration&#x20;
 
-Solana - coming soon
+{% hint style="info" %}
+Coming Soon
+{% endhint %}
 
-Polygon - coming soon
-
-Avalanche - coming soon&#x20;
-
-Arbitrum- coming soon
-
-Starkware - coming soon
+* [ ] **`Solana`**&#x20;
+* [ ] **`Polygon`**
+* [ ] **`Avalanche`**
+* [ ] **`Arbitrum`**
+* [ ] **`Starkware`**
 
 \
