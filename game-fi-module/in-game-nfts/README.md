@@ -1,6 +1,6 @@
 # 🗃 In-Game NFTs
 
-![Dream Card](../../.gitbook/assets/5ca4010011ad0.png)
+![Dream Card NFTs](../../.gitbook/assets/5ca4010011ad0.png)
 
 **Non-fungible tokens or “NFTs”** are unique digital assets stored on a blockchain. While most NFTs are artistic endeavours, with the rise of “play-to-earn” games on cryptocurrency blockchains, in-game items have also become available as NFTs.
 
