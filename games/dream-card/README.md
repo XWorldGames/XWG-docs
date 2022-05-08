@@ -14,6 +14,6 @@ The first gaming product released on the X World Games platform was "Dream Card"
 
 
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18) (1) (1).png>)
 
 **Dream Card V1,** the minimum viable product version of Dream Card, which mainly focuses on PVP gameplay, contains all the basic and functional elements of a crypto trading card game, such as a level & rarity system, character growth, ELO ranking, passive skills, and NFT staking & trading. Dream Card v1 was successfully launched in June 2021 and attracted more than 1 million+ players globally.

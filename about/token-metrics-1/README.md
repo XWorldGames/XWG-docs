@@ -1,4 +1,4 @@
-# 🪙 The $XWG Token
+# 🪙 $XWG Token
 
 {% hint style="info" %}
 #### $XWG token is the native token of the X World Games, built on BNB Chain as BEP-20 standard.&#x20;
@@ -28,15 +28,15 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> [Bitwell](https://www.bitwellex.com/trade/spot/XWG\_USDT)
 
-<img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> [Bybit](https://www.bybit.com)
+<img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> [Bybit](https://www.bybit.com)
 
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
+<img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
 
-<img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
+<img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
 
 <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
 
-<img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
+<img src="../../.gitbook/assets/image (20) (1).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
 
 ![](<../../.gitbook/assets/image (19) (1).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
 
@@ -44,11 +44,11 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 ![](<../../.gitbook/assets/image (14).png>) [MEXC](https://www.mexc.com/exchange/XWG\_USDT)
 
-<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> [MDEX](https://info.mdex.com/#/tokens/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
+<img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> [MDEX](https://info.mdex.com/#/tokens/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
 
-![](<../../.gitbook/assets/image (12).png>) [PancakeSwap](https://pancakeswap.finance/info/token/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
+![](<../../.gitbook/assets/image (12) (1).png>) [PancakeSwap](https://pancakeswap.finance/info/token/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
 
-<img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> [XT.com](https://www.xt.com/trade/xwg\_usdt)
+<img src="../../.gitbook/assets/image (13) (1).png" alt="" data-size="line"> [XT.com](https://www.xt.com/trade/xwg\_usdt)
 
 
 

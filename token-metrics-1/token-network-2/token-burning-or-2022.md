@@ -14,7 +14,7 @@ Max burn limit of 49% token supply
 
 ## Q2 2022
 
-![Total Burn | Q2 2022](<../../.gitbook/assets/image (10) (1).png>)
+![Total Burn | Q2 2022](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 | Burning Category                         | Description                                                                                              |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------- |
