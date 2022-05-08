@@ -10,7 +10,7 @@
   * [🗺 Roadmap](about/roadmap.md)
   * [📰 Press Mentions](about/press-mentioned.md)
 * [🧱 Game-Fi Module](game-fi-elements/README.md)
-  * [🪙 The $XWG Token](about/token-metrics-1/README.md)
+  * [🪙 $XWG Token](about/token-metrics-1/README.md)
     * [🗼 Token Utility](token-metrics-1/token-utility.md)
     * [📊 Token Distribution](game-fi-module/token-metrics-1/token-distribution.md)
     * [🛣 P2E2S Model](token-metrics-1/token-network-1.md)
