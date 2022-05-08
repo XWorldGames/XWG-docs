@@ -24,35 +24,31 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 
 
-🏪 [Bitrue](https://www.bitrue.com/trade/xwg\_usdt)
+<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> [Bitrue](https://www.bitrue.com/trade/xwg\_usdt)
 
-🏪 [Bitwell](https://www.bitwellex.com/trade/spot/XWG\_USDT)
+<img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> [Bitwell](https://www.bitwellex.com/trade/spot/XWG\_USDT)
 
-🏪 [Bybit](https://www.bybit.com)
+<img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> [Bybit](https://www.bybit.com)
 
-🏪 [Gate.io](https://www.gate.io/trade/xwg\_usdt)
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
 
-🏪 [Hoo](https://hoo.com/spot/xwg-usdt)
+<img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
 
 🏪 [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
 
-🏪 [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
+<img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
 
-🏪 [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
+![](<../../.gitbook/assets/image (19).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
 
-🏪 [LBank](https://www.lbank.info/exchange/xwg/usdt)
+<img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> [LBank](https://www.lbank.info/exchange/xwg/usdt)
 
-🏪 [MEXC](https://www.mexc.com/exchange/XWG\_USDT)
+![](<../../.gitbook/assets/image (14).png>) [MEXC](https://www.mexc.com/exchange/XWG\_USDT)
 
-🏪 [MDEX](https://info.mdex.com/#/tokens/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
+<img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> [MDEX](https://info.mdex.com/#/tokens/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
 
-🏪 [PancakeSwap](https://pancakeswap.finance/info/token/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
+![](<../../.gitbook/assets/image (12).png>) [PancakeSwap](https://pancakeswap.finance/info/token/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
 
-🏪 [SuperEX](https://www.superex.com/trade/XWG\_USDT)&#x20;
-
-🏪 [XT.com](https://www.xt.com/trade/xwg\_usdt)         &#x20;
-
-
+<img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> [XT.com](https://www.xt.com/trade/xwg\_usdt)
 
 
 
