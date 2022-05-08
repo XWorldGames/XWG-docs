@@ -1,4 +1,4 @@
-# In-Game NFTs Info
+# 🗃 In-Game NFTs Info
 
 ### Definition
 

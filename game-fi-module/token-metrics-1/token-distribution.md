@@ -1,4 +1,4 @@
-# 🪙 Token Distribution
+# 📊 Token Distribution
 
 $XWG has a total supply of **10,000,000,000** tokens. Here is a breakdown of how these tokens will be distributed.
 
