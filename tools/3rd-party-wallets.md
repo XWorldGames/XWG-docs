@@ -6,7 +6,7 @@
 
 ****[**Trust Wallet**](https://trustwallet.com) **** <img src="../.gitbook/assets/trust_logotype.png" alt="" data-size="line">****
 
-[**WalletConnect** ](https://walletconnect.com)****<img src="../.gitbook/assets/image (17).png" alt="" data-size="line">****
+[**WalletConnect** ](https://walletconnect.com)****<img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line">****
 
 ****[**Token Pocket** ](https://www.tokenpocket.pro)****<img src="../.gitbook/assets/image (9).png" alt="" data-size="line">****
 
