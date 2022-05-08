@@ -34,11 +34,11 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
 
-🏪 [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
+<img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
 
 <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
 
-![](<../../.gitbook/assets/image (19).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
+![](<../../.gitbook/assets/image (19) (1).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
 
 <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> [LBank](https://www.lbank.info/exchange/xwg/usdt)
 
