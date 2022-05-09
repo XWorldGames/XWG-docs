@@ -1,9 +1,7 @@
 # 🃏 LUCID Token
 
 {% hint style="info" %}
-Lucide contract:&#x20;
-
-
+Lucide contract: [https://bscscan.com/address/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/address/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)
 {% endhint %}
 
 ![LUCID: Super, Magic, Basic](../../.gitbook/assets/Lucid.jpeg)
