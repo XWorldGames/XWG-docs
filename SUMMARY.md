@@ -17,11 +17,11 @@
     * [🔥 Burning Mechanism](gamefi-module/token-metrics-1/token-network-1/README.md)
       * [🎆 Token Burning Info | 2022](gamefi-module/token-metrics-1/token-network-1/token-burning-info-or-2022.md)
     * [🌐 Multichain Network](gamefi-module/token-metrics-1/token-network-2.md)
-  * [🗃 In-Game NFTs](gamefi-module/in-game-nfts/README.md)
-    * [♥ Dream Card](gamefi-module/in-game-nfts/dream-card/README.md)
-      * [Genesis Sale #2740](gamefi-module/in-game-nfts/dream-card/marketplace.md)
-    * [🃏 LUCID Token](gamefi-module/in-game-nfts/token-network.md)
-    * [✨ Shard Token](gamefi-module/in-game-nfts/shard-token.md)
+  * [🗃 GameFi NFTs](gamefi-module/gamefi-nfts/README.md)
+    * [♥ Dream Card](gamefi-module/gamefi-nfts/dream-card/README.md)
+      * [Genesis Sale #2740](gamefi-module/gamefi-nfts/dream-card/marketplace.md)
+    * [🃏 LUCID Token](gamefi-module/gamefi-nfts/token-network.md)
+    * [✨ Shard Token](gamefi-module/gamefi-nfts/shard-token.md)
 
 ## Games
 
