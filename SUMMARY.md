@@ -52,7 +52,7 @@
   * [Community Guide](games/dream-card-v2/community-guide/README.md)
     * [\[How-to-Play\] How to play DreamCard V2 - A step-by-step guide](games/dream-card-v2/community-guide/how-to-play-how-to-play-dreamcard-v2-a-step-by-step-guide.md)
     * [\[ How-to-Play\] \[Vietnamese\] Guide to buying equipment at good price](games/dream-card-v2/community-guide/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price.md)
-  * [Game Features](games/dream-card-v2/game-features.md)
+  * [In-Game Assests](games/dream-card-v2/in-game-assests.md)
   * [5 Hero Classes](games/dream-card-v2/5-hero-classes.md)
 
 ## Fun

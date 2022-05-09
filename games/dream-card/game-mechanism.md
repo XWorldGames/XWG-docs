@@ -1,6 +1,6 @@
 # Game Mechanism
 
-**Matching Rules**
+### **Matching Rules**
 
 According to the matching time, the matching is divided into two stages:&#x20;
 
@@ -16,7 +16,7 @@ The settlement coefficient (k) for normal matching is 100%
 
 **Extended matching**: the normal matching stage will enter the extended matching stage if the match is not successful.&#x20;
 
-Calculating according to the user’s matching time, matching time (t), matching range:&#x20;
+Calculating according to the user’s matching time, matching time (t), and matching range:&#x20;
 
 **`x-(t^2+5) ~ x+ (t^2+5)`**
 
@@ -72,7 +72,7 @@ _BP = current block production_
 
 ### **Genesis Expedition Staking Reward**
 
-![](<../../../.gitbook/assets/0 (1).png>)
+![](<../../.gitbook/assets/0 (1).png>)
 
 
 

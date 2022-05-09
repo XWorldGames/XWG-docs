@@ -1,6 +1,6 @@
 # Game Features
 
-### $XWG Transfer In Game
+### $XWG Transfer In-Game
 
 Transfers are divided into three sections: **Recharge, Withdraw and Record**.
 
@@ -12,9 +12,9 @@ Transfers are divided into three sections: **Recharge, Withdraw and Record**.
 
 ![](<../../.gitbook/assets/0 (2).png>)
 
-### NFT Swap
+### Dream Card Deposit - Withdraw
 
-NFT Swap is divided into 3 sections: **Roll in, Roll out and Record**.
+Dream Card (NFT) Swap is divided into 3 sections: **Roll in, Roll out and Record**.
 
 **Roll in**: Transfer the cards from the wallet to the game.
 
