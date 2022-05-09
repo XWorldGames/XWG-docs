@@ -1,11 +1,16 @@
 # Android (Open Beta)
 
 {% hint style="warning" %}
-**1.Switch your Network to the Binance Smart Chain**
+**Must switch your Network to the Binance Smart Chain**
 {% endhint %}
 
-* Switch your **Network** to the **Binance Smart Chain**. This will ensure that you won’t lose any of your crypto assets.&#x20;
-* Please see the link below for further instructions: [https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chai](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+1. Switch your **Network** to the **Binance Smart Chain**. This will ensure that you won’t lose any of your crypto assets.&#x20;
+
+{% hint style="info" %}
+Please see the link below for further instructions: [https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chai](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+{% endhint %}
+
+
 
 2\. Make sure your wallet address contains enough BNB tokens for the required gas fee.
 
