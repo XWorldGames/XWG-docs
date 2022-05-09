@@ -35,7 +35,7 @@
     * [Española (Spanish)](games/dream-card/how-to-play/espanola-spanish.md)
     * [Türk (Turkish)](games/dream-card/how-to-play/tuerk-turkish.md)
   * [Game-fi system](games/dream-card/page-1.md)
-    * [Dream Card Characters](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
+    * [Heros](games/dream-card/character-intros-for-dream-card-ip-heroes.md)
     * [Game Mechanism](games/dream-card/game-mechanism.md)
     * [Game Features](games/dream-card/game-feature.md)
     * [Mystery Box](games/dream-card/mystery-box.md)
