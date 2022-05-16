@@ -41,6 +41,16 @@ $$
 \text{HashRate}=\text{nftBasePrice}+\frac{\text{experience}}{100}+(\text{star}-1)\cdot50
 $$
 
+| Rarity    | Base Hashrate |
+| --------- | ------------- |
+| Common    | 48            |
+| Rare      | 636           |
+| Epic      | 1273          |
+| Legendary | 3182          |
+| Mythic    | 6363          |
+
+
+
 If the staking period is selected as 30 days, the hashrate calculation is the same as the previous hashrate calculation
 
 $$
@@ -88,6 +98,8 @@ $$
 $$
 
 ## Reward Calculation
+
+
 
 APR constant value: $$\beta = 300%$$ &#x20;
 
@@ -196,7 +208,7 @@ $$
 First Deck
 
 $$
-\frac{m \cdot t \cdot \text{FirstDeckHashrate}}{t_{0} \cdot H_{0}} = \frac{50,000 \cdot 7\cdot 24\cdot60\cdot60 \cdot 50,912}{2,592,000 \cdot 48} = 12,374,444 \ \text{Basic Lucid}$
+\frac{m \cdot t \cdot \text{FirstDeckHashrate}}{t_{0} \cdot H_{0}} = \frac{50,000 \cdot 7\cdot 24\cdot60\cdot60 \cdot 50,912}{2,592,000 \cdot 48} = 12,374,444 \ \text{Basic Lucid}
 $$
 
 Second Deck:
