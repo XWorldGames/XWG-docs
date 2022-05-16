@@ -28,7 +28,7 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> [Bitwell](https://www.bitwellex.com/trade/spot/XWG\_USDT)
 
-<img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> [Bybit](https://www.bybit.com)
+<img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> [Bybit](https://www.bybit.com/)
 
 <img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
 

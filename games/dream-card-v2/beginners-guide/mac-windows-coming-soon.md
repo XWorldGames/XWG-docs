@@ -12,7 +12,7 @@ The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card V2 is a
 
 :joy:
 
-1. Go to [https://www.bluestacks.com/](https://www.bluestacks.com) and download the BlueStacks installer.
+1. Go to [https://www.bluestacks.com/](https://www.bluestacks.com/) and download the BlueStacks installer.
 
 ![](https://miro.medium.com/max/700/1\*mlH\_xo7mWTOVNgutmP8sig.png)
 
@@ -50,7 +50,7 @@ The HOUSE is OPEN for EVERYONE- THE MORE the MERRIER! - while Dream Card V2 is a
 
 ## How to Download the BlueStacks for Windows <a href="#45e7" id="45e7"></a>
 
-1. Go to [https://www.bluestacks.com/](https://www.bluestacks.com) and download the BlueStacks installer.
+1. Go to [https://www.bluestacks.com/](https://www.bluestacks.com/) and download the BlueStacks installer.
 2. Run the installer and let it work its magic.
 3. When it’s finished, BlueStacks will launch automatically and you’ll be taken to the home screen once it loads.
 

@@ -12,7 +12,7 @@ You can get more details on how to set up your Token Pocket wallet [here ](https
 
 If you already have another wallet, like Metamask for example, and you want to use it you can backup your wallet seed phrase on Token Pocket to have access to your already own assets.
 
-Now with your wallet set up and ready to go it’s time to download the game, right now the game works both on android phones and android emulators ([Nox ](https://en.bignox.com)(1) and [Bluestacks ](https://www.bluestacks.com)(2) both works fine) you can find a direct download of the APK [here ](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_2\_2022\_2\_17.apk)(1), on android phones it’s as simples as running the APK and installing it and you’re good to go, for emulation I will use Nox as an example, after you download the APK on your computer, open Nox and click the following button:
+Now with your wallet set up and ready to go it’s time to download the game, right now the game works both on android phones and android emulators ([Nox ](https://en.bignox.com/)(1) and [Bluestacks ](https://www.bluestacks.com/)(2) both works fine) you can find a direct download of the APK [here ](http://dc2download.xwggames.com/Apk/DreamCardV2\_2\_0\_2\_2022\_2\_17.apk)(1), on android phones it’s as simples as running the APK and installing it and you’re good to go, for emulation I will use Nox as an example, after you download the APK on your computer, open Nox and click the following button:
 
 ![](../../../.gitbook/assets/8a8910fa4248e0ddead711989b07ddb5f9b7880b.jpeg)
 

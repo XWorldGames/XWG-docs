@@ -2,9 +2,9 @@
 
 ## How to Claim Your NFT [Airdrop](https://nft.xwg.games/#/pages/index/nftairdrop)?
 
-### [Metamask Wallet ](https://metamask.io)
+### [Metamask Wallet ](https://metamask.io/)
 
-**Step 1:** Log in to your [Metamask wallet](https://metamask.io)
+**Step 1:** Log in to your [Metamask wallet](https://metamask.io/)
 
 ![](../.gitbook/assets/meta-airdrop1.png)
 
@@ -32,7 +32,7 @@
 &#x20;You can check your NFTs from Trust Wallet, Math Wallet or XWG's [My Asset page](https://nft.xwg.games/pages/props/mnft).
 {% endhint %}
 
-### [Trust Wallet ](https://trustwallet.com)(export to Metamask)
+### [Trust Wallet ](https://trustwallet.com/)(export to Metamask)
 
 **Step 1:** Open your Trust Wallet and click **Settings**&#x20;
 
@@ -70,7 +70,7 @@ For the rest of the procedures, please refer to the **Via Metamask** section on 
 
 ## I need BNB to pay the gas fee, Where to Buy?
 
-In order to claim an NFT airdrop on Binance Smart Chain, you need to prepare certain BNBs on your wallet account for the gas charge. Please purchase your BNBs from [Binance](https://www.binance.com), [PancakeSwap](https://pancakeswap.finance) or any available exchange, and transfer them to your wallet account before claiming an NFT airdrop.
+In order to claim an NFT airdrop on Binance Smart Chain, you need to prepare certain BNBs on your wallet account for the gas charge. Please purchase your BNBs from [Binance](https://www.binance.com/), [PancakeSwap](https://pancakeswap.finance/) or any available exchange, and transfer them to your wallet account before claiming an NFT airdrop.
 
 
 

@@ -8,17 +8,17 @@ description: >-
 
 ### **X World Games**&#x20;
 
-👑 Official Web: [https://xwg.games/](https://xwg.games)&#x20;
+👑 Official Web: [https://xwg.games/](https://xwg.games/)&#x20;
 
 🐥 Twitter: [https://twitter.com/xwg\_games​](https://twitter.com/xwg\_games%E2%80%8B)&#x20;
 
 🤖 Discord:  [https://discord.gg/xworldgames](https://discord.gg/xworldgames)
 
-💬 X World Dao: [https://community.xwg.games/](https://community.xwg.games)
+💬 X World Dao: [https://community.xwg.games/](https://community.xwg.games/)
 
 📝 Medium: [https://medium.com/x-world-games​](https://medium.com/x-world-games%E2%80%8B)&#x20;
 
-📚 Gitbook: [https://docs.xwg.games/](https://docs.xwg.games)&#x20;
+📚 Gitbook: [https://docs.xwg.games/](https://docs.xwg.games/)&#x20;
 
 ### X World Global
 

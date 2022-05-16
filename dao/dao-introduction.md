@@ -10,7 +10,7 @@ The ultimate goal for X World Games is to become a truly user-owned game platfor
 
 Meanwhile, please visit below for XWG proposals and votings:
 
-💬 X World Dao: [https://community.xwg.games/](https://community.xwg.games)
+💬 X World Dao: [https://community.xwg.games/](https://community.xwg.games/)
 
 🗳 Snapshot: [https://snapshot.org/#/xwg.eth](https://snapshot.org/#/xwg.eth)
 

@@ -16,7 +16,7 @@ This document can be used as a reference for the standard rules and instruction 
 
 Dream Card can be played on both PC browsers (such as Chrome or Firefox) and mobile H5 pages. However, if you want to experience the fun of decentralized games fully, it is recommended to have:
 
-Blockchain Wallets - like [MetaMask](https://metamask.io), [Binance Chain Wallet](https://www.binance.com/en/wallet-direct)
+Blockchain Wallets - like [MetaMask](https://metamask.io/), [Binance Chain Wallet](https://www.binance.com/en/wallet-direct)
 
 The digital wallet is managed as your private account to ensure the safety and security of all your digital assets (such as XWG tokens, NFT cards, virtual props) and recorded progress in the blockchain games.
 
@@ -38,7 +38,7 @@ After entering the game, players can spend a small amount of XWG tokens to parti
 
 #### **Mystery Box**
 
-Under the [marketplace](https://nft.xwg.games) page on the [X World Games](https://xwg.games) official website, players can spend XWG tokens to purchase mystery boxes to get one card and have a chance to win high-rarity cards.
+Under the [marketplace](https://nft.xwg.games/) page on the [X World Games](https://xwg.games/) official website, players can spend XWG tokens to purchase mystery boxes to get one card and have a chance to win high-rarity cards.
 
 #### **NFT Trading market**
 
