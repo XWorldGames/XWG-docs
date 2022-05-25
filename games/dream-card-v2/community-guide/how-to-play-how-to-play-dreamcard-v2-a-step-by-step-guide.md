@@ -119,6 +119,6 @@ With that I explained everything you need to know to play DC V2, hope you liked 
 
 
 
-_`Content Creator: Kioku`_
+_`Content Creator:`_[Kioku](https://community.xwg.games/u/kioku)
 
 _`Link:`_ [_`https://community.xwg.games/t/how-to-play-how-to-play-dreamcard-v2-a-step-by-step-guide/363`_](https://community.xwg.games/t/how-to-play-how-to-play-dreamcard-v2-a-step-by-step-guide/363)_``_

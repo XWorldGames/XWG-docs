@@ -50,7 +50,7 @@ A: Như mình nói ở trên, các công thức và con số dự trên giả đ
 
 ****
 
-_`Content Creator: namnv89`_
+_`Content Creator:`_[namnv89](https://community.xwg.games/u/namnv89)
 
 _`Link:`_ [_`https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361`_](https://community.xwg.games/t/how-to-play-vietnamese-guide-to-buying-equipment-at-good-price/361)_``_
 
