@@ -90,7 +90,31 @@ description: Dream Card Game Guide Contest - Silver Award Winner
 
 ### How to battle&#x20;
 
+1\. Click “battle” &#x20;
 
+![](../../../.gitbook/assets/0747e8f5ba092340654805ab3875ec6dd434ac5f\_2\_690x310.jpeg)
+
+2\. Waiting until match with your enemy
+
+![](../../../.gitbook/assets/efe1addea254ce6bd6c7ca5742aa8c91f0b30dae\_2\_690x310.jpeg)
+
+3\. After match you can play battle. We have 3 function in here :&#x20;
+
+\~ skip battle : you can skip your battle and instan get the result of batyle win or lose
+
+&#x20;\~ autoplay : just click and then your card will auto deploy with random
+
+&#x20;\~ end : can use for end your turn
+
+![](../../../.gitbook/assets/75f4268cd474a434fc432de9336b8f99844d5bb6\_2\_690x310.jpeg)
+
+4\. After the battle finish you will get a box. Yellow box for victory ( you can get xwg in here ) and blue box for lose ( get your exp )
+
+![](../../../.gitbook/assets/339449c0c6dc4638f93fd608bcd24e6137354a20\_2\_690x310.jpeg)
+
+5\. Go to backpack and claim your box
+
+![](<../../../.gitbook/assets/cc23a24e39af1ee54514c457c518df2679100faf\_2\_690x310 (1).jpeg>)
 
 
 
