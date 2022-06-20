@@ -61,7 +61,7 @@
 * More than 2 years of experience in the crypto space, with knowledge of industry trends and community engagement.
 * Previous experience in Talent Acquisitions for the gaming industry (client Electronic Arts), for the accounting field (Smythe LLP), and in the tech industry (Yardi Systems Inc.).
 
-
+![Head of Design & Product Manager](../../.gitbook/assets/carmo-team-round.png)
 
 **Carmo Cardoso**
 
@@ -73,7 +73,7 @@
 * Pursued a master‘s in computational design, which has led her to work with companies such as Disney, RFR engineers, and Marshall Strabala.&#x20;
 * Currently exploring the intersections between the design and blockchain space, figuring out how to integrate the best of both worlds.
 
-
+![Director of Marketing & Development ](../../.gitbook/assets/tony-team-round.png)
 
 **Tony Wang**
 
