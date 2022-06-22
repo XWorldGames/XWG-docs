@@ -51,7 +51,7 @@
 
 ![Chief Marketing Officer](../../.gitbook/assets/kata-team-round.png)
 
-**Kata Botica**
+### **Kata Botica**
 
 **CMO**&#x20;
 
@@ -63,7 +63,7 @@
 
 ![Head of Design & Product Manager](../../.gitbook/assets/carmo-team-round.png)
 
-**Carmo Cardoso**
+### **Carmo Cardoso**
 
 **Head of Design & Product Manager**
 
@@ -75,7 +75,7 @@
 
 ![Director of Marketing & Development ](../../.gitbook/assets/tony-team-round.png)
 
-**Tony Wang**
+### **Tony Wang**
 
 **Director of Marketing & Development**&#x20;
 
@@ -84,3 +84,17 @@
 * Over 3 years of experience developing marketing strategies for tech startups and blockchain projects in Vancouver, Canada.
 * Extensive experience in copywriting for various advertising campaigns, with a specific focus on content and copywriting developments.
 * Actively involved in the crypto space, growing and engaging with trending projects and communities.
+
+![Community Lead ](../../.gitbook/assets/jordan-team-round.png)
+
+### Jordan Kwan&#x20;
+
+**Community Lead**&#x20;
+
+****[**LinkedIn**](https://www.linkedin.com/in/jordan-kwan/) **|** [**Twitter**](https://twitter.com/jordan\_\_xwg)****
+
+* More than half a decade of experience organically populating discord servers to thousands of users.
+*   Managed community servers for AAA games such as Minecraft, League of Legends and more.
+
+    Over 2 years of experience actively trading cryptocurrencies and NFTs with extensive knowledge of financial market trends and crypto communities.
+* Extensive experience in social media management and community engagement.
