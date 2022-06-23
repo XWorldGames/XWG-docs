@@ -61,7 +61,7 @@
 ## Fun
 
 * [👧 Dream Card Bimbos](fun/dream-card-bimbos.md)
-* [🎙 VR Landscape](fun/vr-landscape.md)
+* [🎙 Dream Idols](fun/dream-idols.md)
 * [🎲 Fungames](fun/game-hub.md)
 
 ## Tools
