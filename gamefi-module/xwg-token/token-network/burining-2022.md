@@ -27,14 +27,9 @@ Max burn limit of 49% token supply
 | <mark style="color:orange;">**Profit**</mark>            | Mystery Box    | [BSCScan](https://bscscan.com/address/0x282c154c533bef0f49de97be7a9ec491f1c94f56)                                            |
 |                                                          |                |                                                                                                                              |
 
-| Burning Date     | Burn TXN                                                                                              | $XWG           | % of Total Supply | Burning Category                         | Ref Period | Ref Price |
-| ---------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ----------------- | ---------------------------------------- | ---------- | --------- |
-| March 27th, 2022 | [TXN LINK](https://bscscan.com/tx/0x6cfa4e549baecb95477e9709dc633c28ea557514d203d47570a0b41a7b3244a0) | 25,962,830     | 0.26%             | <mark style="color:blue;">**A**</mark>   | Q1 2022    | $0.033    |
-| End of Q2        |                                                                                                       | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
-| **Total Burn**   |                                                                                                       | **61,518,386** |                   |                                          |            |           |
-
-| Circulating Supply  | Circulating Supply | % Circulating Supply |
-| ------------------- | ------------------ | -------------------- |
-| Before Burn Round 1 | 449,166,663        | 4.49%                |
-| After Burn          | 387,648,277        | 3.88%                |
+| Burning Date     | Burn TXN                                                                                               | $XWG           | % of Total Supply | Burning Category                         | Ref Period | Ref Price |
+| ---------------- | ------------------------------------------------------------------------------------------------------ | -------------- | ----------------- | ---------------------------------------- | ---------- | --------- |
+| March 27th, 2022 | [TXID LINK](https://bscscan.com/tx/0x6cfa4e549baecb95477e9709dc633c28ea557514d203d47570a0b41a7b3244a0) | 25,962,830     | 0.26%             | <mark style="color:blue;">**A**</mark>   | Q1 2022    | $0.033    |
+| June 30th, 2022  | [TXID LINK](https://bscscan.com/tx/0x094f288d7abc32aa95735a5ea7301938651a28fdbdbbb3f13f574bea6d76a3a6) | 35,555,556     | 0.36%             | <mark style="color:orange;">**B**</mark> | Q2-Q4 2021 | $0.045    |
+| **Total Burn**   |                                                                                                        | **61,518,386** |                   |                                          |            |           |
 
