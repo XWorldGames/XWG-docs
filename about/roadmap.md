@@ -29,23 +29,29 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 |         | X World Games - 1 Million Users Achievement                                                                                                 | ~~Completed~~  |
 |         | Marketplace 2.0                                                                                                                             | ~~Completed~~  |
 | Q4 2021 | Dream Card - Creation of Second Batch Dream Card Character IPs                                                                              | ~~Completed~~  |
-|         | Dream Card - 2.0 Alpha                                                                                                                      | ~~Completed~~  |
 |         | X World Games - Infrastructure for Blockchain Developers: Tools for landscape visualization and its adaptability for modifications ('mods') | ~~Completed~~  |
 |         | Marketplace - Pool Functions                                                                                                                | ~~Completed~~  |
-|         | X World Games - Avatar Customization Tool                                                                                                   | ~~Completed~~  |
 |         | DAO - Decentralized Community Launch                                                                                                        | ~~Completed~~  |
-| Q1 2022 | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
+| Q1 2022 | Dream Card - 2.0 Alpha                                                                                                                      | ~~Completed~~  |
 |         | Launch Game Hub for MiniGames App                                                                                                           | ~~Completed~~  |
-| Q2 2022 | Launch Avatar system for designers                                                                                                          | Coming Soon    |
-|         | Onboard new 3D Games to X World Games                                                                                                       | Coming Soon    |
-|         | Launch Dream CardV3                                                                                                                         | Coming Soon    |
-|         | Launch Dream Girls                                                                                                                          | Coming Soon    |
+|         | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
+|         | Burning Mechanism Introduced                                                                                                                | ~~Completed~~  |
+| Q2 2022 | P2E2S New Tokenomics                                                                                                                        | ~~Completed~~  |
+|         | BEP-1155 - LUCID asset                                                                                                                      | ~~Completed~~  |
+|         | Dream Card v1 - Ragnarok                                                                                                                    | ~~Completed~~  |
+|         | Dream Card v2 - Project Vapour                                                                                                              | ~~Completed~~  |
+|         | Dream Card v2 - Protect the World                                                                                                           | ~~Completed~~  |
+|         | Dream Card Crafting - Evolution                                                                                                             | ~~Completed~~  |
+| Q3 2022 | Dream Card Crafting -Fusion                                                                                                                 | Coming Soon    |
+|         | Lucid Box & Hero Shards                                                                                                                     | Coming Soon    |
+|         | Onboard new VR Games to X World Games                                                                                                       | Coming Soon    |
+|         | Dream Idols                                                                                                                                 | Coming Soon    |
+|         | Dream Card v3                                                                                                                               | Coming Soon    |
 |         | Release SAFU Fund for X-Wallet                                                                                                              | Coming Soon    |
-|         | Launch Game Assets (NFTs) borrowing and lending ​                                                                                           | Coming Soon    |
-| Q3 2022 | Launch 3D Rendering System in Cloud Demo                                                                                                    | Coming Soon    |
+|         | FunBox by BunBun ACG - Relaunch                                                                                                             | Coming Soon    |
+|         | Fellowship - Lease to Earn                                                                                                                  | Coming Soon    |
+| Q4 2022 | Dream Card v4                                                                                                                               | Coming Soon    |
 |         | Improve on-chain transaction speed and lower gas fee                                                                                        | Coming Soon    |
 |         | Launch Mining Terminal Apps                                                                                                                 | Coming Soon    |
-|         | Onboard 5 -10 popular games into X World Games through collaboration                                                                        | Coming Soon    |
-| Q4 2022 | Complete cross-chain trading for Marketplace                                                                                                | Coming Soon    |
 |         | Launch Metaverse Dream Concert                                                                                                              | Coming Soon    |
 
