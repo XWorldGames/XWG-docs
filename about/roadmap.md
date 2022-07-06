@@ -35,7 +35,7 @@ X World Games will be completing a gigantic platform infrastructure plan for the
 | Q1 2022 | Dream Card - 2.0 Alpha                                                                                                                      | ~~Completed~~  |
 |         | Launch Game Hub for MiniGames App                                                                                                           | ~~Completed~~  |
 |         | Launch X-Wallet                                                                                                                             | ~~Completed~~  |
-|         | Burning Mechanism Introduced                                                                                                                | ~~Completed~~  |
+|         | Burning Mechanism Introducing                                                                                                               | ~~Completed~~  |
 | Q2 2022 | P2E2S New Tokenomics                                                                                                                        | ~~Completed~~  |
 |         | BEP-1155 - LUCID asset                                                                                                                      | ~~Completed~~  |
 |         | Dream Card v1 - Ragnarok                                                                                                                    | ~~Completed~~  |
