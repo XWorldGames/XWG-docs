@@ -17,11 +17,11 @@
     * [🔥 Burning Mechanism](gamefi-module/xwg-token/token-network/README.md)
       * [🎆 Token Burning Info | 2022](gamefi-module/xwg-token/token-network/burining-2022.md)
     * [🌐 Multichain Network](gamefi-module/xwg-token/multichain-network.md)
-  * [🗃 GameFi NFTs](gamefi-module/gamefi-nfts/README.md)
-    * [♥ Dream Card](gamefi-module/gamefi-nfts/dream-card/README.md)
-      * [Genesis Sale #2740](gamefi-module/gamefi-nfts/dream-card/marketplace.md)
-    * [🃏 LUCID Token](gamefi-module/gamefi-nfts/token-network.md)
-    * [✨ Shard Token](gamefi-module/gamefi-nfts/shard-token.md)
+  * [🗃 NFTs](gamefi-module/nfts/README.md)
+    * [♥ Dream Card](gamefi-module/nfts/dream-card/README.md)
+      * [Genesis Sale #2740](gamefi-module/nfts/dream-card/marketplace.md)
+    * [🃏 LUCID Token](gamefi-module/nfts/token-network.md)
+    * [✨ Shard Token](gamefi-module/nfts/shard-token.md)
 
 ## Games
 
@@ -78,9 +78,6 @@
 
 ## Service
 
-* [🏆 Event Winners](service/support/README.md)
-  * [AirDrop Winner list](service/support/bug-hunter-program.md)
-  * [Bug Hunter Winner List](service/support/bug-hunter-winner-list.md)
 * [❓ FAQs](faq/README.md)
   * [I need support! Where can I contact you?](faq/i-need-support-where-can-i-contact-you.md)
   * [I lost my wallet! What will happen to my account?](faq/i-lost-my-wallet-what-will-happen-to-my-account.md)
@@ -89,8 +86,6 @@
   * [Do I need a crypto wallet to play games?](faq/do-i-need-a-crypto-wallet-to-play-games.md)
   * [How to claim Airdrop?](faq/airdrop-help.md)
   * [How To Connect MetaMask Wallet to The Binance Smart Chain?](faq/how-to-connect-metamask-wallet-to-the-binance-smart-chain.md)
-* [📖 Blockchain 101](service/blockchain-101/README.md)
-  * [BEP1155](service/blockchain-101/bep1155.md)
 * [👷 Join Us](join-us.md)
 * [📞 Contact Us](service/contact-us.md)
 * [👩💼 Customer Support](service/customer-support.md)
