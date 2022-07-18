@@ -20,8 +20,8 @@
   * [🗃 NFTs](gamefi-module/nfts/README.md)
     * [♥ Dream Card](gamefi-module/nfts/dream-card/README.md)
       * [Genesis Sale #2740](gamefi-module/nfts/dream-card/marketplace.md)
-    * [🃏 LUCID Token](gamefi-module/nfts/token-network.md)
-    * [✨ Shard Token](gamefi-module/nfts/shard-token.md)
+    * [🃏 LUCID](gamefi-module/nfts/token-network.md)
+    * [✨ Hero Shard](gamefi-module/nfts/hero-shard.md)
 
 ## Games
 
