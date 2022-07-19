@@ -1,4 +1,4 @@
-# 💎 LUCID
+# ♥ LUCID
 
 {% hint style="info" %}
 LUCID contract address: [https://bscscan.com/address/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/address/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)
