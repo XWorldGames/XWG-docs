@@ -22,7 +22,7 @@ The attributes(ATK, HP, Element, Skills) of the cards will depend on the **names
 
 **If the names of the cards are NOT the same**, then all attributes will be randomized on the resulting card (according to the name of the Evolved card)
 
-### Materials Needed Evolve my Dream Cards? <a href="#9ccf" id="9ccf"></a>
+### Materials Needed to Evolve my Dream Cards? <a href="#9ccf" id="9ccf"></a>
 
 ![](https://miro.medium.com/max/1400/1\*sxDrdNaO0ChJ0rAPyrHybQ.png)
 
