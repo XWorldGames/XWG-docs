@@ -2,11 +2,11 @@
 
 With the Dream Card Fusion system, X World Games players can combine the Dream Card Hero SHARDs they have obtained to create Dream Cards.
 
-**Mechanic:** Dream Card Fusion will allow players to collect Dream Card Hero SHARDs in order to craft their favourite Dream Cards.
+**Mechanism:** Dream Card Fusion will allow players to collect Dream Card Hero SHARDs in order to craft their favourite Dream Cards.
 
 **Rarities:** There will also be 5 levels of rarity available for SHARDs, similar to the rarities for Dream Cards (Common, Rare, Epic, Legendary, Myth).
 
-### Here is how the mechanic will work:
+### Here is how the crafting will work:
 
 1. Fusion can only occur using SHARDs of the **same hero and rarity.**
 2. After Fusion, one of the five Dream Card elements will be randomly assigned.
