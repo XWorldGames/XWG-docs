@@ -2,6 +2,10 @@
 
 With the Dream Card Evolution system, X World Games players will be able to evolve their Dream Cards to a higher quality by sacrificing a base amount of lower quality cards.
 
+**Mechanic:** Dream Card Evolution will allow players to be able to evolve their Dream Cards to a higher quality by sacrificing a base amount of lower quality cards.
+
+**Rarities:** Players will be able to obtain any Dream Card from Rare to Myth rarity (provided they have enough base cards for Evolution).
+
 ### Here is how the mechanic will work:
 
 NFT cards used in Evolution must have the same rarity; Dream Cards of different rarities can not be used.

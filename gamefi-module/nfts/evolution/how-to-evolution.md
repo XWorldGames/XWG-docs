@@ -4,10 +4,6 @@ description: A Guide to Dream Card Evolution - Dream Card NFT Card Crafting
 
 # How-To Evolution
 
-**Mechanic:** Dream Card Evolution will allow players to be able to evolve their Dream Cards to a higher quality by sacrificing a base amount of lower quality cards.
-
-**Rarities:** Players will be able to obtain any Dream Card from Rare to Myth rarity (provided they have enough base cards for Evolution).
-
 **Evolving your Dream Cards:**
 
 Access the Dream Card Evolution page by going to https://xwg.games, clicking “Fusion” on our navigation bar at the top, and then selecting “Card Evolution”.

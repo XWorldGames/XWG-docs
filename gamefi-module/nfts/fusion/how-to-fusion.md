@@ -4,10 +4,6 @@ description: A Guide to Dream Card Fusion - Dream Card NFT Card Crafting
 
 # How-To Fusion
 
-**Mechanic:** Dream Card Fusion will allow players to collect Dream Card Hero SHARDs in order to craft their favourite Dream Cards.
-
-**Rarities:** There will also be 5 levels of rarity available for SHARDs, similar to the rarities for Dream Cards (Common, Rare, Epic, Legendary, Myth).
-
 **Fusing your Dream Cards:**
 
 Access the Dream Card Evolution page by going to https://xwg.games, clicking “Fusion” on our navigation bar at the top, and then selecting “Card Fusion”.
