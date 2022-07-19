@@ -20,8 +20,13 @@
   * [🗃 NFTs](gamefi-module/nfts/README.md)
     * [♥ Dream Card](gamefi-module/nfts/dream-card/README.md)
       * [Genesis Sale #2740](gamefi-module/nfts/dream-card/marketplace.md)
-    * [🃏 LUCID](gamefi-module/nfts/token-network.md)
-    * [✨ Hero Shard](gamefi-module/nfts/hero-shard.md)
+    * [💎 LUCID](gamefi-module/nfts/token-network.md)
+    * [✨ SHARD](gamefi-module/nfts/shard.md)
+    * [🔁 Evolution](gamefi-module/nfts/evolution/README.md)
+      * [How-To Evolution](gamefi-module/nfts/evolution/how-to-evolution.md)
+    * [🧩 Fusion](gamefi-module/nfts/fusion/README.md)
+      * [How-To Fusion](gamefi-module/nfts/fusion/how-to-fusion.md)
+    * [🎁 LUCID Chests](gamefi-module/nfts/lucid-chests.md)
 
 ## Games
 

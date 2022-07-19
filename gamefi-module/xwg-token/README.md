@@ -30,19 +30,19 @@ Players and investors can now acquire $XWG tokens from multiple third-party CEX/
 
 <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> [Bybit](https://www.bybit.com/)
 
-<img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
+<img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" data-size="line"> [Gate.io](https://www.gate.io/trade/xwg\_usdt)
 
-<img src="../../.gitbook/assets/image (18) (1).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
+<img src="../../.gitbook/assets/image (18) (1) (1).png" alt="" data-size="line"> [Hoo](https://hoo.com/spot/xwg-usdt)
 
-<img src="../../.gitbook/assets/image (19).png" alt="" data-size="line"> [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
+<img src="../../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> [Hotbit](https://www.hotbit.io/exchange?symbol=XWG\_USDT)
 
-<img src="../../.gitbook/assets/image (20) (1).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
+<img src="../../.gitbook/assets/image (20) (1) (1).png" alt="" data-size="line"> [KuCoin](https://www.kucoin.com/price/XWG)&#x20;
 
-![](<../../.gitbook/assets/image (19) (1).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
+![](<../../.gitbook/assets/image (19) (1) (1).png>) [LATOKEN](https://latoken.com/exchange/XWG\_USDT)
 
 <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> [LBank](https://www.lbank.info/exchange/xwg/usdt)
 
-![](<../../.gitbook/assets/image (14).png>) [MEXC](https://www.mexc.com/exchange/XWG\_USDT)
+![](<../../.gitbook/assets/image (14) (1).png>) [MEXC](https://www.mexc.com/exchange/XWG\_USDT)
 
 <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> [MDEX](https://info.mdex.com/#/tokens/0x6b23c89196deb721e6fd9726e6c76e4810a464bc)
 

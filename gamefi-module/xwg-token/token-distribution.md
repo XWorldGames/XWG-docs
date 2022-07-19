@@ -4,7 +4,7 @@ $XWG has a total supply of **10,000,000,000** tokens. Here is a breakdown of how
 
 
 
-![$XWG - 10B Total Supply](<../../.gitbook/assets/image (17).png>)
+![$XWG - 10B Total Supply](<../../.gitbook/assets/image (17) (1).png>)
 
 
 
