@@ -30,5 +30,5 @@
 | Dream Card V2 Lottery             | [https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d](https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d)               |
 | Dream Card V2 Talent              | [https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89](https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89)               |
 | LUCID                             | [https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)               |
-|                                   |                                                                                                                                                            |
+| Hero Shard                        | [https://bscscan.com/address/0x1Cd0eC0dF47f11E23f2C24300720aDf9dD596A62](https://bscscan.com/address/0x1Cd0eC0dF47f11E23f2C24300720aDf9dD596A62)           |
 
