@@ -1,8 +1,9 @@
 # 📄 NFT Smart Contracts
 
-| Dream Card                        | Smart Contract                                                                                                                                             |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 | Dream Card                        | [https://bscscan.com/token/0xe6965b4f189dbdb2bd65e60abaeb531b6fe9580b](https://bscscan.com/token/0xe6965b4f189dbdb2bd65e60abaeb531b6fe9580b)               |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Random Number                     | [https://bscscan.com/address/0xe59E1b014895518b3815eB2845234d4844bC697C](https://bscscan.com/address/0xe59E1b014895518b3815eB2845234d4844bC697C)           |
 | Role Random                       | [https://bscscan.com/address/0xD1290e043305678C64415A28DCba1A46c52392B8](https://bscscan.com/address/0xD1290e043305678C64415A28DCba1A46c52392B8)           |
 | Role                              | [https://bscscan.com/address/0x7B44c5891E2aC1e4e8757221066FBBB4cF19b74b](https://bscscan.com/address/0x7B44c5891E2aC1e4e8757221066FBBB4cF19b74b)           |
@@ -28,5 +29,6 @@
 | Dream Card V2 Equipment           | [https://bscscan.com/token/0xe15d12D29dfb8a0020a59492886A36CAa90DB724](https://bscscan.com/token/0xe15d12D29dfb8a0020a59492886A36CAa90DB724)               |
 | Dream Card V2 Lottery             | [https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d](https://bscscan.com/token/0xC4D4e12D1C3Fe8E053453F95eD87c24C73F2838d)               |
 | Dream Card V2 Talent              | [https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89](https://bscscan.com/token/0x3C506da0e74cE74ec23a9f0316013f751e431B89)               |
-| Dream Card LUCID                  | [https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)               |
+| LUCID                             | [https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156](https://bscscan.com/token/0x93a1c932f2dEc6A3CA55A8b3eDd5D541958BD156)               |
+|                                   |                                                                                                                                                            |
 
